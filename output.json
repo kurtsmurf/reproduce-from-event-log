@@ -1,0 +1,4641 @@
+[
+  {
+    "playbackRate": 1.4142135623730951,
+    "pan": -0.796900749206543,
+    "filename": "badknock.wav",
+    "startTime": 0,
+    "stopTime": 7.093696145124716
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.9754005074501038,
+    "filename": "badknock.wav",
+    "startTime": 7.1053061224489795,
+    "stopTime": 7.267845804988662
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.03650990128517151,
+    "filename": "badknock.wav",
+    "startTime": 7.534875283446712,
+    "stopTime": 11.551927437641723
+  },
+  {
+    "playbackRate": 1.2599210498948732,
+    "pan": 0.8886061906814575,
+    "filename": "badknock.wav",
+    "startTime": 11.57514739229025,
+    "stopTime": 11.760907029478458
+  },
+  {
+    "playbackRate": 1.4142135623730951,
+    "pan": -0.8256708383560181,
+    "filename": "badknock.wav",
+    "startTime": 11.92344671201814,
+    "stopTime": 15.383219954648526
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.8483116626739502,
+    "filename": "badknock.wav",
+    "startTime": 15.371609977324264,
+    "stopTime": 15.499319727891157
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.1688777059316635,
+    "filename": "badknock.wav",
+    "startTime": 15.66185941043084,
+    "stopTime": 63.285986394557824
+  },
+  {
+    "playbackRate": 2.1189261887185906,
+    "pan": 0.25195929408073425,
+    "filename": "badfragment.wav",
+    "startTime": 20.816689342403627,
+    "stopTime": 30.499410430839003
+  },
+  {
+    "playbackRate": 2.1189261887185906,
+    "pan": 0.5456874370574951,
+    "filename": "badloop.wav",
+    "startTime": 30.882539682539683,
+    "stopTime": 31.973877551020408
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.43628451228141785,
+    "filename": "badloop.wav",
+    "startTime": 32.066757369614514,
+    "stopTime": 32.8562358276644
+  },
+  {
+    "playbackRate": 1.7817974362806788,
+    "pan": 0.9685245752334595,
+    "filename": "badloop.wav",
+    "startTime": 32.82140589569161,
+    "stopTime": 33.6108843537415
+  },
+  {
+    "playbackRate": 1.887748625363387,
+    "pan": 0.3275604546070099,
+    "filename": "badloop.wav",
+    "startTime": 33.645714285714284,
+    "stopTime": 35.50331065759637
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.563909649848938,
+    "filename": "badloop.wav",
+    "startTime": 35.514920634920635,
+    "stopTime": 38.963083900226756
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": -0.631365954875946,
+    "filename": "badloop.wav",
+    "startTime": 39.05596371882086,
+    "stopTime": 40.04281179138322
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": -0.9992098808288574,
+    "filename": "badloop.wav",
+    "startTime": 40.12408163265306,
+    "stopTime": 41.33151927437642
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": -0.6089253425598145,
+    "filename": "badloop.wav",
+    "startTime": 41.40117913832199,
+    "stopTime": 42.504126984126984
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": -0.16284123063087463,
+    "filename": "badloop.wav",
+    "startTime": 42.58539682539683,
+    "stopTime": 43.6302947845805
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": -0.03926178440451622,
+    "filename": "badloop.wav",
+    "startTime": 43.699954648526074,
+    "stopTime": 45.186031746031745
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.8710696697235107,
+    "filename": "badloop.wav",
+    "startTime": 45.27891156462585,
+    "stopTime": 46.9275283446712
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.8827778100967407,
+    "filename": "badloop.wav",
+    "startTime": 47.03201814058957,
+    "stopTime": 48.146575963718824
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.7620036602020264,
+    "filename": "badloop.wav",
+    "startTime": 48.22784580498866,
+    "stopTime": 49.14503401360544
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": -0.22255147993564606,
+    "filename": "badloop.wav",
+    "startTime": 48.22784580498866,
+    "stopTime": 49.11020408163265
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.695550262928009,
+    "filename": "badloop.wav",
+    "startTime": 49.21469387755102,
+    "stopTime": 50.67755102040816
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.0836055725812912,
+    "filename": "badloop.wav",
+    "startTime": 49.36562358276644,
+    "stopTime": 50.6659410430839
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.03483053296804428,
+    "filename": "badloop.wav",
+    "startTime": 49.85324263038549,
+    "stopTime": 50.538231292517004
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": -0.7224499583244324,
+    "filename": "badloop.wav",
+    "startTime": 50.63111111111111,
+    "stopTime": 55.21705215419501
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": -0.6621707677841187,
+    "filename": "badloop.wav",
+    "startTime": 50.770430839002266,
+    "stopTime": 55.251882086167804
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": -0.5032960772514343,
+    "filename": "badloop.wav",
+    "startTime": 50.93297052154195,
+    "stopTime": 55.263492063492066
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.40376368165016174,
+    "filename": "badloop.wav",
+    "startTime": 55.3795918367347,
+    "stopTime": 59.965532879818596
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.44340139627456665,
+    "filename": "badloop.wav",
+    "startTime": 55.43764172335601,
+    "stopTime": 59.98875283446712
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": -0.8085651397705078,
+    "filename": "badloop.wav",
+    "startTime": 55.576961451247165,
+    "stopTime": 59.953922902494334
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": -0.03514746204018593,
+    "filename": "badlooptwo.wav",
+    "startTime": 60.10485260770975,
+    "stopTime": 65.09714285714286
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.026423662900924683,
+    "filename": "badlooptwo.wav",
+    "startTime": 60.1512925170068,
+    "stopTime": 65.15519274376418
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.14109884202480316,
+    "filename": "badlooptwo.wav",
+    "startTime": 60.232562358276645,
+    "stopTime": 65.16680272108843
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.9367215633392334,
+    "filename": "pump2.wav",
+    "startTime": 65.23646258503402,
+    "stopTime": 66.96634920634921
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": -0.5672470927238464,
+    "filename": "pump2.wav",
+    "startTime": 65.31773242630385,
+    "stopTime": 67.3146485260771
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": -0.03408891335129738,
+    "filename": "pump2.wav",
+    "startTime": 65.42222222222222,
+    "stopTime": 67.29142857142857
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": -0.4735732078552246,
+    "filename": "pump2.wav",
+    "startTime": 67.0940589569161,
+    "stopTime": 68.76589569160998
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": -0.8793136477470398,
+    "filename": "pump2.wav",
+    "startTime": 67.1869387755102,
+    "stopTime": 68.94004535147393
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": -0.5165232419967651,
+    "filename": "pump2.wav",
+    "startTime": 68.61496598639455,
+    "stopTime": 70.60027210884354
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": -0.34425774216651917,
+    "filename": "pump2.wav",
+    "startTime": 68.80072562358276,
+    "stopTime": 70.63510204081632
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.12986135482788086,
+    "filename": "pump2.wav",
+    "startTime": 70.50739229024943,
+    "stopTime": 72.79455782312925
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.4235445261001587,
+    "filename": "pump2.wav",
+    "startTime": 70.50739229024943,
+    "stopTime": 70.62349206349207
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.552645206451416,
+    "filename": "pump2.wav",
+    "startTime": 70.64671201814059,
+    "stopTime": 72.79455782312925
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.5674237608909607,
+    "filename": "pump2.wav",
+    "startTime": 72.56235827664399,
+    "stopTime": 72.64362811791383
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.8879926204681396,
+    "filename": "pump2.wav",
+    "startTime": 72.70167800453515,
+    "stopTime": 74.68698412698413
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": -0.5757606029510498,
+    "filename": "pump2.wav",
+    "startTime": 72.82938775510205,
+    "stopTime": 74.69859410430838
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.0036466787569224834,
+    "filename": "pump2.wav",
+    "startTime": 74.62893424036281,
+    "stopTime": 77.05541950113378
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": -0.44522690773010254,
+    "filename": "pump2.wav",
+    "startTime": 74.7566439909297,
+    "stopTime": 77.04380952380953
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.7056026458740234,
+    "filename": "pump2.wav",
+    "startTime": 76.92770975056689,
+    "stopTime": 79.00589569160998
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.08206059783697128,
+    "filename": "pump2.wav",
+    "startTime": 77.03219954648526,
+    "stopTime": 79.01750566893423
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": -0.7456508874893188,
+    "filename": "pump2.wav",
+    "startTime": 78.95945578231293,
+    "stopTime": 82.47727891156462
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.08278372883796692,
+    "filename": "pump2.wav",
+    "startTime": 78.97106575963718,
+    "stopTime": 82.4540589569161
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": -0.0916312038898468,
+    "filename": "badbleh.wav",
+    "startTime": 82.53532879818594,
+    "stopTime": 83.75437641723356
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": -0.12487231194972992,
+    "filename": "badbleh.wav",
+    "startTime": 82.61659863945579,
+    "stopTime": 83.59183673469387
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.7374617457389832,
+    "filename": "badbongos.wav",
+    "startTime": 83.77759637188208,
+    "stopTime": 84.70639455782313
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.302990198135376,
+    "filename": "badbongos.wav",
+    "startTime": 83.90530612244898,
+    "stopTime": 84.71800453514739
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.47789329290390015,
+    "filename": "badboop.wav",
+    "startTime": 84.9037641723356,
+    "stopTime": 85.6584126984127
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.840104341506958,
+    "filename": "badboop.wav",
+    "startTime": 85.03147392290249,
+    "stopTime": 85.64680272108843
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.30368685722351074,
+    "filename": "badsnare.wav",
+    "startTime": 85.79773242630385,
+    "stopTime": 86.45950113378684
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.4594094753265381,
+    "filename": "badsnare.wav",
+    "startTime": 85.8441723356009,
+    "stopTime": 86.45950113378684
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": -0.8523452281951904,
+    "filename": "badbip.wav",
+    "startTime": 86.73814058956916,
+    "stopTime": 87.58566893424036
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": -0.6971689462661743,
+    "filename": "badbip.wav",
+    "startTime": 86.78458049886622,
+    "stopTime": 87.5740589569161
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": -0.9217666983604431,
+    "filename": "badbip.wav",
+    "startTime": 87.86430839002267,
+    "stopTime": 88.59573696145125
+  },
+  {
+    "playbackRate": 1.4983070768766815,
+    "pan": -0.6768307685852051,
+    "filename": "badbip.wav",
+    "startTime": 88.13133786848073,
+    "stopTime": 88.2009977324263
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.5838502049446106,
+    "filename": "badbip.wav",
+    "startTime": 88.24743764172335,
+    "stopTime": 88.53768707482993
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.022684188559651375,
+    "filename": "badrise.wav",
+    "startTime": 88.92081632653061,
+    "stopTime": 89.66385487528345
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.104152150452137,
+    "filename": "badrise.wav",
+    "startTime": 89.02530612244898,
+    "stopTime": 89.68707482993197
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": -0.03936208412051201,
+    "filename": "pump.wav",
+    "startTime": 89.94249433106576,
+    "stopTime": 90.66231292517007
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": -0.9911355972290039,
+    "filename": "pump.wav",
+    "startTime": 89.94249433106576,
+    "stopTime": 90.69714285714285
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": -0.49405544996261597,
+    "filename": "badclick.wav",
+    "startTime": 90.87129251700681,
+    "stopTime": 91.61433106575964
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.7314926385879517,
+    "filename": "badclick.wav",
+    "startTime": 90.87129251700681,
+    "stopTime": 91.6259410430839
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.6148515343666077,
+    "filename": "greevy3.wav",
+    "startTime": 91.81170068027211,
+    "stopTime": 93.64607709750567
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": -0.2243429571390152,
+    "filename": "greevy3.wav",
+    "startTime": 91.81170068027211,
+    "stopTime": 93.63446712018141
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.5539265871047974,
+    "filename": "greevy3.wav",
+    "startTime": 94.23818594104308,
+    "stopTime": 94.66775510204081
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.008473907597362995,
+    "filename": "greevy3.wav",
+    "startTime": 94.23818594104308,
+    "stopTime": 94.66775510204081
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": 0.23778244853019714,
+    "filename": "greevy3.wav",
+    "startTime": 94.23818594104308,
+    "stopTime": 94.70258503401361
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": -0.05753269046545029,
+    "filename": "greevy3.wav",
+    "startTime": 94.24979591836734,
+    "stopTime": 94.69097505668934
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.9978578090667725,
+    "filename": "greevy3.wav",
+    "startTime": 94.79546485260771,
+    "stopTime": 95.08571428571429
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.08447431027889252,
+    "filename": "greevy3.wav",
+    "startTime": 94.81868480725623,
+    "stopTime": 95.20181405895691
+  },
+  {
+    "playbackRate": 1.5874010519681994,
+    "pan": -0.2765805423259735,
+    "filename": "greevy3.wav",
+    "startTime": 94.8302947845805,
+    "stopTime": 95.0508843537415
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.8213011622428894,
+    "filename": "greevy3.wav",
+    "startTime": 95.22503401360544,
+    "stopTime": 96.67628117913833
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.7501228451728821,
+    "filename": "greevy3.wav",
+    "startTime": 95.22503401360544,
+    "stopTime": 96.78077097505668
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.7666318416595459,
+    "filename": "greevy3.wav",
+    "startTime": 95.31791383219955,
+    "stopTime": 96.36281179138322
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.7562201023101807,
+    "filename": "greevy3.wav",
+    "startTime": 95.31791383219955,
+    "stopTime": 96.67628117913833
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.23395362496376038,
+    "filename": "greevy3.wav",
+    "startTime": 96.44408163265307,
+    "stopTime": 96.8736507936508
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.4380492568016052,
+    "filename": "greevy3.wav",
+    "startTime": 96.80399092970522,
+    "stopTime": 99.16081632653061
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.40077152848243713,
+    "filename": "greevy3.wav",
+    "startTime": 96.94331065759637,
+    "stopTime": 99.25369614512472
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.6793840527534485,
+    "filename": "greevy3.wav",
+    "startTime": 97.07102040816326,
+    "stopTime": 99.07954648526078
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.18873000144958496,
+    "filename": "greevy3.wav",
+    "startTime": 97.14068027210884,
+    "stopTime": 99.21886621315193
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.07406168431043625,
+    "filename": "greevy3.wav",
+    "startTime": 99.21886621315193,
+    "stopTime": 101.50603174603175
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.3088459372520447,
+    "filename": "greevy3.wav",
+    "startTime": 99.34657596371882,
+    "stopTime": 101.50603174603175
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.7528466582298279,
+    "filename": "greevy3.wav",
+    "startTime": 99.38140589569161,
+    "stopTime": 101.51764172335601
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.5318278074264526,
+    "filename": "greevy3.wav",
+    "startTime": 99.53233560090703,
+    "stopTime": 101.50603174603175
+  },
+  {
+    "playbackRate": 1.122462048309373,
+    "pan": -0.82518070936203,
+    "filename": "greevy3.wav",
+    "startTime": 101.57569160997733,
+    "stopTime": 103.64226757369615
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.7161886692047119,
+    "filename": "greevy3.wav",
+    "startTime": 101.6453514739229,
+    "stopTime": 103.64226757369615
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.8994355797767639,
+    "filename": "greevy3.wav",
+    "startTime": 101.68308390022676,
+    "stopTime": 103.64226757369615
+  },
+  {
+    "playbackRate": 2.5198420997897464,
+    "pan": -0.317635178565979,
+    "filename": "greevy3.wav",
+    "startTime": 101.7730612244898,
+    "stopTime": 103.64226757369615
+  },
+  {
+    "playbackRate": 1.122462048309373,
+    "pan": -0.5012222528457642,
+    "filename": "greevy3.wav",
+    "startTime": 103.71192743764172,
+    "stopTime": 105.63918367346939
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.5619882941246033,
+    "filename": "greevy3.wav",
+    "startTime": 103.74675736961451,
+    "stopTime": 105.69723356009071
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.36456742882728577,
+    "filename": "greevy3.wav",
+    "startTime": 103.81641723356009,
+    "stopTime": 105.66240362811791
+  },
+  {
+    "playbackRate": 2.5198420997897464,
+    "pan": 0.5154239535331726,
+    "filename": "greevy3.wav",
+    "startTime": 103.83963718820861,
+    "stopTime": 105.67401360544218
+  },
+  {
+    "playbackRate": 1.122462048309373,
+    "pan": 0.7656818628311157,
+    "filename": "greevy3.wav",
+    "startTime": 105.73206349206349,
+    "stopTime": 107.66802721088435
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.012509258463978767,
+    "filename": "greevy3.wav",
+    "startTime": 105.79011337868481,
+    "stopTime": 107.70575963718821
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.3418046832084656,
+    "filename": "greevy3.wav",
+    "startTime": 105.83655328798186,
+    "stopTime": 107.67092970521541
+  },
+  {
+    "playbackRate": 2.5198420997897464,
+    "pan": 0.7948846220970154,
+    "filename": "greevy3.wav",
+    "startTime": 105.89460317460318,
+    "stopTime": 107.68253968253968
+  },
+  {
+    "playbackRate": 1.122462048309373,
+    "pan": -0.3484949767589569,
+    "filename": "greevy3.wav",
+    "startTime": 107.77541950113378,
+    "stopTime": 109.27310657596372
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.2647455036640167,
+    "filename": "greevy3.wav",
+    "startTime": 107.77541950113378,
+    "stopTime": 109.27310657596372
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.42155390977859497,
+    "filename": "greevy3.wav",
+    "startTime": 107.84507936507937,
+    "stopTime": 109.37759637188209
+  },
+  {
+    "playbackRate": 2.5198420997897464,
+    "pan": 0.30105775594711304,
+    "filename": "greevy3.wav",
+    "startTime": 107.90312925170068,
+    "stopTime": 109.36598639455782
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.2921988368034363,
+    "filename": "greevy2.wav",
+    "startTime": 109.40081632653062,
+    "stopTime": 109.47047619047619
+  },
+  {
+    "playbackRate": 1.122462048309373,
+    "pan": -0.6728895306587219,
+    "filename": "greevy2.wav",
+    "startTime": 109.48208616780046,
+    "stopTime": 111.2584126984127
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.38276833295822144,
+    "filename": "greevy2.wav",
+    "startTime": 109.60979591836735,
+    "stopTime": 111.24680272108843
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.2618407607078552,
+    "filename": "greevy2.wav",
+    "startTime": 109.63301587301588,
+    "stopTime": 111.28163265306122
+  },
+  {
+    "playbackRate": 2.5198420997897464,
+    "pan": -0.3082602620124817,
+    "filename": "greevy2.wav",
+    "startTime": 109.64462585034013,
+    "stopTime": 111.28163265306122
+  },
+  {
+    "playbackRate": 1.122462048309373,
+    "pan": -0.053076863288879395,
+    "filename": "greevy2.wav",
+    "startTime": 111.3512925170068,
+    "stopTime": 112.99990929705216
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.7653951048851013,
+    "filename": "greevy2.wav",
+    "startTime": 111.36580498866213,
+    "stopTime": 112.99990929705216
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.0024297465570271015,
+    "filename": "greevy2.wav",
+    "startTime": 111.39773242630386,
+    "stopTime": 113.03473922902495
+  },
+  {
+    "playbackRate": 2.5198420997897464,
+    "pan": 0.1250486522912979,
+    "filename": "greevy2.wav",
+    "startTime": 111.43256235827664,
+    "stopTime": 113.02312925170068
+  },
+  {
+    "playbackRate": 1.122462048309373,
+    "pan": 0.12510430812835693,
+    "filename": "greevy2.wav",
+    "startTime": 113.25532879818594,
+    "stopTime": 114.8691156462585
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.5095915198326111,
+    "filename": "greevy2.wav",
+    "startTime": 113.2669387755102,
+    "stopTime": 114.89233560090703
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.8804370760917664,
+    "filename": "greevy2.wav",
+    "startTime": 113.29015873015874,
+    "stopTime": 114.8691156462585
+  },
+  {
+    "playbackRate": 2.5198420997897464,
+    "pan": -0.0249661672860384,
+    "filename": "greevy2.wav",
+    "startTime": 113.29015873015874,
+    "stopTime": 114.8691156462585
+  },
+  {
+    "playbackRate": 1.122462048309373,
+    "pan": 0.5959232449531555,
+    "filename": "greevy2.wav",
+    "startTime": 115.0548752834467,
+    "stopTime": 119.17641723356009
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.17769911885261536,
+    "filename": "greevy2.wav",
+    "startTime": 115.07809523809524,
+    "stopTime": 121.19655328798186
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.8550240397453308,
+    "filename": "greevy2.wav",
+    "startTime": 115.07809523809524,
+    "stopTime": 119.15319727891156
+  },
+  {
+    "playbackRate": 2.5198420997897464,
+    "pan": -0.2838776409626007,
+    "filename": "greevy2.wav",
+    "startTime": 115.14775510204082,
+    "stopTime": 119.12997732426304
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.32092973589897156,
+    "filename": "greevy2.wav",
+    "startTime": 119.2344671201814,
+    "stopTime": 121.06884353741496
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.35224786400794983,
+    "filename": "greevy2.wav",
+    "startTime": 119.31573696145125,
+    "stopTime": 121.25460317460318
+  },
+  {
+    "playbackRate": 2,
+    "pan": 0.8021782636642456,
+    "filename": "greevy2.wav",
+    "startTime": 119.38539682539682,
+    "stopTime": 119.95428571428572
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.7331677675247192,
+    "filename": "greevy2.wav",
+    "startTime": 120.05877551020409,
+    "stopTime": 121.26621315192743
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.7132246494293213,
+    "filename": "greevy.wav",
+    "startTime": 121.39392290249432,
+    "stopTime": 127.38467120181406
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.8742222785949707,
+    "filename": "greevy.wav",
+    "startTime": 121.39392290249432,
+    "stopTime": 127.3730612244898
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.4793301820755005,
+    "filename": "greevy.wav",
+    "startTime": 121.45197278911564,
+    "stopTime": 127.3730612244898
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.9897688031196594,
+    "filename": "greevy.wav",
+    "startTime": 121.57968253968254,
+    "stopTime": 127.3730612244898
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.04133325070142746,
+    "filename": "greevy.wav",
+    "startTime": 127.4659410430839,
+    "stopTime": 127.86068027210884
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.519081175327301,
+    "filename": "greevy.wav",
+    "startTime": 127.4659410430839,
+    "stopTime": 127.86068027210884
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.400576114654541,
+    "filename": "greevy.wav",
+    "startTime": 127.4659410430839,
+    "stopTime": 127.83746031746031
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.6224496960639954,
+    "filename": "greevy.wav",
+    "startTime": 127.4659410430839,
+    "stopTime": 127.86068027210884
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.06961440294981003,
+    "filename": "greevy.wav",
+    "startTime": 127.9071201814059,
+    "stopTime": 128.29024943310657
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.3293192684650421,
+    "filename": "greevy.wav",
+    "startTime": 127.9071201814059,
+    "stopTime": 128.3134693877551
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.36503446102142334,
+    "filename": "greevy.wav",
+    "startTime": 127.93034013605443,
+    "stopTime": 128.33668934240362
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.753715991973877,
+    "filename": "greevy.wav",
+    "startTime": 127.93034013605443,
+    "stopTime": 128.3134693877551
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.21556691825389862,
+    "filename": "greevy.wav",
+    "startTime": 128.37151927437642,
+    "stopTime": 134.33904761904762
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.14446689188480377,
+    "filename": "greevy.wav",
+    "startTime": 128.37151927437642,
+    "stopTime": 134.3738775510204
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.5150535702705383,
+    "filename": "greevy.wav",
+    "startTime": 128.3831292517007,
+    "stopTime": 134.36226757369616
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.508818507194519,
+    "filename": "greevy.wav",
+    "startTime": 128.3831292517007,
+    "stopTime": 134.36226757369616
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.43385130167007446,
+    "filename": "greevy.wav",
+    "startTime": 134.443537414966,
+    "stopTime": 134.86149659863946
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.5159457325935364,
+    "filename": "greevy.wav",
+    "startTime": 134.443537414966,
+    "stopTime": 134.83827664399092
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.8903325796127319,
+    "filename": "greevy.wav",
+    "startTime": 134.443537414966,
+    "stopTime": 134.86149659863946
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.8339149355888367,
+    "filename": "greevy.wav",
+    "startTime": 134.443537414966,
+    "stopTime": 134.83827664399092
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.44061407446861267,
+    "filename": "greevy.wav",
+    "startTime": 134.93115646258502,
+    "stopTime": 135.32589569161
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.7941309809684753,
+    "filename": "greevy.wav",
+    "startTime": 134.93115646258502,
+    "stopTime": 135.3491156462585
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.8383001685142517,
+    "filename": "greevy.wav",
+    "startTime": 134.93115646258502,
+    "stopTime": 135.3491156462585
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.6471611857414246,
+    "filename": "greevy.wav",
+    "startTime": 134.93696145124716,
+    "stopTime": 135.32589569161
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.6812565326690674,
+    "filename": "greevy.wav",
+    "startTime": 135.39555555555555,
+    "stopTime": 141.02639455782312
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.5266241431236267,
+    "filename": "greevy.wav",
+    "startTime": 135.39555555555555,
+    "stopTime": 141.01478458049885
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.49693164229393005,
+    "filename": "greevy.wav",
+    "startTime": 135.41877551020409,
+    "stopTime": 140.67809523809524
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.8797668218612671,
+    "filename": "greevy.wav",
+    "startTime": 135.43038548752835,
+    "stopTime": 141.04961451247166
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.5577477216720581,
+    "filename": "greevy.wav",
+    "startTime": 140.70131519274378,
+    "stopTime": 141.02639455782312
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.3065532147884369,
+    "filename": "greevy.wav",
+    "startTime": 141.08444444444444,
+    "stopTime": 141.50240362811792
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.6192600131034851,
+    "filename": "greevy.wav",
+    "startTime": 141.08444444444444,
+    "stopTime": 141.50240362811792
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.24028991162776947,
+    "filename": "greevy.wav",
+    "startTime": 141.10766439909298,
+    "stopTime": 141.50240362811792
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.2654550075531006,
+    "filename": "greevy.wav",
+    "startTime": 141.10766439909298,
+    "stopTime": 141.49079365079365
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.6509194374084473,
+    "filename": "greevy.wav",
+    "startTime": 141.56045351473924,
+    "stopTime": 141.95519274376417
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.693581759929657,
+    "filename": "greevy.wav",
+    "startTime": 141.56045351473924,
+    "stopTime": 141.95519274376417
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.6361203789710999,
+    "filename": "greevy.wav",
+    "startTime": 141.57206349206348,
+    "stopTime": 141.95519274376417
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.5801123976707458,
+    "filename": "greevy.wav",
+    "startTime": 141.57206349206348,
+    "stopTime": 142.0132426303855
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.38131746649742126,
+    "filename": "greevy.wav",
+    "startTime": 142.0132426303855,
+    "stopTime": 142.45442176870748
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.37966495752334595,
+    "filename": "greevy.wav",
+    "startTime": 142.0132426303855,
+    "stopTime": 142.4195918367347
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.3787532448768616,
+    "filename": "greevy.wav",
+    "startTime": 142.02485260770976,
+    "stopTime": 142.4428117913832
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.11817227303981781,
+    "filename": "greevy.wav",
+    "startTime": 142.04807256235827,
+    "stopTime": 142.4428117913832
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.37547051906585693,
+    "filename": "greevy.wav",
+    "startTime": 142.49795918367346,
+    "stopTime": 144.2307482993197
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.32509174942970276,
+    "filename": "greevy.wav",
+    "startTime": 142.5124716553288,
+    "stopTime": 144.2307482993197
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.9208447933197021,
+    "filename": "greevy.wav",
+    "startTime": 142.5124716553288,
+    "stopTime": 144.2307482993197
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.7862644791603088,
+    "filename": "greevy.wav",
+    "startTime": 142.52408163265306,
+    "stopTime": 144.2307482993197
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.9296870231628418,
+    "filename": "greevy.wav",
+    "startTime": 144.3004081632653,
+    "stopTime": 146.0302947845805
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.8879947662353516,
+    "filename": "greevy.wav",
+    "startTime": 144.3004081632653,
+    "stopTime": 146.0302947845805
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.7906820774078369,
+    "filename": "greevy.wav",
+    "startTime": 144.3004081632653,
+    "stopTime": 144.34684807256235
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.1613367795944214,
+    "filename": "greevy.wav",
+    "startTime": 144.33523809523808,
+    "stopTime": 146.0302947845805
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.883194088935852,
+    "filename": "greevy.wav",
+    "startTime": 144.3700680272109,
+    "stopTime": 146.01868480725625
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.626105010509491,
+    "filename": "greevy.wav",
+    "startTime": 146.11156462585035,
+    "stopTime": 146.9126530612245
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.9325413107872009,
+    "filename": "greevy.wav",
+    "startTime": 146.11156462585035,
+    "stopTime": 146.90104308390022
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.8559176325798035,
+    "filename": "greevy.wav",
+    "startTime": 146.11156462585035,
+    "stopTime": 146.90104308390022
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.4070604741573334,
+    "filename": "greevy.wav",
+    "startTime": 146.11156462585035,
+    "stopTime": 146.93587301587303
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.7446566820144653,
+    "filename": "greevy.wav",
+    "startTime": 146.98231292517008,
+    "stopTime": 147.818231292517
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.5957197546958923,
+    "filename": "greevy.wav",
+    "startTime": 146.98231292517008,
+    "stopTime": 147.78340136054422
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.02813182771205902,
+    "filename": "greevy.wav",
+    "startTime": 146.98231292517008,
+    "stopTime": 147.818231292517
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.8347335457801819,
+    "filename": "greevy.wav",
+    "startTime": 147.0055328798186,
+    "stopTime": 147.818231292517
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.9954315423965454,
+    "filename": "greevy.wav",
+    "startTime": 147.87628117913832,
+    "stopTime": 148.27102040816325
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.9971151351928711,
+    "filename": "greevy.wav",
+    "startTime": 147.87628117913832,
+    "stopTime": 148.27102040816325
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.6185274720191956,
+    "filename": "greevy.wav",
+    "startTime": 147.8878911564626,
+    "stopTime": 148.2942403628118
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.7268943190574646,
+    "filename": "greevy.wav",
+    "startTime": 147.9111111111111,
+    "stopTime": 148.27102040816325
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.7087852954864502,
+    "filename": "greevy.wav",
+    "startTime": 148.32907029478457,
+    "stopTime": 148.75863945578232
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.07762013375759125,
+    "filename": "greevy.wav",
+    "startTime": 148.34068027210884,
+    "stopTime": 148.75863945578232
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.24140863120555878,
+    "filename": "greevy.wav",
+    "startTime": 148.34068027210884,
+    "stopTime": 148.75863945578232
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.004722974728792906,
+    "filename": "greevy.wav",
+    "startTime": 148.36390022675738,
+    "stopTime": 148.77024943310659
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.5278114676475525,
+    "filename": "greevy.wav",
+    "startTime": 148.7934693877551,
+    "stopTime": 148.95600907029478
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.5441070795059204,
+    "filename": "greevy.wav",
+    "startTime": 148.7934693877551,
+    "stopTime": 148.90956916099773
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.2927943766117096,
+    "filename": "greevy.wav",
+    "startTime": 148.80507936507937,
+    "stopTime": 148.95600907029478
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.6142149567604065,
+    "filename": "greevy.wav",
+    "startTime": 148.83990929705215,
+    "stopTime": 148.95600907029478
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.3750164210796356,
+    "filename": "greevy.wav",
+    "startTime": 149.0227664399093,
+    "stopTime": 149.2346485260771
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.33983394503593445,
+    "filename": "greevy.wav",
+    "startTime": 149.02566893424037,
+    "stopTime": 149.2926984126984
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.8334465026855469,
+    "filename": "greevy.wav",
+    "startTime": 149.02566893424037,
+    "stopTime": 149.14176870748298
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.10836096107959747,
+    "filename": "greevy.wav",
+    "startTime": 149.02566893424037,
+    "stopTime": 149.09532879818593
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.07137010991573334,
+    "filename": "greevy.wav",
+    "startTime": 149.1765986394558,
+    "stopTime": 149.362358276644
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.8592181205749512,
+    "filename": "greevy.wav",
+    "startTime": 149.22303854875284,
+    "stopTime": 149.43201814058958
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.5662677884101868,
+    "filename": "greevy.wav",
+    "startTime": 149.2926984126984,
+    "stopTime": 149.50167800453514
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.7445368766784668,
+    "filename": "greevy.wav",
+    "startTime": 149.362358276644,
+    "stopTime": 149.65260770975055
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.8724472522735596,
+    "filename": "greevy.wav",
+    "startTime": 149.40879818594104,
+    "stopTime": 149.50167800453514
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.9192811846733093,
+    "filename": "greevy.wav",
+    "startTime": 149.53650793650795,
+    "stopTime": 149.68743764172336
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.10995636135339737,
+    "filename": "greevy.wav",
+    "startTime": 149.55972789115646,
+    "stopTime": 149.66421768707482
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.18458031117916107,
+    "filename": "greevy.wav",
+    "startTime": 149.57133786848073,
+    "stopTime": 149.65260770975055
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.5233864188194275,
+    "filename": "greevy.wav",
+    "startTime": 149.68743764172336,
+    "stopTime": 150.02412698412698
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.4269656836986542,
+    "filename": "greevy.wav",
+    "startTime": 149.68743764172336,
+    "stopTime": 149.8267573696145
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.7792366743087769,
+    "filename": "greevy.wav",
+    "startTime": 149.72226757369614,
+    "stopTime": 149.9892970521542
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.38393381237983704,
+    "filename": "greevy.wav",
+    "startTime": 149.72226757369614,
+    "stopTime": 149.80353741496597
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.5154596567153931,
+    "filename": "greevy.wav",
+    "startTime": 149.8615873015873,
+    "stopTime": 149.95446712018142
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.5471414923667908,
+    "filename": "greevy.wav",
+    "startTime": 149.88480725623583,
+    "stopTime": 150.12861678004535
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.422171413898468,
+    "filename": "greevy.wav",
+    "startTime": 149.96607709750566,
+    "stopTime": 150.10539682539684
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.9524394273757935,
+    "filename": "greevy.wav",
+    "startTime": 150.07056689342403,
+    "stopTime": 150.2679365079365
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.7166174650192261,
+    "filename": "greevy.wav",
+    "startTime": 150.09378684807257,
+    "stopTime": 150.3027664399093
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.8063039183616638,
+    "filename": "greevy.wav",
+    "startTime": 150.22149659863945,
+    "stopTime": 150.41886621315192
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.3749209940433502,
+    "filename": "greevy.wav",
+    "startTime": 150.25632653061226,
+    "stopTime": 150.45369614512472
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.06182269752025604,
+    "filename": "greevy.wav",
+    "startTime": 150.3956462585034,
+    "stopTime": 150.59301587301587
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.47364863753318787,
+    "filename": "greevy.wav",
+    "startTime": 150.41886621315192,
+    "stopTime": 150.6510657596372
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.9883207678794861,
+    "filename": "greevy.wav",
+    "startTime": 150.53496598639455,
+    "stopTime": 150.73233560090702
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.8827151656150818,
+    "filename": "greevy.wav",
+    "startTime": 150.5581859410431,
+    "stopTime": 150.69750566893424
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.2758994996547699,
+    "filename": "greevy.wav",
+    "startTime": 150.73233560090702,
+    "stopTime": 150.9877551020408
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.09308072179555893,
+    "filename": "greevy.wav",
+    "startTime": 150.7352380952381,
+    "stopTime": 150.91809523809525
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.33108389377593994,
+    "filename": "greevy.wav",
+    "startTime": 150.8716553287982,
+    "stopTime": 151.03419501133786
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.8806081414222717,
+    "filename": "greevy.wav",
+    "startTime": 150.91809523809525,
+    "stopTime": 151.0806349206349
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.5104230642318726,
+    "filename": "greevy.wav",
+    "startTime": 151.06902494331067,
+    "stopTime": 151.2431746031746
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.4319356679916382,
+    "filename": "greevy.wav",
+    "startTime": 151.10385487528345,
+    "stopTime": 151.2431746031746
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.4118275046348572,
+    "filename": "greevy.wav",
+    "startTime": 151.20834467120181,
+    "stopTime": 151.4637641723356
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.6930469870567322,
+    "filename": "greevy.wav",
+    "startTime": 151.2431746031746,
+    "stopTime": 151.39410430839
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.7805401086807251,
+    "filename": "greevy.wav",
+    "startTime": 151.40571428571428,
+    "stopTime": 151.60308390022675
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.12654559314250946,
+    "filename": "greevy.wav",
+    "startTime": 151.42893424036282,
+    "stopTime": 151.63791383219956
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.4608049988746643,
+    "filename": "greevy.wav",
+    "startTime": 151.5334240362812,
+    "stopTime": 151.69596371882085
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.025861898437142372,
+    "filename": "greevy.wav",
+    "startTime": 151.5334240362812,
+    "stopTime": 151.66113378684807
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.5731723308563232,
+    "filename": "greevy.wav",
+    "startTime": 151.73079365079366,
+    "stopTime": 151.97460317460317
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.0938991978764534,
+    "filename": "greevy.wav",
+    "startTime": 151.73950113378686,
+    "stopTime": 151.97460317460317
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.4066293239593506,
+    "filename": "greevy.wav",
+    "startTime": 151.82367346938776,
+    "stopTime": 151.92816326530613
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.2589384615421295,
+    "filename": "greevy.wav",
+    "startTime": 151.92816326530613,
+    "stopTime": 152.055873015873
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.6442819237709045,
+    "filename": "greevy.wav",
+    "startTime": 151.98621315192744,
+    "stopTime": 152.13714285714286
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.6197618842124939,
+    "filename": "greevy.wav",
+    "startTime": 152.10231292517005,
+    "stopTime": 152.3112925170068
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.6371510624885559,
+    "filename": "greevy.wav",
+    "startTime": 152.13714285714286,
+    "stopTime": 152.3693424036281
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.4338324964046478,
+    "filename": "greevy.wav",
+    "startTime": 152.24163265306123,
+    "stopTime": 152.48544217687075
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.08267189562320709,
+    "filename": "greevy.wav",
+    "startTime": 152.3112925170068,
+    "stopTime": 152.4622222222222
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.37670743465423584,
+    "filename": "greevy.wav",
+    "startTime": 152.4622222222222,
+    "stopTime": 152.70603174603175
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.17050997912883759,
+    "filename": "greevy.wav",
+    "startTime": 152.48544217687075,
+    "stopTime": 152.70603174603175
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.4586853086948395,
+    "filename": "greevy.wav",
+    "startTime": 152.6247619047619,
+    "stopTime": 152.89179138321995
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.6318309307098389,
+    "filename": "greevy.wav",
+    "startTime": 152.6595918367347,
+    "stopTime": 152.81052154195012
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.5298983454704285,
+    "filename": "greevy.wav",
+    "startTime": 152.85696145124717,
+    "stopTime": 153.11238095238096
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.532866895198822,
+    "filename": "greevy.wav",
+    "startTime": 152.88018140589568,
+    "stopTime": 153.13560090702947
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.5281704068183899,
+    "filename": "greevy.wav",
+    "startTime": 153.01950113378686,
+    "stopTime": 153.24009070294784
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.6814696192741394,
+    "filename": "gtraggro6.wav",
+    "startTime": 153.26331065759638,
+    "stopTime": 153.46068027210885
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.7865893840789795,
+    "filename": "gtraggro6.wav",
+    "startTime": 153.29814058956916,
+    "stopTime": 153.54195011337868
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.8656032681465149,
+    "filename": "gtraggro6.wav",
+    "startTime": 153.36780045351475,
+    "stopTime": 153.6580498866213
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.3521856367588043,
+    "filename": "gtraggro6.wav",
+    "startTime": 153.40263038548753,
+    "stopTime": 153.70448979591836
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.023857057094573975,
+    "filename": "gtraggro6.wav",
+    "startTime": 153.57678004535148,
+    "stopTime": 153.77414965986395
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.8757039904594421,
+    "filename": "gtraggro6.wav",
+    "startTime": 153.6,
+    "stopTime": 153.83219954648527
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.494326651096344,
+    "filename": "gtraggro6.wav",
+    "startTime": 153.66965986394558,
+    "stopTime": 153.83219954648527
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.2581300437450409,
+    "filename": "gtraggro6.wav",
+    "startTime": 153.8902494331066,
+    "stopTime": 154.11083900226757
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.4814099371433258,
+    "filename": "gtraggro6.wav",
+    "startTime": 153.8902494331066,
+    "stopTime": 154.0760090702948
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.8426501750946045,
+    "filename": "gtraggro6.wav",
+    "startTime": 153.92507936507937,
+    "stopTime": 154.23854875283448
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.0662526786327362,
+    "filename": "gtraggro6.wav",
+    "startTime": 154.0760090702948,
+    "stopTime": 154.23854875283448
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.4192828834056854,
+    "filename": "gtraggro6.wav",
+    "startTime": 154.21532879818594,
+    "stopTime": 154.4126984126984
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.9134979844093323,
+    "filename": "gtraggro6.wav",
+    "startTime": 154.28498866213152,
+    "stopTime": 154.5055782312925
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.3939855098724365,
+    "filename": "gtraggro6.wav",
+    "startTime": 154.34303854875284,
+    "stopTime": 154.61006802721087
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.6959799528121948,
+    "filename": "gtraggro6.wav",
+    "startTime": 154.482358276644,
+    "stopTime": 154.67972789115646
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.550414502620697,
+    "filename": "gtraggro6.wav",
+    "startTime": 154.5752380952381,
+    "stopTime": 154.84226757369615
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.4926224648952484,
+    "filename": "gtraggro6.wav",
+    "startTime": 154.64489795918368,
+    "stopTime": 154.702947845805
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.7555230855941772,
+    "filename": "gtraggro6.wav",
+    "startTime": 154.702947845805,
+    "stopTime": 154.9583673469388
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.1615608185529709,
+    "filename": "gtraggro6.wav",
+    "startTime": 154.83065759637188,
+    "stopTime": 155.01641723356008
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.6734098792076111,
+    "filename": "gtraggro6.wav",
+    "startTime": 154.86548752834466,
+    "stopTime": 155.05124716553289
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.9902288317680359,
+    "filename": "gtraggro6.wav",
+    "startTime": 154.9583673469388,
+    "stopTime": 155.01641723356008
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.6997177600860596,
+    "filename": "gtraggro6.wav",
+    "startTime": 155.17895691609976,
+    "stopTime": 155.41115646258504
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.5230393409729004,
+    "filename": "gtraggro6.wav",
+    "startTime": 155.23700680272108,
+    "stopTime": 155.46920634920636
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.5783137679100037,
+    "filename": "gtraggro6.wav",
+    "startTime": 155.24861678004535,
+    "stopTime": 155.66657596371883
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.3498474657535553,
+    "filename": "gtraggro6.wav",
+    "startTime": 155.30666666666667,
+    "stopTime": 155.6433560090703
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.9809685945510864,
+    "filename": "gtraggro6.wav",
+    "startTime": 155.52725623582765,
+    "stopTime": 155.80589569160998
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.22175221145153046,
+    "filename": "gtraggro6.wav",
+    "startTime": 155.63174603174602,
+    "stopTime": 155.87555555555556
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.9081045389175415,
+    "filename": "gtraggro6.wav",
+    "startTime": 155.7942857142857,
+    "stopTime": 156.03809523809525
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.8253480195999146,
+    "filename": "gtraggro6.wav",
+    "startTime": 155.7942857142857,
+    "stopTime": 156.06131519274376
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.7303707003593445,
+    "filename": "gtraggro6.wav",
+    "startTime": 155.93360544217688,
+    "stopTime": 156.15419501133786
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.07211095094680786,
+    "filename": "gtraggro6.wav",
+    "startTime": 156.03809523809525,
+    "stopTime": 156.25868480725623
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.6287878751754761,
+    "filename": "gtraggro3.wav",
+    "startTime": 156.2006349206349,
+    "stopTime": 156.4560544217687
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.08961410820484161,
+    "filename": "gtraggro3.wav",
+    "startTime": 156.24707482993196,
+    "stopTime": 156.42122448979592
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.057523760944604874,
+    "filename": "gtraggro3.wav",
+    "startTime": 156.42122448979592,
+    "stopTime": 156.60698412698412
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.8602759838104248,
+    "filename": "gtraggro3.wav",
+    "startTime": 156.42122448979592,
+    "stopTime": 156.73469387755102
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.8921138048171997,
+    "filename": "gtraggro3.wav",
+    "startTime": 156.56054421768707,
+    "stopTime": 156.75791383219953
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.8631916046142578,
+    "filename": "gtraggro3.wav",
+    "startTime": 156.5837641723356,
+    "stopTime": 156.8972335600907
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.8593542575836182,
+    "filename": "gtraggro3.wav",
+    "startTime": 156.8043537414966,
+    "stopTime": 157.03655328798186
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.0015257562045007944,
+    "filename": "gtraggro3.wav",
+    "startTime": 156.8972335600907,
+    "stopTime": 157.12943310657596
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.8814138174057007,
+    "filename": "gtraggro3.wav",
+    "startTime": 156.9320634920635,
+    "stopTime": 157.18748299319728
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.989380955696106,
+    "filename": "gtraggro3.wav",
+    "startTime": 157.0597732426304,
+    "stopTime": 157.22231292517006
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.10679709911346436,
+    "filename": "gtraggro3.wav",
+    "startTime": 157.36163265306124,
+    "stopTime": 157.61705215419502
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.131290465593338,
+    "filename": "gtraggro3.wav",
+    "startTime": 157.36163265306124,
+    "stopTime": 157.61705215419502
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.6929717659950256,
+    "filename": "gtraggro3.wav",
+    "startTime": 157.38485260770975,
+    "stopTime": 157.61705215419502
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.8510833382606506,
+    "filename": "gtraggro3.wav",
+    "startTime": 157.38485260770975,
+    "stopTime": 157.6518820861678
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.777388870716095,
+    "filename": "qordtwo.wav",
+    "startTime": 157.77959183673468,
+    "stopTime": 158.56907029478458
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.8057217597961426,
+    "filename": "qordtwo.wav",
+    "startTime": 157.79120181405895,
+    "stopTime": 158.499410430839
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.9529705047607422,
+    "filename": "qordtwo.wav",
+    "startTime": 157.84925170068027,
+    "stopTime": 158.03501133786847
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": -0.608569324016571,
+    "filename": "qordtwo.wav",
+    "startTime": 157.8724716553288,
+    "stopTime": 158.60390022675736
+  },
+  {
+    "playbackRate": 1.6817928305074292,
+    "pan": 0.7541778683662415,
+    "filename": "qordtwo.wav",
+    "startTime": 158.04662131519274,
+    "stopTime": 158.50521541950113
+  },
+  {
+    "playbackRate": 1.4142135623730951,
+    "pan": -0.2750924825668335,
+    "filename": "qordtwo.wav",
+    "startTime": 158.63873015873017,
+    "stopTime": 158.83609977324264
+  },
+  {
+    "playbackRate": 1.4142135623730951,
+    "pan": 0.7186733484268188,
+    "filename": "qordtwo.wav",
+    "startTime": 158.74321995464854,
+    "stopTime": 158.83609977324264
+  },
+  {
+    "playbackRate": 1.3348398541700344,
+    "pan": -0.07853986322879791,
+    "filename": "qordtwo.wav",
+    "startTime": 158.74321995464854,
+    "stopTime": 158.98702947845806
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.7001515626907349,
+    "filename": "qordtwo.wav",
+    "startTime": 158.87092970521542,
+    "stopTime": 159.99709750566893
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.6718961000442505,
+    "filename": "qordtwo.wav",
+    "startTime": 159.09151927437642,
+    "stopTime": 159.99709750566893
+  },
+  {
+    "playbackRate": 0.5612310241546865,
+    "pan": -0.3922876715660095,
+    "filename": "qordtwo.wav",
+    "startTime": 162.295873015873,
+    "stopTime": 162.957641723356
+  },
+  {
+    "playbackRate": 0.5612310241546865,
+    "pan": 0.33315593004226685,
+    "filename": "qordtwo.wav",
+    "startTime": 162.295873015873,
+    "stopTime": 162.9344217687075
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": 0.9162263870239258,
+    "filename": "qordtwo.wav",
+    "startTime": 164.13024943310657,
+    "stopTime": 164.36244897959185
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": -0.7575830817222595,
+    "filename": "qordtwo.wav",
+    "startTime": 164.1534693877551,
+    "stopTime": 164.39727891156463
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": -0.8475315570831299,
+    "filename": "qordtwo.wav",
+    "startTime": 165.05904761904762,
+    "stopTime": 165.80208616780044
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": 0.1902405172586441,
+    "filename": "qordtwo.wav",
+    "startTime": 165.05904761904762,
+    "stopTime": 165.80208616780044
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": 0.46281319856643677,
+    "filename": "boobadooboo.wav",
+    "startTime": 166.02267573696145,
+    "stopTime": 167.27655328798187
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": -0.9679641127586365,
+    "filename": "boobadooboo.wav",
+    "startTime": 166.02267573696145,
+    "stopTime": 167.25333333333333
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": -0.8104477524757385,
+    "filename": "drumblehoctave.wav",
+    "startTime": 167.41587301587302,
+    "stopTime": 168.68136054421768
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": 0.5833865404129028,
+    "filename": "drumblehoctave.wav",
+    "startTime": 167.41587301587302,
+    "stopTime": 168.65814058956917
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": -0.4621780514717102,
+    "filename": "shrug.wav",
+    "startTime": 168.77424036281178,
+    "stopTime": 172.12952380952382
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": 0.20966817438602448,
+    "filename": "shrug.wav",
+    "startTime": 168.77424036281178,
+    "stopTime": 172.08308390022677
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": -0.12925441563129425,
+    "filename": "shrug.wav",
+    "startTime": 172.26884353741497,
+    "stopTime": 174.08
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": -0.29746612906455994,
+    "filename": "shrug.wav",
+    "startTime": 172.28045351473924,
+    "stopTime": 174.09160997732425
+  },
+  {
+    "playbackRate": 0.9438743126816935,
+    "pan": -0.9992737174034119,
+    "filename": "shrug.wav",
+    "startTime": 174.16126984126984,
+    "stopTime": 186.16598639455782
+  },
+  {
+    "playbackRate": 0.9438743126816935,
+    "pan": 0.16948123276233673,
+    "filename": "shrug.wav",
+    "startTime": 174.19609977324262,
+    "stopTime": 186.18920634920636
+  },
+  {
+    "playbackRate": 0.9438743126816935,
+    "pan": -0.5052843689918518,
+    "filename": "shrug.wav",
+    "startTime": 186.28208616780046,
+    "stopTime": 189.0336507936508
+  },
+  {
+    "playbackRate": 0.9438743126816935,
+    "pan": -0.24416594207286835,
+    "filename": "shrug.wav",
+    "startTime": 186.31691609977324,
+    "stopTime": 189.04526077097506
+  },
+  {
+    "playbackRate": 0.9438743126816935,
+    "pan": 0.4635779559612274,
+    "filename": "shrug.wav",
+    "startTime": 189.11492063492062,
+    "stopTime": 190.278820861678
+  },
+  {
+    "playbackRate": 0.9438743126816935,
+    "pan": 0.7141115665435791,
+    "filename": "shrug.wav",
+    "startTime": 189.17297052154194,
+    "stopTime": 190.31074829931973
+  },
+  {
+    "playbackRate": 0.9438743126816935,
+    "pan": -0.513577401638031,
+    "filename": "shrug.wav",
+    "startTime": 190.39201814058956,
+    "stopTime": 195.60489795918366
+  },
+  {
+    "playbackRate": 0.9438743126816935,
+    "pan": 0.8393759727478027,
+    "filename": "shrug.wav",
+    "startTime": 190.42684807256236,
+    "stopTime": 195.61650793650793
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": 0.5745506286621094,
+    "filename": "shrug.wav",
+    "startTime": 195.68616780045352,
+    "stopTime": 198.49578231292517
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": 0.5441172122955322,
+    "filename": "shrug.wav",
+    "startTime": 195.6977777777778,
+    "stopTime": 198.49578231292517
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.1853720247745514,
+    "filename": "shrug.wav",
+    "startTime": 198.40290249433107,
+    "stopTime": 200.9338775510204
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.4540576636791229,
+    "filename": "shrug.wav",
+    "startTime": 198.4609523809524,
+    "stopTime": 200.9687074829932
+  },
+  {
+    "playbackRate": 0.8408964152537146,
+    "pan": 0.6853194236755371,
+    "filename": "shrug.wav",
+    "startTime": 200.9106575963719,
+    "stopTime": 203.20943310657597
+  },
+  {
+    "playbackRate": 0.8408964152537146,
+    "pan": -0.7803565263748169,
+    "filename": "shrug.wav",
+    "startTime": 200.9338775510204,
+    "stopTime": 203.20943310657597
+  },
+  {
+    "playbackRate": 0.9438743126816935,
+    "pan": -0.12244946509599686,
+    "filename": "shrug.wav",
+    "startTime": 203.13977324263038,
+    "stopTime": 205.1715192743764
+  },
+  {
+    "playbackRate": 0.9438743126816935,
+    "pan": 0.44821807742118835,
+    "filename": "shrug.wav",
+    "startTime": 203.13977324263038,
+    "stopTime": 205.1715192743764
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.6103920936584473,
+    "filename": "shrug.wav",
+    "startTime": 205.15990929705217,
+    "stopTime": 207.48190476190476
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.9418264627456665,
+    "filename": "shrug.wav",
+    "startTime": 205.1715192743764,
+    "stopTime": 207.48190476190476
+  },
+  {
+    "playbackRate": 1.0594630943592953,
+    "pan": 0.7393848896026611,
+    "filename": "shrug.wav",
+    "startTime": 207.45868480725625,
+    "stopTime": 208.14367346938775
+  },
+  {
+    "playbackRate": 1.122462048309373,
+    "pan": -0.3891375958919525,
+    "filename": "shrug.wav",
+    "startTime": 207.48190476190476,
+    "stopTime": 209.59492063492064
+  },
+  {
+    "playbackRate": 1.122462048309373,
+    "pan": -0.029899615794420242,
+    "filename": "shrug.wav",
+    "startTime": 208.2597732426304,
+    "stopTime": 209.61814058956915
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": -0.7719797492027283,
+    "filename": "shrug.wav",
+    "startTime": 209.68780045351474,
+    "stopTime": 212.7412244897959
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": -0.8784774541854858,
+    "filename": "shrug.wav",
+    "startTime": 209.71102040816328,
+    "stopTime": 212.76444444444445
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": -0.9210381507873535,
+    "filename": "shrug.wav",
+    "startTime": 212.60190476190476,
+    "stopTime": 217.8960544217687
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": -0.48944324254989624,
+    "filename": "shrug.wav",
+    "startTime": 212.70639455782313,
+    "stopTime": 217.91927437641723
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.2216178923845291,
+    "filename": "shrug.wav",
+    "startTime": 217.90766439909297,
+    "stopTime": 219.10349206349207
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.640913724899292,
+    "filename": "shrug.wav",
+    "startTime": 217.9308843537415,
+    "stopTime": 219.08027210884353
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.5372928380966187,
+    "filename": "shrug.wav",
+    "startTime": 219.08027210884353,
+    "stopTime": 220.53151927437642
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.41227731108665466,
+    "filename": "shrug.wav",
+    "startTime": 219.08027210884353,
+    "stopTime": 220.55473922902493
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.4371412396430969,
+    "filename": "mariobop.wav",
+    "startTime": 221.00752834467121,
+    "stopTime": 223.15537414965988
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.8944144248962402,
+    "filename": "mariobop.wav",
+    "startTime": 221.00752834467121,
+    "stopTime": 222.853514739229
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.5620661973953247,
+    "filename": "boobadooboo.wav",
+    "startTime": 223.28308390022676,
+    "stopTime": 280.73215419501133
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.8027161955833435,
+    "filename": "boobadooboo.wav",
+    "startTime": 223.34113378684808,
+    "stopTime": 280.7640816326531
+  },
+  {
+    "playbackRate": 0.5297315471796477,
+    "pan": -0.728400707244873,
+    "filename": "boobadooboo.wav",
+    "startTime": 225.4425396825397,
+    "stopTime": 226.40616780045352
+  },
+  {
+    "playbackRate": 0.5,
+    "pan": -0.7782133221626282,
+    "filename": "boobadooboo.wav",
+    "startTime": 226.35972789115647,
+    "stopTime": 280.77569160997734
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.2998484671115875,
+    "filename": "boobadooboo.wav",
+    "startTime": 232.32725623582766,
+    "stopTime": 233.0702947845805
+  },
+  {
+    "playbackRate": 0.7491535384383408,
+    "pan": -0.3665296733379364,
+    "filename": "boobadooboo.wav",
+    "startTime": 233.1980045351474,
+    "stopTime": 234.71891156462584
+  },
+  {
+    "playbackRate": 1.3348398541700344,
+    "pan": -0.4159786105155945,
+    "filename": "boobadooboo.wav",
+    "startTime": 235.1717006802721,
+    "stopTime": 237.11056689342405
+  },
+  {
+    "playbackRate": 1.4983070768766815,
+    "pan": 0.3319348692893982,
+    "filename": "boobadooboo.wav",
+    "startTime": 237.1570068027211,
+    "stopTime": 240.94185941043085
+  },
+  {
+    "playbackRate": 1.3348398541700344,
+    "pan": -0.6315038800239563,
+    "filename": "boobadooboo.wav",
+    "startTime": 240.9186394557823,
+    "stopTime": 245.5045804988662
+  },
+  {
+    "playbackRate": 1.4983070768766815,
+    "pan": -0.5149863362312317,
+    "filename": "boobadooboo.wav",
+    "startTime": 245.5045804988662,
+    "stopTime": 250.36916099773242
+  },
+  {
+    "playbackRate": 1.3348398541700344,
+    "pan": -0.406198650598526,
+    "filename": "boobadooboo.wav",
+    "startTime": 250.3459410430839,
+    "stopTime": 255.98839002267573
+  },
+  {
+    "playbackRate": 1.4983070768766815,
+    "pan": 0.36968347430229187,
+    "filename": "boobadooboo.wav",
+    "startTime": 256,
+    "stopTime": 262.0255782312925
+  },
+  {
+    "playbackRate": 1.3348398541700344,
+    "pan": 0.07821164280176163,
+    "filename": "boobadooboo.wav",
+    "startTime": 256,
+    "stopTime": 256.0580498866213
+  },
+  {
+    "playbackRate": 1.3348398541700344,
+    "pan": -0.4718898832798004,
+    "filename": "boobadooboo.wav",
+    "startTime": 262.002358276644,
+    "stopTime": 266.28643990929703
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.2171378880739212,
+    "filename": "boobadooboo.wav",
+    "startTime": 266.5186394557823,
+    "stopTime": 268.1440362811791
+  },
+  {
+    "playbackRate": 1.0594630943592953,
+    "pan": -0.30978548526763916,
+    "filename": "boobadooboo.wav",
+    "startTime": 268.08598639455784,
+    "stopTime": 269.61850340136056
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.7370123863220215,
+    "filename": "boobadooboo.wav",
+    "startTime": 269.7346031746032,
+    "stopTime": 271.28743764172333
+  },
+  {
+    "playbackRate": 0.8908987181403393,
+    "pan": 0.31009313464164734,
+    "filename": "boobadooboo.wav",
+    "startTime": 271.30195011337867,
+    "stopTime": 271.36
+  },
+  {
+    "playbackRate": 0.8908987181403393,
+    "pan": 0.03901124373078346,
+    "filename": "boobadooboo.wav",
+    "startTime": 271.40643990929703,
+    "stopTime": 271.5109297052154
+  },
+  {
+    "playbackRate": 0.8908987181403393,
+    "pan": 0.10011975467205048,
+    "filename": "boobadooboo.wav",
+    "startTime": 271.5109297052154,
+    "stopTime": 272.97378684807256
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.7539172172546387,
+    "filename": "boobadooboo.wav",
+    "startTime": 272.9970068027211,
+    "stopTime": 274.64562358276646
+  },
+  {
+    "playbackRate": 0.7491535384383408,
+    "pan": 0.4124097526073456,
+    "filename": "boobadooboo.wav",
+    "startTime": 274.6804535147392,
+    "stopTime": 276.28263038548755
+  },
+  {
+    "playbackRate": 0.7071067811865475,
+    "pan": 0.7666990160942078,
+    "filename": "boobadooboo.wav",
+    "startTime": 276.3174603174603,
+    "stopTime": 277.82675736961454
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": 0.2199205905199051,
+    "filename": "boobadooboo.wav",
+    "startTime": 277.90802721088437,
+    "stopTime": 279.47537414965984
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.5888165831565857,
+    "filename": "drumblehoctave.wav",
+    "startTime": 282.41269841269843,
+    "stopTime": 282.8306575963719
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.7948811650276184,
+    "filename": "drumblehoctave.wav",
+    "startTime": 282.5171882086168,
+    "stopTime": 282.8422675736961
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.3235510587692261,
+    "filename": "aibassnine.wav",
+    "startTime": 285.08299319727894,
+    "stopTime": 285.48934240362814
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.6150306463241577,
+    "filename": "aibassnine.wav",
+    "startTime": 285.08299319727894,
+    "stopTime": 285.48934240362814
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.7954950928688049,
+    "filename": "aibassfour.wav",
+    "startTime": 286.17433106575965,
+    "stopTime": 286.67356009070295
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.6834487915039062,
+    "filename": "aibassfour.wav",
+    "startTime": 286.1859410430839,
+    "stopTime": 286.67356009070295
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.22657997906208038,
+    "filename": "aibassfour.wav",
+    "startTime": 287.13795918367344,
+    "stopTime": 287.33532879818597
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.4492509365081787,
+    "filename": "aibassfour.wav",
+    "startTime": 287.1495691609977,
+    "stopTime": 287.33532879818597
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.8460274338722229,
+    "filename": "aibassfour.wav",
+    "startTime": 287.5094784580499,
+    "stopTime": 287.7300680272109
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.127247154712677,
+    "filename": "aibassfour.wav",
+    "startTime": 287.54430839002265,
+    "stopTime": 287.70684807256237
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.16492460668087006,
+    "filename": "aibassfour.wav",
+    "startTime": 287.9158276643991,
+    "stopTime": 288.08997732426303
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.7041407227516174,
+    "filename": "aibassfour.wav",
+    "startTime": 287.93904761904764,
+    "stopTime": 288.08997732426303
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.835239827632904,
+    "filename": "aibassfour.wav",
+    "startTime": 288.2292970521542,
+    "stopTime": 288.4266666666667
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.7052261829376221,
+    "filename": "aibassfour.wav",
+    "startTime": 288.2292970521542,
+    "stopTime": 288.4266666666667
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.8160954117774963,
+    "filename": "aibassthree.wav",
+    "startTime": 288.98394557823127,
+    "stopTime": 290.79510204081635
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.35515937209129333,
+    "filename": "aibassthree.wav",
+    "startTime": 289.0071655328798,
+    "stopTime": 290.79510204081635
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.07288579642772675,
+    "filename": "aibassthree.wav",
+    "startTime": 291.2130612244898,
+    "stopTime": 292.93133786848074
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.5196900367736816,
+    "filename": "aibassthree.wav",
+    "startTime": 291.2478911564626,
+    "stopTime": 292.9661678004535
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.055826473981142044,
+    "filename": "aibassthree.wav",
+    "startTime": 293.3260770975057,
+    "stopTime": 295.14884353741496
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.7395087480545044,
+    "filename": "aibassthree.wav",
+    "startTime": 293.3609070294785,
+    "stopTime": 295.1720634920635
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.7500520348548889,
+    "filename": "aibassthree.wav",
+    "startTime": 295.47392290249434,
+    "stopTime": 296.28662131519275
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.045847829431295395,
+    "filename": "aibassthree.wav",
+    "startTime": 295.4971428571429,
+    "stopTime": 296.2750113378685
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.4743175208568573,
+    "filename": "aibassthree.wav",
+    "startTime": 296.4259410430839,
+    "stopTime": 297.17478458049885
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.00861232727766037,
+    "filename": "aibassthree.wav",
+    "startTime": 296.43755102040814,
+    "stopTime": 297.15736961451245
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.6737174987792969,
+    "filename": "aibassthree.wav",
+    "startTime": 297.2618594104308,
+    "stopTime": 298.1558276643991
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.20488838851451874,
+    "filename": "aibassthree.wav",
+    "startTime": 297.2618594104308,
+    "stopTime": 298.1674376417234
+  },
+  {
+    "playbackRate": 0.8408964152537146,
+    "pan": 0.18648716807365417,
+    "filename": "aibassthree.wav",
+    "startTime": 298.1674376417234,
+    "stopTime": 299.01496598639454
+  },
+  {
+    "playbackRate": 0.8408964152537146,
+    "pan": -0.36288246512413025,
+    "filename": "aibassthree.wav",
+    "startTime": 298.23709750566894,
+    "stopTime": 299.01496598639454
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.4866870641708374,
+    "filename": "aibassthree.wav",
+    "startTime": 298.95691609977325,
+    "stopTime": 299.5258049886621
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.7395970225334167,
+    "filename": "aibassthree.wav",
+    "startTime": 298.991746031746,
+    "stopTime": 299.49097505668936
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": -0.8083971738815308,
+    "filename": "aibassthree.wav",
+    "startTime": 299.49097505668936,
+    "stopTime": 300.01342403628115
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": -0.43769752979278564,
+    "filename": "aibassthree.wav",
+    "startTime": 299.5258049886621,
+    "stopTime": 300.03954648526076
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.9793979525566101,
+    "filename": "aibassthree.wav",
+    "startTime": 299.9785941043084,
+    "stopTime": 300.4429931972789
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.6573158502578735,
+    "filename": "aibassthree.wav",
+    "startTime": 299.9785941043084,
+    "stopTime": 300.4197732426304
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.08766636252403259,
+    "filename": "aibassthree.wav",
+    "startTime": 300.3849433106576,
+    "stopTime": 300.8029024943311
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.6268132925033569,
+    "filename": "aibassthree.wav",
+    "startTime": 300.40816326530614,
+    "stopTime": 300.8029024943311
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.2760162353515625,
+    "filename": "aibassthree.wav",
+    "startTime": 300.8261224489796,
+    "stopTime": 301.7433106575964
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.1662599742412567,
+    "filename": "aibassthree.wav",
+    "startTime": 300.8319274376417,
+    "stopTime": 301.7084807256236
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.8742336630821228,
+    "filename": "aibassthree.wav",
+    "startTime": 302.32380952380953,
+    "stopTime": 303.2061678004535
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.3008139431476593,
+    "filename": "aibassthree.wav",
+    "startTime": 302.37024943310655,
+    "stopTime": 303.22938775510204
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.9873704314231873,
+    "filename": "aibassthree.wav",
+    "startTime": 303.8795464852608,
+    "stopTime": 304.9360544217687
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.6912676095962524,
+    "filename": "aibassthree.wav",
+    "startTime": 303.8795464852608,
+    "stopTime": 304.9592743764172
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.3060499429702759,
+    "filename": "aibassthree.wav",
+    "startTime": 305.4236734693878,
+    "stopTime": 305.93451247165535
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.7152535319328308,
+    "filename": "aibassthree.wav",
+    "startTime": 305.44689342403626,
+    "stopTime": 305.89968253968254
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.362669974565506,
+    "filename": "aibassthree.wav",
+    "startTime": 306.0390022675737,
+    "stopTime": 306.45696145124714
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.6871909499168396,
+    "filename": "aibassthree.wav",
+    "startTime": 306.0390022675737,
+    "stopTime": 306.4453514739229
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.15326382219791412,
+    "filename": "aibassthree.wav",
+    "startTime": 306.5962811791383,
+    "stopTime": 306.8865306122449
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.7817309498786926,
+    "filename": "aibassthree.wav",
+    "startTime": 306.6078911564626,
+    "stopTime": 306.8865306122449
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.33407142758369446,
+    "filename": "aibassthree.wav",
+    "startTime": 307.0026303854875,
+    "stopTime": 307.90820861678003
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.11516886949539185,
+    "filename": "aibassthree.wav",
+    "startTime": 307.0142403628118,
+    "stopTime": 307.9198185941043
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.6248626708984375,
+    "filename": "aibassthree.wav",
+    "startTime": 308.62802721088434,
+    "stopTime": 309.61487528344674
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.7405239343643188,
+    "filename": "aibassthree.wav",
+    "startTime": 308.62802721088434,
+    "stopTime": 309.6380952380952
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.7415487170219421,
+    "filename": "aibassthree.wav",
+    "startTime": 310.2766439909297,
+    "stopTime": 311.57696145124714
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.1381451040506363,
+    "filename": "aibassthree.wav",
+    "startTime": 310.28825396825397,
+    "stopTime": 311.66984126984124
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.2408704310655594,
+    "filename": "aibassthree.wav",
+    "startTime": 311.97170068027214,
+    "stopTime": 312.273560090703
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.5708163380622864,
+    "filename": "aibassthree.wav",
+    "startTime": 311.97170068027214,
+    "stopTime": 312.23873015873016
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.1962239295244217,
+    "filename": "aibassthree.wav",
+    "startTime": 312.38965986394555,
+    "stopTime": 312.9121088435374
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.6910156011581421,
+    "filename": "aibassthree.wav",
+    "startTime": 312.4128798185941,
+    "stopTime": 312.93532879818594
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.36452338099479675,
+    "filename": "aibassthree.wav",
+    "startTime": 313.0514285714286,
+    "stopTime": 313.4809977324263
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.6103752255439758,
+    "filename": "aibassthree.wav",
+    "startTime": 313.0746485260771,
+    "stopTime": 313.5390476190476
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.5875200629234314,
+    "filename": "aibassthree.wav",
+    "startTime": 313.6667573696145,
+    "stopTime": 314.90902494331067
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.7656917572021484,
+    "filename": "aibassthree.wav",
+    "startTime": 313.6783673469388,
+    "stopTime": 314.87419501133786
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.03697903826832771,
+    "filename": "aibassthree.wav",
+    "startTime": 315.37342403628116,
+    "stopTime": 316.7550113378685
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.6961671710014343,
+    "filename": "aibassthree.wav",
+    "startTime": 315.3966439909297,
+    "stopTime": 316.82467120181406
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.8921557068824768,
+    "filename": "aibassthree.wav",
+    "startTime": 317.54448979591837,
+    "stopTime": 318.6706575963719
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.048148948699235916,
+    "filename": "aibassthree.wav",
+    "startTime": 317.54448979591837,
+    "stopTime": 318.6706575963719
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.9562414884567261,
+    "filename": "aibassthree.wav",
+    "startTime": 318.82158730158733,
+    "stopTime": 319.41369614512473
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.4671465754508972,
+    "filename": "aibassthree.wav",
+    "startTime": 318.83319727891154,
+    "stopTime": 319.41369614512473
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.9258275628089905,
+    "filename": "aibassthree.wav",
+    "startTime": 319.4833560090703,
+    "stopTime": 320.0290249433107
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.5379804968833923,
+    "filename": "aibassthree.wav",
+    "startTime": 319.50657596371883,
+    "stopTime": 320.0290249433107
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.5502080917358398,
+    "filename": "aibassthree.wav",
+    "startTime": 320.1219047619048,
+    "stopTime": 320.8649433106576
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.035806067287921906,
+    "filename": "aibassthree.wav",
+    "startTime": 320.13351473922904,
+    "stopTime": 320.8649433106576
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.16722269356250763,
+    "filename": "aibassthree.wav",
+    "startTime": 320.9578231292517,
+    "stopTime": 322.0956009070295
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.14674460887908936,
+    "filename": "aibassthree.wav",
+    "startTime": 320.9810430839002,
+    "stopTime": 322.0956009070295
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.5404537320137024,
+    "filename": "aibassthree.wav",
+    "startTime": 322.2349206349206,
+    "stopTime": 323.7558276643991
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.3137969970703125,
+    "filename": "aibassthree.wav",
+    "startTime": 322.2349206349206,
+    "stopTime": 323.7790476190476
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.2760694622993469,
+    "filename": "aibassthree.wav",
+    "startTime": 323.883537414966,
+    "stopTime": 324.4988662131519
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.4259905219078064,
+    "filename": "aibassthree.wav",
+    "startTime": 323.883537414966,
+    "stopTime": 324.4988662131519
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.782522439956665,
+    "filename": "aibassthree.wav",
+    "startTime": 324.5569160997732,
+    "stopTime": 324.6846258503401
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.767508327960968,
+    "filename": "aibassthree.wav",
+    "startTime": 324.58013605442176,
+    "stopTime": 324.6614058956916
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.8733298778533936,
+    "filename": "aibassthree.wav",
+    "startTime": 324.6962358276644,
+    "stopTime": 325.2651247165533
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.38829106092453003,
+    "filename": "aibassthree.wav",
+    "startTime": 324.71945578231293,
+    "stopTime": 325.2651247165533
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.7271348237991333,
+    "filename": "aibassthree.wav",
+    "startTime": 325.34639455782315,
+    "stopTime": 325.47410430839
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.24857495725154877,
+    "filename": "aibassthree.wav",
+    "startTime": 325.3696145124716,
+    "stopTime": 325.4508843537415
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.654739499092102,
+    "filename": "aibassthree.wav",
+    "startTime": 325.49732426303854,
+    "stopTime": 326.0778231292517
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.21890754997730255,
+    "filename": "aibassthree.wav",
+    "startTime": 325.49732426303854,
+    "stopTime": 326.0778231292517
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.2296796292066574,
+    "filename": "aibassthree.wav",
+    "startTime": 326.15909297052156,
+    "stopTime": 326.2751927437642
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.2974306643009186,
+    "filename": "aibassthree.wav",
+    "startTime": 326.1823129251701,
+    "stopTime": 326.8324716553288
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.3167027533054352,
+    "filename": "aibassthree.wav",
+    "startTime": 326.31002267573695,
+    "stopTime": 326.8556916099773
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.953636646270752,
+    "filename": "aibassthree.wav",
+    "startTime": 326.9253514739229,
+    "stopTime": 327.02984126984126
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.11331656575202942,
+    "filename": "aibassthree.wav",
+    "startTime": 326.9253514739229,
+    "stopTime": 328.02829931972786
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.6127941012382507,
+    "filename": "aibassthree.wav",
+    "startTime": 327.0878911564626,
+    "stopTime": 327.25043083900226
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.9108653664588928,
+    "filename": "aibassthree.wav",
+    "startTime": 327.25043083900226,
+    "stopTime": 328.02829931972786
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.20820602774620056,
+    "filename": "aibassthree.wav",
+    "startTime": 328.121179138322,
+    "stopTime": 328.2256689342404
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.717763364315033,
+    "filename": "aibassthree.wav",
+    "startTime": 328.13278911564623,
+    "stopTime": 328.2372789115646
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.26873210072517395,
+    "filename": "aibassthree.wav",
+    "startTime": 328.29532879818595,
+    "stopTime": 329.8510657596372
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.5666905045509338,
+    "filename": "aibassthree.wav",
+    "startTime": 328.3185487528345,
+    "stopTime": 329.8742857142857
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.30200451612472534,
+    "filename": "aibassthree.wav",
+    "startTime": 329.88589569160996,
+    "stopTime": 330.33868480725624
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.9330357313156128,
+    "filename": "aibassthree.wav",
+    "startTime": 329.96716553287985,
+    "stopTime": 330.37351473922905
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.7910752892494202,
+    "filename": "aibassthree.wav",
+    "startTime": 329.97877551020406,
+    "stopTime": 330.3619047619048
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.08626141399145126,
+    "filename": "aibassthree.wav",
+    "startTime": 330.4199546485261,
+    "stopTime": 331.33714285714285
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.5246368050575256,
+    "filename": "aibassthree.wav",
+    "startTime": 330.4547845804989,
+    "stopTime": 331.24426303854875
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.32654502987861633,
+    "filename": "aibassthree.wav",
+    "startTime": 330.4780045351474,
+    "stopTime": 331.255873015873
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.6351442933082581,
+    "filename": "aibassthree.wav",
+    "startTime": 331.4068027210884,
+    "stopTime": 332.4865306122449
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.8370658159255981,
+    "filename": "aibassthree.wav",
+    "startTime": 331.46485260770976,
+    "stopTime": 332.5910204081633
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.04130464792251587,
+    "filename": "aibassthree.wav",
+    "startTime": 331.5345124716553,
+    "stopTime": 332.46331065759637
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.08574201911687851,
+    "filename": "aibassthree.wav",
+    "startTime": 331.5345124716553,
+    "stopTime": 332.55619047619047
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.6051003336906433,
+    "filename": "aibassone.wav",
+    "startTime": 333.0989569160998,
+    "stopTime": 334.14675736961453
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.5495187044143677,
+    "filename": "aibassone.wav",
+    "startTime": 333.10185941043085,
+    "stopTime": 334.10031746031746
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.8672459125518799,
+    "filename": "aibassone.wav",
+    "startTime": 333.13668934240366,
+    "stopTime": 334.23963718820863
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.7017800807952881,
+    "filename": "aibassone.wav",
+    "startTime": 333.13668934240366,
+    "stopTime": 334.22802721088436
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.9953424334526062,
+    "filename": "aidrumthree.wav",
+    "startTime": 334.42539682539683,
+    "stopTime": 336.2481632653061
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.7733693718910217,
+    "filename": "aidrumthree.wav",
+    "startTime": 334.42539682539683,
+    "stopTime": 336.3526530612245
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.6663668751716614,
+    "filename": "aidrumthree.wav",
+    "startTime": 334.44861678004537,
+    "stopTime": 336.2481632653061
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.8985006213188171,
+    "filename": "aidrumthree.wav",
+    "startTime": 334.46022675736964,
+    "stopTime": 336.3526530612245
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.7434568405151367,
+    "filename": "bassblend2.wav",
+    "startTime": 336.51519274376415,
+    "stopTime": 337.18857142857144
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.9099615216255188,
+    "filename": "bassblend2.wav",
+    "startTime": 336.5384126984127,
+    "stopTime": 337.21179138322
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.2503143548965454,
+    "filename": "bassblend2.wav",
+    "startTime": 336.5384126984127,
+    "stopTime": 337.31628117913834
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.36994004249572754,
+    "filename": "bassblend2.wav",
+    "startTime": 336.55002267573695,
+    "stopTime": 337.28145124716553
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.5014569163322449,
+    "filename": "aidrumfour.wav",
+    "startTime": 337.4207709750567,
+    "stopTime": 338.8952380952381
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.5704204440116882,
+    "filename": "aidrumfour.wav",
+    "startTime": 337.4439909297052,
+    "stopTime": 338.9881179138322
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.29736629128456116,
+    "filename": "aidrumfour.wav",
+    "startTime": 337.4439909297052,
+    "stopTime": 338.8836281179138
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.49494364857673645,
+    "filename": "aidrumfour.wav",
+    "startTime": 337.4439909297052,
+    "stopTime": 338.96489795918365
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.5030284523963928,
+    "filename": "downdever.wav",
+    "startTime": 339.09260770975055,
+    "stopTime": 340.1142857142857
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.306294709444046,
+    "filename": "downdever.wav",
+    "startTime": 339.09260770975055,
+    "stopTime": 340.1142857142857
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.8960932493209839,
+    "filename": "downdever.wav",
+    "startTime": 339.13904761904763,
+    "stopTime": 340.17233560090705
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.41633036732673645,
+    "filename": "downdever.wav",
+    "startTime": 339.13904761904763,
+    "stopTime": 340.19555555555553
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.5995277166366577,
+    "filename": "downdever.wav",
+    "startTime": 340.50902494331064,
+    "stopTime": 341.67002267573696
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.13137270510196686,
+    "filename": "downdever.wav",
+    "startTime": 340.5206349206349,
+    "stopTime": 341.67002267573696
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.7397102117538452,
+    "filename": "downdever.wav",
+    "startTime": 340.5206349206349,
+    "stopTime": 341.70485260770977
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.06710367649793625,
+    "filename": "downdever.wav",
+    "startTime": 340.54385487528344,
+    "stopTime": 341.6932426303855
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.5534769296646118,
+    "filename": "downdever.wav",
+    "startTime": 341.8673922902494,
+    "stopTime": 342.30857142857144
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.9580520391464233,
+    "filename": "downdever.wav",
+    "startTime": 341.8790022675737,
+    "stopTime": 342.33179138322
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.8380149602890015,
+    "filename": "downdever.wav",
+    "startTime": 341.89061224489797,
+    "stopTime": 342.36662131519273
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.21437682211399078,
+    "filename": "downdever.wav",
+    "startTime": 341.89061224489797,
+    "stopTime": 342.35501133786846
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.0970616340637207,
+    "filename": "downdever.wav",
+    "startTime": 342.57560090702947,
+    "stopTime": 343.06612244897957
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.9262166023254395,
+    "filename": "downdever.wav",
+    "startTime": 342.57560090702947,
+    "stopTime": 343.0516099773243
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.6409144997596741,
+    "filename": "downdever.wav",
+    "startTime": 342.57560090702947,
+    "stopTime": 343.0748299319728
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.10455957800149918,
+    "filename": "downdever.wav",
+    "startTime": 342.598820861678,
+    "stopTime": 343.0516099773243
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.13489966094493866,
+    "filename": "downdever.wav",
+    "startTime": 343.24897959183676,
+    "stopTime": 343.75981859410433
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.7782516479492188,
+    "filename": "downdever.wav",
+    "startTime": 343.24897959183676,
+    "stopTime": 343.7365986394558
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.17817047238349915,
+    "filename": "downdever.wav",
+    "startTime": 343.26058956916097,
+    "stopTime": 343.75981859410433
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.8868979215621948,
+    "filename": "downdever.wav",
+    "startTime": 343.26058956916097,
+    "stopTime": 343.7365986394558
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.21274423599243164,
+    "filename": "downdever.wav",
+    "startTime": 343.9571882086168,
+    "stopTime": 344.43319727891156
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.7694293260574341,
+    "filename": "downdever.wav",
+    "startTime": 343.9571882086168,
+    "stopTime": 344.44480725623583
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.11969877034425735,
+    "filename": "downdever.wav",
+    "startTime": 343.9804081632653,
+    "stopTime": 344.43319727891156
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.32123035192489624,
+    "filename": "downdever.wav",
+    "startTime": 343.9804081632653,
+    "stopTime": 344.43319727891156
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.0035485385451465845,
+    "filename": "downdever.wav",
+    "startTime": 344.63056689342403,
+    "stopTime": 345.820589569161
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.2674151659011841,
+    "filename": "downdever.wav",
+    "startTime": 344.63056689342403,
+    "stopTime": 345.82349206349204
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.8409600853919983,
+    "filename": "downdever.wav",
+    "startTime": 344.63056689342403,
+    "stopTime": 345.84961451247165
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.9817860722541809,
+    "filename": "downdever.wav",
+    "startTime": 344.65378684807257,
+    "stopTime": 345.8380045351474
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.6857386231422424,
+    "filename": "downdever.wav",
+    "startTime": 345.9889342403628,
+    "stopTime": 347.16154195011336
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.7792136073112488,
+    "filename": "downdever.wav",
+    "startTime": 345.9889342403628,
+    "stopTime": 347.16154195011336
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.6188514232635498,
+    "filename": "downdever.wav",
+    "startTime": 346.0237641723356,
+    "stopTime": 347.16154195011336
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.5801446437835693,
+    "filename": "downdever.wav",
+    "startTime": 346.0237641723356,
+    "stopTime": 347.16154195011336
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.9430663585662842,
+    "filename": "downdever.wav",
+    "startTime": 347.3589115646258,
+    "stopTime": 347.8697505668934
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.521111249923706,
+    "filename": "downdever.wav",
+    "startTime": 347.3705215419501,
+    "stopTime": 347.8697505668934
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.5849175453186035,
+    "filename": "downdever.wav",
+    "startTime": 347.3705215419501,
+    "stopTime": 347.89297052154194
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.5416703820228577,
+    "filename": "downdever.wav",
+    "startTime": 347.3705215419501,
+    "stopTime": 347.9045804988662
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.5760781168937683,
+    "filename": "downdever.wav",
+    "startTime": 348.05551020408166,
+    "stopTime": 348.5895691609977
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.5432602763175964,
+    "filename": "downdever.wav",
+    "startTime": 348.06712018140587,
+    "stopTime": 348.61278911564625
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.24254001677036285,
+    "filename": "downdever.wav",
+    "startTime": 348.0903401360544,
+    "stopTime": 348.5895691609977
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.2838022708892822,
+    "filename": "downdever.wav",
+    "startTime": 348.0903401360544,
+    "stopTime": 348.5895691609977
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.5643932819366455,
+    "filename": "downdever.wav",
+    "startTime": 348.77532879818597,
+    "stopTime": 349.28616780045354
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.21875236928462982,
+    "filename": "downdever.wav",
+    "startTime": 348.77532879818597,
+    "stopTime": 349.309387755102
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.8178495764732361,
+    "filename": "downdever.wav",
+    "startTime": 348.77532879818597,
+    "stopTime": 349.28616780045354
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.11460686475038528,
+    "filename": "downdever.wav",
+    "startTime": 348.7869387755102,
+    "stopTime": 349.28616780045354
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.9698055982589722,
+    "filename": "downdever.wav",
+    "startTime": 349.43709750566893,
+    "stopTime": 350.00598639455785
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.03214644640684128,
+    "filename": "downdever.wav",
+    "startTime": 349.4487074829932,
+    "stopTime": 350.00598639455785
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.008803361095488071,
+    "filename": "downdever.wav",
+    "startTime": 349.4487074829932,
+    "stopTime": 349.97115646258504
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.3591538965702057,
+    "filename": "downdever.wav",
+    "startTime": 349.47192743764174,
+    "stopTime": 349.9943764172336
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.4204207956790924,
+    "filename": "downdever.wav",
+    "startTime": 350.12208616780043,
+    "stopTime": 350.96961451247165
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.7997403144836426,
+    "filename": "downdever.wav",
+    "startTime": 350.14530612244897,
+    "stopTime": 350.9463945578231
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.189069464802742,
+    "filename": "downdever.wav",
+    "startTime": 350.15691609977324,
+    "stopTime": 351.06249433106575
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.7050471901893616,
+    "filename": "downdever.wav",
+    "startTime": 350.15691609977324,
+    "stopTime": 351.1089342403628
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.731608510017395,
+    "filename": "gtraggro.wav",
+    "startTime": 351.24825396825395,
+    "stopTime": 352.15383219954646
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.14794956147670746,
+    "filename": "gtraggro.wav",
+    "startTime": 351.2598639455782,
+    "stopTime": 352.15383219954646
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.9761684536933899,
+    "filename": "gtraggro.wav",
+    "startTime": 351.3063038548753,
+    "stopTime": 352.2118820861678
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.8947407007217407,
+    "filename": "gtraggro.wav",
+    "startTime": 351.3063038548753,
+    "stopTime": 352.15383219954646
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.644724428653717,
+    "filename": "aibasseven.wav",
+    "startTime": 352.37442176870746,
+    "stopTime": 353.91854875283445
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.8461712002754211,
+    "filename": "aibasseven.wav",
+    "startTime": 352.37442176870746,
+    "stopTime": 353.8488888888889
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.54559326171875,
+    "filename": "aibasseven.wav",
+    "startTime": 352.37442176870746,
+    "stopTime": 353.8488888888889
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.529768705368042,
+    "filename": "aibasseven.wav",
+    "startTime": 352.37442176870746,
+    "stopTime": 353.8837188208617
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.8193576335906982,
+    "filename": "downdever.wav",
+    "startTime": 356.6468934240363,
+    "stopTime": 357.35510204081635
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.8706262707710266,
+    "filename": "downdever.wav",
+    "startTime": 356.6468934240363,
+    "stopTime": 357.4247619047619
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.18391646444797516,
+    "filename": "downdever.wav",
+    "startTime": 357.35510204081635,
+    "stopTime": 357.9356009070295
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.14574815332889557,
+    "filename": "downdever.wav",
+    "startTime": 357.6221315192744,
+    "stopTime": 357.8311111111111
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.7346656918525696,
+    "filename": "downdever.wav",
+    "startTime": 358.2722902494331
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.8669098019599915,
+    "filename": "downdever.wav",
+    "startTime": 358.2839002267574
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.030499529093503952,
+    "filename": "aibasseven.wav",
+    "startTime": 360.0137868480726,
+    "stopTime": 360.9193650793651
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.48702070116996765,
+    "filename": "aibasseven.wav",
+    "startTime": 360.0137868480726,
+    "stopTime": 360.8845351473923
+  },
+  {
+    "playbackRate": 0.8408964152537146,
+    "pan": -0.47375428676605225,
+    "filename": "aibasseven.wav",
+    "startTime": 361.02385487528346,
+    "stopTime": 362.18485260770973
+  },
+  {
+    "playbackRate": 0.8408964152537146,
+    "pan": -0.04463040083646774,
+    "filename": "aibasseven.wav",
+    "startTime": 361.0586848072562,
+    "stopTime": 362.1384126984127
+  },
+  {
+    "playbackRate": 0.8908987181403393,
+    "pan": -0.4991065263748169,
+    "filename": "aibasseven.wav",
+    "startTime": 362.25451247165535,
+    "stopTime": 363.31102040816324
+  },
+  {
+    "playbackRate": 0.8408964152537146,
+    "pan": -0.47016584873199463,
+    "filename": "aibasseven.wav",
+    "startTime": 363.3342403628118,
+    "stopTime": 364.51845804988665
+  },
+  {
+    "playbackRate": 0.9438743126816935,
+    "pan": 0.06657565385103226,
+    "filename": "aibasseven.wav",
+    "startTime": 366.24834467120183,
+    "stopTime": 366.89850340136053
+  },
+  {
+    "playbackRate": 0.8908987181403393,
+    "pan": 0.669157862663269,
+    "filename": "aibasseven.wav",
+    "startTime": 367.0378231292517,
+    "stopTime": 367.7228117913832
+  },
+  {
+    "playbackRate": 0.8408964152537146,
+    "pan": 0.9826928377151489,
+    "filename": "aibasseven.wav",
+    "startTime": 367.757641723356,
+    "stopTime": 368.3265306122449
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.1663612723350525,
+    "filename": "aibasseven.wav",
+    "startTime": 368.3265306122449,
+    "stopTime": 368.860589569161
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.07753106951713562,
+    "filename": "blocks.wav",
+    "startTime": 369.6268480725624,
+    "stopTime": 370.4859863945578
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.15092168748378754,
+    "filename": "blocks.wav",
+    "startTime": 369.66167800453513,
+    "stopTime": 370.32344671201815
+  },
+  {
+    "playbackRate": 1.0594630943592953,
+    "pan": 0.4458955228328705,
+    "filename": "blocks.wav",
+    "startTime": 370.7181859410431,
+    "stopTime": 370.7762358276644
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.3234506845474243,
+    "filename": "blocks.wav",
+    "startTime": 370.9968253968254,
+    "stopTime": 371.7050340136054
+  },
+  {
+    "playbackRate": 1.2599210498948732,
+    "pan": -0.9533021450042725,
+    "filename": "blocks.wav",
+    "startTime": 371.1709750566893,
+    "stopTime": 371.86757369614514
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.2139633148908615,
+    "filename": "blocks.wav",
+    "startTime": 371.8095238095238,
+    "stopTime": 371.9720634920635
+  },
+  {
+    "playbackRate": 1.2599210498948732,
+    "pan": 0.9531201124191284,
+    "filename": "blocks.wav",
+    "startTime": 371.96045351473924,
+    "stopTime": 372.9821315192744
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.41919204592704773,
+    "filename": "blocks.wav",
+    "startTime": 372.13460317460317,
+    "stopTime": 372.2855328798186
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.3565034568309784,
+    "filename": "blocks.wav",
+    "startTime": 372.45968253968255,
+    "stopTime": 372.657052154195
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": -0.17057742178440094,
+    "filename": "blocks.wav",
+    "startTime": 373.14467120181405,
+    "stopTime": 373.41170068027213
+  },
+  {
+    "playbackRate": 1.2599210498948732,
+    "pan": 0.7527111172676086,
+    "filename": "blocks.wav",
+    "startTime": 373.33043083900225,
+    "stopTime": 373.539410430839
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": -0.15012219548225403,
+    "filename": "blocks.wav",
+    "startTime": 373.4349206349206,
+    "stopTime": 373.4813605442177
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.0732264593243599,
+    "filename": "blocks.wav",
+    "startTime": 373.6090702947846,
+    "stopTime": 373.9341496598639
+  },
+  {
+    "playbackRate": 1.2599210498948732,
+    "pan": 0.06042036786675453,
+    "filename": "blocks.wav",
+    "startTime": 373.64390022675735,
+    "stopTime": 373.73678004535145
+  },
+  {
+    "playbackRate": 1.2599210498948732,
+    "pan": 0.9628455638885498,
+    "filename": "blocks.wav",
+    "startTime": 373.7948299319728,
+    "stopTime": 374.0270294784581
+  },
+  {
+    "playbackRate": 1.2599210498948732,
+    "pan": -0.5625879168510437,
+    "filename": "four_doots.wav",
+    "startTime": 374.421768707483,
+    "stopTime": 374.86294784580497
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": -0.27372726798057556,
+    "filename": "four_doots.wav",
+    "startTime": 374.421768707483,
+    "stopTime": 374.642358276644
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": -0.7557085752487183,
+    "filename": "four_doots.wav",
+    "startTime": 374.9790476190476,
+    "stopTime": 375.18802721088434
+  },
+  {
+    "playbackRate": 1.2599210498948732,
+    "pan": 0.9488427042961121,
+    "filename": "four_doots.wav",
+    "startTime": 375.083537414966,
+    "stopTime": 375.3273469387755
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.2532370686531067,
+    "filename": "four_doots.wav",
+    "startTime": 375.3273469387755,
+    "stopTime": 375.53632653061226
+  },
+  {
+    "playbackRate": 1.3348398541700344,
+    "pan": 0.5743187665939331,
+    "filename": "four_doots.wav",
+    "startTime": 375.4318367346939,
+    "stopTime": 375.4782766439909
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.765464186668396,
+    "filename": "four_doots_2.wav",
+    "startTime": 375.95428571428573,
+    "stopTime": 376.17487528344674
+  },
+  {
+    "playbackRate": 1.2599210498948732,
+    "pan": -0.5980992317199707,
+    "filename": "four_doots_2.wav",
+    "startTime": 376.07038548752837,
+    "stopTime": 376.2793650793651
+  },
+  {
+    "playbackRate": 1.189207115002721,
+    "pan": 0.9819970726966858,
+    "filename": "four_doots_2.wav",
+    "startTime": 376.2445351473923,
+    "stopTime": 376.2793650793651
+  },
+  {
+    "playbackRate": 0.8408964152537146,
+    "pan": 0.6888253688812256,
+    "filename": "four_doots_2.wav",
+    "startTime": 376.40707482993196,
+    "stopTime": 376.53478458049887
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.5828709602355957,
+    "filename": "four_doots_2.wav",
+    "startTime": 376.44190476190477,
+    "stopTime": 376.5115646258503
+  },
+  {
+    "playbackRate": 0.8908987181403393,
+    "pan": -0.016732320189476013,
+    "filename": "four_doots_2.wav",
+    "startTime": 376.4767346938776,
+    "stopTime": 376.6973242630385
+  },
+  {
+    "playbackRate": 0.7071067811865475,
+    "pan": -0.9425107836723328,
+    "filename": "four_doots_2.wav",
+    "startTime": 376.4767346938776,
+    "stopTime": 376.6160544217687
+  },
+  {
+    "playbackRate": 0.8408964152537146,
+    "pan": -0.7313784956932068,
+    "filename": "four_doots_2.wav",
+    "startTime": 376.59283446712016,
+    "stopTime": 376.91791383219953
+  },
+  {
+    "playbackRate": 0.8408964152537146,
+    "pan": 0.9374486804008484,
+    "filename": "four_doots_2.wav",
+    "startTime": 376.73215419501133,
+    "stopTime": 376.95274376417234
+  },
+  {
+    "playbackRate": 0.8408964152537146,
+    "pan": -0.22860892117023468,
+    "filename": "four_doots_2.wav",
+    "startTime": 376.98757369614515,
+    "stopTime": 377.1849433106576
+  },
+  {
+    "playbackRate": 0.7071067811865475,
+    "pan": -0.5999928116798401,
+    "filename": "four_doots_2.wav",
+    "startTime": 377.13850340136054,
+    "stopTime": 377.28362811791385
+  },
+  {
+    "playbackRate": 0.7491535384383408,
+    "pan": -0.5257912874221802,
+    "filename": "four_doots_2.wav",
+    "startTime": 377.21977324263037,
+    "stopTime": 377.4403628117914
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.20492281019687653,
+    "filename": "four_doots_2.wav",
+    "startTime": 377.21977324263037,
+    "stopTime": 377.5332426303855
+  },
+  {
+    "playbackRate": 0.8408964152537146,
+    "pan": 0.39853355288505554,
+    "filename": "four_doots_2.wav",
+    "startTime": 377.3474829931973,
+    "stopTime": 377.54485260770974
+  },
+  {
+    "playbackRate": 0.8408964152537146,
+    "pan": 0.3082369565963745,
+    "filename": "drumbleh2.wav",
+    "startTime": 378.5317006802721,
+    "stopTime": 378.5665306122449
+  },
+  {
+    "playbackRate": 0.7071067811865475,
+    "pan": -0.5113384127616882,
+    "filename": "drumbleh2.wav",
+    "startTime": 378.5317006802721,
+    "stopTime": 378.7406802721088
+  },
+  {
+    "playbackRate": 0.7491535384383408,
+    "pan": 0.13458754122257233,
+    "filename": "drumbleh2.wav",
+    "startTime": 378.5549206349206,
+    "stopTime": 378.7755102040816
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.7009609937667847,
+    "filename": "drumbleh2.wav",
+    "startTime": 378.6826303854875,
+    "stopTime": 378.8451700680272
+  },
+  {
+    "playbackRate": 0.8408964152537146,
+    "pan": 0.419130802154541,
+    "filename": "drumbleh2.wav",
+    "startTime": 378.6942403628118,
+    "stopTime": 378.98448979591836
+  },
+  {
+    "playbackRate": 0.7071067811865475,
+    "pan": 0.6759389042854309,
+    "filename": "drumbleh2.wav",
+    "startTime": 378.94965986394556,
+    "stopTime": 379.12380952380954
+  },
+  {
+    "playbackRate": 1,
+    "pan": -0.3912217319011688,
+    "filename": "drumbleh2.wav",
+    "startTime": 379.0541496598639,
+    "stopTime": 379.29795918367347
+  },
+  {
+    "playbackRate": 0.8408964152537146,
+    "pan": 0.07701541483402252,
+    "filename": "drumbleh2.wav",
+    "startTime": 379.147029478458,
+    "stopTime": 379.39083900226757
+  },
+  {
+    "playbackRate": 0.7071067811865475,
+    "pan": 0.23156318068504333,
+    "filename": "drumbleh2.wav",
+    "startTime": 379.36761904761903,
+    "stopTime": 379.6114285714286
+  },
+  {
+    "playbackRate": 0.9438743126816935,
+    "pan": 0.8250718116760254,
+    "filename": "drumbleh2.wav",
+    "startTime": 379.4140589569161,
+    "stopTime": 379.6346485260771
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.8663588762283325,
+    "filename": "drumbleh2.wav",
+    "startTime": 379.4488888888889,
+    "stopTime": 379.6926984126984
+  },
+  {
+    "playbackRate": 0.8408964152537146,
+    "pan": 0.8563439846038818,
+    "filename": "drumbleh2.wav",
+    "startTime": 379.5533786848072,
+    "stopTime": 379.84362811791385
+  },
+  {
+    "playbackRate": 0.9438743126816935,
+    "pan": 0.839956521987915,
+    "filename": "drumbleh2.wav",
+    "startTime": 379.8320181405896,
+    "stopTime": 380.07582766439907
+  },
+  {
+    "playbackRate": 1,
+    "pan": 0.4761168360710144,
+    "filename": "drumbleh2.wav",
+    "startTime": 379.8320181405896,
+    "stopTime": 380.16870748299317
+  },
+  {
+    "playbackRate": 0.8408964152537146,
+    "pan": 0.3527567386627197,
+    "filename": "drumbleh2.wav",
+    "startTime": 380.0061678004535,
+    "stopTime": 380.1919274376417
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": -0.4051326811313629,
+    "filename": "aibassfive.wav",
+    "startTime": 384.24380952380955,
+    "stopTime": 384.48761904761903
+  },
+  {
+    "playbackRate": 0.7071067811865475,
+    "pan": -0.13840018212795258,
+    "filename": "aibassfive.wav",
+    "startTime": 384.3250793650794,
+    "stopTime": 384.55727891156465
+  },
+  {
+    "playbackRate": 0.7491535384383408,
+    "pan": -0.8624517321586609,
+    "filename": "aibassfive.wav",
+    "startTime": 384.39473922902494,
+    "stopTime": 384.5340589569161
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": -0.30118271708488464,
+    "filename": "aibassfive.wav",
+    "startTime": 384.4643990929705,
+    "stopTime": 384.661768707483
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": 0.8776609301567078,
+    "filename": "aibassfive.wav",
+    "startTime": 384.7314285714286,
+    "stopTime": 384.9404081632653
+  },
+  {
+    "playbackRate": 0.7071067811865475,
+    "pan": 0.7009948492050171,
+    "filename": "aibassfive.wav",
+    "startTime": 384.7778684807256,
+    "stopTime": 384.9984580498866
+  },
+  {
+    "playbackRate": 0.7491535384383408,
+    "pan": 0.23453252017498016,
+    "filename": "aibassfive.wav",
+    "startTime": 384.88235827664397,
+    "stopTime": 385.0448979591837
+  },
+  {
+    "playbackRate": 0.7937005259840998,
+    "pan": 0.1418287307024002,
+    "filename": "aibassfive.wav",
+    "startTime": 384.9520181405896,
+    "stopTime": 385.0681179138322
+  },
+  {
+    "playbackRate": 0.5612310241546865,
+    "pan": 0.43462318181991577,
+    "filename": "aidrumfive.wav",
+    "startTime": 385.48607709750564,
+    "stopTime": 385.63120181405895
+  },
+  {
+    "playbackRate": 0.5946035575013605,
+    "pan": 0.8753451704978943,
+    "filename": "aidrumfive.wav",
+    "startTime": 385.5092970521542,
+    "stopTime": 385.7298866213152
+  },
+  {
+    "playbackRate": 0.6299605249474366,
+    "pan": 0.053734004497528076,
+    "filename": "aidrumfive.wav",
+    "startTime": 385.5789569160998,
+    "stopTime": 385.77632653061227
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": 0.7676243782043457,
+    "filename": "aidrumfive.wav",
+    "startTime": 385.64861678004536,
+    "stopTime": 385.89242630385485
+  },
+  {
+    "playbackRate": 0.5612310241546865,
+    "pan": 0.08901840448379517,
+    "filename": "aidrumfive.wav",
+    "startTime": 385.88081632653063,
+    "stopTime": 386.05496598639456
+  },
+  {
+    "playbackRate": 0.5946035575013605,
+    "pan": -0.9704660177230835,
+    "filename": "aidrumfive.wav",
+    "startTime": 385.9504761904762,
+    "stopTime": 386.14784580498866
+  },
+  {
+    "playbackRate": 0.6299605249474366,
+    "pan": -0.8077493906021118,
+    "filename": "aidrumfive.wav",
+    "startTime": 386.0085260770975,
+    "stopTime": 386.20589569160995
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": -0.546658456325531,
+    "filename": "aidrumfive.wav",
+    "startTime": 386.0781859410431,
+    "stopTime": 386.34521541950113
+  },
+  {
+    "playbackRate": 0.5612310241546865,
+    "pan": -0.1636909693479538,
+    "filename": "aidrumfive.wav",
+    "startTime": 386.28716553287984,
+    "stopTime": 386.4845351473923
+  },
+  {
+    "playbackRate": 0.5946035575013605,
+    "pan": -0.600662350654602,
+    "filename": "aidrumfive.wav",
+    "startTime": 386.3568253968254,
+    "stopTime": 386.51936507936506
+  },
+  {
+    "playbackRate": 0.5946035575013605,
+    "pan": 0.8651401400566101,
+    "filename": "tom_rolls_gravy.wav",
+    "startTime": 386.73995464852607,
+    "stopTime": 386.8212244897959
+  },
+  {
+    "playbackRate": 0.6299605249474366,
+    "pan": -0.08972152322530746,
+    "filename": "tom_rolls_gravy.wav",
+    "startTime": 386.73995464852607,
+    "stopTime": 386.8096145124717
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": -0.4109795391559601,
+    "filename": "tom_rolls_gravy.wav",
+    "startTime": 386.78639455782314,
+    "stopTime": 387.0418140589569
+  },
+  {
+    "playbackRate": 0.5946035575013605,
+    "pan": 0.9867066740989685,
+    "filename": "tom_rolls_gravy.wav",
+    "startTime": 387.00698412698415,
+    "stopTime": 387.0418140589569
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": 0.6495374441146851,
+    "filename": "tom_rolls_gravy.wav",
+    "startTime": 387.1695238095238,
+    "stopTime": 387.4017233560091
+  },
+  {
+    "playbackRate": 0.5946035575013605,
+    "pan": 0.9646539092063904,
+    "filename": "tom_rolls_gravy.wav",
+    "startTime": 387.3901133786848,
+    "stopTime": 387.4481632653061
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": 0.9477981925010681,
+    "filename": "tom_rolls_gravy.wav",
+    "startTime": 387.4481632653061,
+    "stopTime": 387.6107029478458
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": -0.09137666970491409,
+    "filename": "tom_rolls_gravy.wav",
+    "startTime": 389.41024943310657,
+    "stopTime": 389.6540589569161
+  },
+  {
+    "playbackRate": 0.5612310241546865,
+    "pan": -0.8164323568344116,
+    "filename": "tom_rolls_gravy.wav",
+    "startTime": 389.5379591836735,
+    "stopTime": 389.73532879818595
+  },
+  {
+    "playbackRate": 0.5946035575013605,
+    "pan": -0.8303526639938354,
+    "filename": "tom_rolls_gravy.wav",
+    "startTime": 389.6772789115646,
+    "stopTime": 389.86303854875285
+  },
+  {
+    "playbackRate": 0.6299605249474366,
+    "pan": -0.200540691614151,
+    "filename": "tom_rolls_gravy.wav",
+    "startTime": 389.70049886621314,
+    "stopTime": 389.9791383219955
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": 0.1939978450536728,
+    "filename": "tom_rolls_gravy.wav",
+    "startTime": 389.86303854875285,
+    "stopTime": 390.04879818594105
+  },
+  {
+    "playbackRate": 0.5612310241546865,
+    "pan": -0.2079983651638031,
+    "filename": "tom_rolls_gravy.wav",
+    "startTime": 390.0604081632653,
+    "stopTime": 390.23455782312925
+  },
+  {
+    "playbackRate": 0.5946035575013605,
+    "pan": 0.8025381565093994,
+    "filename": "tom_rolls_gravy.wav",
+    "startTime": 390.1532879818594,
+    "stopTime": 390.32743764172335
+  },
+  {
+    "playbackRate": 0.6299605249474366,
+    "pan": 0.8805207014083862,
+    "filename": "tom_rolls_gravy.wav",
+    "startTime": 390.19972789115644,
+    "stopTime": 390.3970975056689
+  },
+  {
+    "playbackRate": 0.6674199270850172,
+    "pan": 0.6595510840415955,
+    "filename": "tom_rolls_gravy.wav",
+    "startTime": 390.26938775510206,
+    "stopTime": 390.4319274376417
+  }
+]

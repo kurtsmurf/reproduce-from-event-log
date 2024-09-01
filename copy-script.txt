@@ -1,0 +1,6 @@
+find \
+    ~/wavs/ \
+    -maxdepth 1 \
+    -type f \
+    -regex ".*/\(aibasseven.wav\|aibassfive.wav\|aibassfour.wav\|aibassnine.wav\|aibassone.wav\|aibassthree.wav\|aidrumfive.wav\|aidrumfour.wav\|aidrumthree.wav\|badbip.wav\|badbleh.wav\|badbongos.wav\|badboop.wav\|badclick.wav\|badfragment.wav\|badknock.wav\|badloop.wav\|badlooptwo.wav\|badrise.wav\|badsnare.wav\|bassblend2.wav\|blocks.wav\|boobadooboo.wav\|downdever.wav\|drumbleh2.wav\|drumblehoctave.wav\|four_doots_2.wav\|four_doots.wav\|greevy.wav\|greevy2.wav\|greevy3.wav\|gtraggro.wav\|gtraggro3.wav\|gtraggro6.wav\|mariobop.wav\|pump.wav\|pump2.wav\|qordtwo.wav\|shrug.wav\|tom_rolls_gravy.wav\)$" \
+    -exec cp {} ./sounds \;

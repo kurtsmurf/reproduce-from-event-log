@@ -1,0 +1,140 @@
+// @ts-check
+
+async function render() {
+  const events = await fetch("./output.json")
+    .then((response) => response.json());
+
+  console.log("num events: - ", events.length);
+
+  // is this right?
+  const startTime = events[0].startTime;
+  const stopTime = events[events.length - 1].stopTime;
+
+  const duration = stopTime - startTime;
+
+  console.log("duration (seconds) - ", duration);
+
+  // was this the sample rate when recording?
+  const sampleRate = 44100;
+
+  const offlineContext = new OfflineAudioContext(
+    2,
+    duration * sampleRate,
+    sampleRate,
+  );
+
+  let distinct_file_names = new Set();
+
+  for (const event of events) {
+    distinct_file_names.add(event.filename);
+  }
+
+  console.log("distinct_file_names", "\n", distinct_file_names);
+
+  const soundBank = new Map();
+
+  console.log("loading files into sound bank - ", performance.now());
+
+  for (const filename of distinct_file_names) {
+    const buffer = await fetch("./sounds/" + filename)
+      .then((response) => response.arrayBuffer())
+      .then((ab) => offlineContext.decodeAudioData(ab));
+
+    soundBank.set(filename, buffer);
+  }
+
+  console.log("finished loading files into sound bank - ", performance.now());
+
+  console.log("scheduling playback - ", performance.now());
+
+  const out = offlineContext.createDynamicsCompressor();
+  out.connect(offlineContext.destination);
+
+  for (const event of events) {
+    const duration = event.stopTime - event.startTime;
+    schedulePlayback(
+      offlineContext,
+      soundBank.get(event.filename),
+      event.playbackRate,
+      event.startTime,
+      duration,
+      out,
+      event.pan,
+    );
+  }
+
+  console.log("start rendering - ", performance.now());
+
+  const result = await offlineContext.startRendering();
+
+  console.log("done rendering - ", performance.now());
+
+  return result;
+}
+
+/**
+ * @param {OfflineAudioContext} audioContext
+ * @param {AudioBuffer} buffer
+ * @param {number} speed
+ * @param {number} when
+ * @param {number} duration
+ * @param {AudioNode} out
+ * @param {number} pan
+ */
+function schedulePlayback(
+  audioContext,
+  buffer,
+  speed,
+  when,
+  duration,
+  out,
+  pan,
+) {
+  const sourceNode = audioContext.createBufferSource();
+  sourceNode.playbackRate.value = speed;
+  sourceNode.loop = true;
+  sourceNode.buffer = buffer;
+
+  const panner = audioContext.createStereoPanner();
+  panner.pan.value = pan;
+
+  sourceNode.connect(panner).connect(out);
+  try {
+    if (Number.isNaN(duration)) return; // why?
+    sourceNode.start(when, 0, duration);
+  } catch (e) {
+    console.error(e);
+  }
+}
+
+function play(buffer) {
+  const ac = new AudioContext();
+  const source = ac.createBufferSource();
+  source.buffer = buffer;
+  source.loop = true;
+  source.connect(ac.destination);
+  ac.resume();
+  source.start();
+}
+
+window.test = () =>
+  render().then((result) => {
+    console.log("playing - ", performance.now());
+    play(result);
+  });
+
+/*
+
+test()
+Promise {<pending>}
+num events: -  663
+distinct_file_names
+ Set(40) {'badknock.wav', 'badfragment.wav', 'badloop.wav', 'badlooptwo.wav', 'pump2.wav', …}
+loading files into sound bank -  2321.2000002861023
+finished loading files into sound bank -  3041.1000003814697
+scheduling playback -  3041.300000190735
+start rendering -  3060
+done rendering -  44994.40000009537
+playing -  44994.60000038147
+
+*/

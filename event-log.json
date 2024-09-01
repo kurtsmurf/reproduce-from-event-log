@@ -1,0 +1,9273 @@
+[
+{
+  "action": "start",
+  "key": "f",
+  "playbackRate": 1.4142135623730951,
+  "pan": -0.796900749206543,
+  "filename": "badknock.wav",
+  "time": 0
+},
+{
+  "action": "stop",
+  "key": "f",
+  "filename": "badknock.wav",
+  "time": 7.093696145124716
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.9754005074501038,
+  "filename": "badknock.wav",
+  "time": 7.1053061224489795
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "badknock.wav",
+  "time": 7.267845804988662
+},
+{
+  "action": "start",
+  "key": "a",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.03650990128517151,
+  "filename": "badknock.wav",
+  "time": 7.534875283446712
+},
+{
+  "action": "stop",
+  "key": "a",
+  "filename": "badknock.wav",
+  "time": 11.551927437641723
+},
+{
+  "action": "start",
+  "key": "s",
+  "playbackRate": 1.2599210498948732,
+  "pan": 0.8886061906814575,
+  "filename": "badknock.wav",
+  "time": 11.57514739229025
+},
+{
+  "action": "stop",
+  "key": "s",
+  "filename": "badknock.wav",
+  "time": 11.760907029478458
+},
+{
+  "action": "start",
+  "key": "f",
+  "playbackRate": 1.4142135623730951,
+  "pan": -0.8256708383560181,
+  "filename": "badknock.wav",
+  "time": 11.92344671201814
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.8483116626739502,
+  "filename": "badknock.wav",
+  "time": 15.371609977324264
+},
+{
+  "action": "stop",
+  "key": "f",
+  "filename": "badknock.wav",
+  "time": 15.383219954648526
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "badknock.wav",
+  "time": 15.499319727891157
+},
+{
+  "action": "start",
+  "key": "a",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.1688777059316635,
+  "filename": "badknock.wav",
+  "time": 15.66185941043084
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 2.1189261887185906,
+  "pan": 0.25195929408073425,
+  "filename": "badfragment.wav",
+  "time": 20.816689342403627
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "badfragment.wav",
+  "time": 30.499410430839003
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 2.1189261887185906,
+  "pan": 0.5456874370574951,
+  "filename": "badloop.wav",
+  "time": 30.882539682539683
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "badloop.wav",
+  "time": 31.973877551020408
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.43628451228141785,
+  "filename": "badloop.wav",
+  "time": 32.066757369614514
+},
+{
+  "action": "start",
+  "key": "k",
+  "playbackRate": 1.7817974362806788,
+  "pan": 0.9685245752334595,
+  "filename": "badloop.wav",
+  "time": 32.82140589569161
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "badloop.wav",
+  "time": 32.8562358276644
+},
+{
+  "action": "stop",
+  "key": "k",
+  "filename": "badloop.wav",
+  "time": 33.6108843537415
+},
+{
+  "action": "start",
+  "key": "l",
+  "playbackRate": 1.887748625363387,
+  "pan": 0.3275604546070099,
+  "filename": "badloop.wav",
+  "time": 33.645714285714284
+},
+{
+  "action": "stop",
+  "key": "l",
+  "filename": "badloop.wav",
+  "time": 35.50331065759637
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.563909649848938,
+  "filename": "badloop.wav",
+  "time": 35.514920634920635
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "badloop.wav",
+  "time": 38.963083900226756
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": -0.631365954875946,
+  "filename": "badloop.wav",
+  "time": 39.05596371882086
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "badloop.wav",
+  "time": 40.04281179138322
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": -0.9992098808288574,
+  "filename": "badloop.wav",
+  "time": 40.12408163265306
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "badloop.wav",
+  "time": 41.33151927437642
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": -0.6089253425598145,
+  "filename": "badloop.wav",
+  "time": 41.40117913832199
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "badloop.wav",
+  "time": 42.504126984126984
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": -0.16284123063087463,
+  "filename": "badloop.wav",
+  "time": 42.58539682539683
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "badloop.wav",
+  "time": 43.6302947845805
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": -0.03926178440451622,
+  "filename": "badloop.wav",
+  "time": 43.699954648526074
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "badloop.wav",
+  "time": 45.186031746031745
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.8710696697235107,
+  "filename": "badloop.wav",
+  "time": 45.27891156462585
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "badloop.wav",
+  "time": 46.9275283446712
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.8827778100967407,
+  "filename": "badloop.wav",
+  "time": 47.03201814058957
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "badloop.wav",
+  "time": 48.146575963718824
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.7620036602020264,
+  "filename": "badloop.wav",
+  "time": 48.22784580498866
+},
+{
+  "action": "start",
+  "key": ".",
+  "playbackRate": 1.5874010519681994,
+  "pan": -0.22255147993564606,
+  "filename": "badloop.wav",
+  "time": 48.22784580498866
+},
+{
+  "action": "stop",
+  "key": ".",
+  "filename": "badloop.wav",
+  "time": 49.11020408163265
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "badloop.wav",
+  "time": 49.14503401360544
+},
+{
+  "action": "start",
+  "key": ".",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.695550262928009,
+  "filename": "badloop.wav",
+  "time": 49.21469387755102
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.0836055725812912,
+  "filename": "badloop.wav",
+  "time": 49.36562358276644
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.03483053296804428,
+  "filename": "badloop.wav",
+  "time": 49.85324263038549
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "badloop.wav",
+  "time": 50.538231292517004
+},
+{
+  "action": "start",
+  "key": "e",
+  "playbackRate": 1.5874010519681994,
+  "pan": -0.7224499583244324,
+  "filename": "badloop.wav",
+  "time": 50.63111111111111
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "badloop.wav",
+  "time": 50.6659410430839
+},
+{
+  "action": "stop",
+  "key": ".",
+  "filename": "badloop.wav",
+  "time": 50.67755102040816
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": -0.6621707677841187,
+  "filename": "badloop.wav",
+  "time": 50.770430839002266
+},
+{
+  "action": "start",
+  "key": ".",
+  "playbackRate": 1.5874010519681994,
+  "pan": -0.5032960772514343,
+  "filename": "badloop.wav",
+  "time": 50.93297052154195
+},
+{
+  "action": "stop",
+  "key": "e",
+  "filename": "badloop.wav",
+  "time": 55.21705215419501
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "badloop.wav",
+  "time": 55.251882086167804
+},
+{
+  "action": "stop",
+  "key": ".",
+  "filename": "badloop.wav",
+  "time": 55.263492063492066
+},
+{
+  "action": "start",
+  "key": "e",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.40376368165016174,
+  "filename": "badloop.wav",
+  "time": 55.3795918367347
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.44340139627456665,
+  "filename": "badloop.wav",
+  "time": 55.43764172335601
+},
+{
+  "action": "start",
+  "key": ".",
+  "playbackRate": 1.5874010519681994,
+  "pan": -0.8085651397705078,
+  "filename": "badloop.wav",
+  "time": 55.576961451247165
+},
+{
+  "action": "stop",
+  "key": ".",
+  "filename": "badlooptwo.wav",
+  "time": 59.953922902494334
+},
+{
+  "action": "stop",
+  "key": "e",
+  "filename": "badlooptwo.wav",
+  "time": 59.965532879818596
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "badlooptwo.wav",
+  "time": 59.98875283446712
+},
+{
+  "action": "start",
+  "key": "e",
+  "playbackRate": 1.5874010519681994,
+  "pan": -0.03514746204018593,
+  "filename": "badlooptwo.wav",
+  "time": 60.10485260770975
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.026423662900924683,
+  "filename": "badlooptwo.wav",
+  "time": 60.1512925170068
+},
+{
+  "action": "start",
+  "key": ".",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.14109884202480316,
+  "filename": "badlooptwo.wav",
+  "time": 60.232562358276645
+},
+{
+  "action": "stop",
+  "key": "a",
+  "filename": "badlooptwo.wav",
+  "time": 63.285986394557824
+},
+{
+  "action": "stop",
+  "key": "e",
+  "filename": "pump2.wav",
+  "time": 65.09714285714286
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "pump2.wav",
+  "time": 65.15519274376418
+},
+{
+  "action": "stop",
+  "key": ".",
+  "filename": "pump2.wav",
+  "time": 65.16680272108843
+},
+{
+  "action": "start",
+  "key": "e",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.9367215633392334,
+  "filename": "pump2.wav",
+  "time": 65.23646258503402
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": -0.5672470927238464,
+  "filename": "pump2.wav",
+  "time": 65.31773242630385
+},
+{
+  "action": "start",
+  "key": ".",
+  "playbackRate": 1.5874010519681994,
+  "pan": -0.03408891335129738,
+  "filename": "pump2.wav",
+  "time": 65.42222222222222
+},
+{
+  "action": "stop",
+  "key": "e",
+  "filename": "pump2.wav",
+  "time": 66.96634920634921
+},
+{
+  "action": "start",
+  "key": "v",
+  "playbackRate": 1.189207115002721,
+  "pan": -0.4735732078552246,
+  "filename": "pump2.wav",
+  "time": 67.0940589569161
+},
+{
+  "action": "start",
+  "key": "a",
+  "playbackRate": 1.189207115002721,
+  "pan": -0.8793136477470398,
+  "filename": "pump2.wav",
+  "time": 67.1869387755102
+},
+{
+  "action": "stop",
+  "key": ".",
+  "filename": "pump2.wav",
+  "time": 67.29142857142857
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "pump2.wav",
+  "time": 67.3146485260771
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": -0.5165232419967651,
+  "filename": "pump2.wav",
+  "time": 68.61496598639455
+},
+{
+  "action": "stop",
+  "key": "v",
+  "filename": "pump2.wav",
+  "time": 68.76589569160998
+},
+{
+  "action": "start",
+  "key": ".",
+  "playbackRate": 1.5874010519681994,
+  "pan": -0.34425774216651917,
+  "filename": "pump2.wav",
+  "time": 68.80072562358276
+},
+{
+  "action": "stop",
+  "key": "a",
+  "filename": "pump2.wav",
+  "time": 68.94004535147393
+},
+{
+  "action": "start",
+  "key": "a",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.12986135482788086,
+  "filename": "pump2.wav",
+  "time": 70.50739229024943
+},
+{
+  "action": "start",
+  "key": "v",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.4235445261001587,
+  "filename": "pump2.wav",
+  "time": 70.50739229024943
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "pump2.wav",
+  "time": 70.60027210884354
+},
+{
+  "action": "stop",
+  "key": "v",
+  "filename": "pump2.wav",
+  "time": 70.62349206349207
+},
+{
+  "action": "stop",
+  "key": ".",
+  "filename": "pump2.wav",
+  "time": 70.63510204081632
+},
+{
+  "action": "start",
+  "key": "v",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.552645206451416,
+  "filename": "pump2.wav",
+  "time": 70.64671201814059
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.5674237608909607,
+  "filename": "pump2.wav",
+  "time": 72.56235827664399
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "pump2.wav",
+  "time": 72.64362811791383
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.8879926204681396,
+  "filename": "pump2.wav",
+  "time": 72.70167800453515
+},
+{
+  "action": "stop",
+  "key": "a",
+  "filename": "pump2.wav",
+  "time": 72.79455782312925
+},
+{
+  "action": "stop",
+  "key": "v",
+  "filename": "pump2.wav",
+  "time": 72.79455782312925
+},
+{
+  "action": "start",
+  "key": ".",
+  "playbackRate": 1.5874010519681994,
+  "pan": -0.5757606029510498,
+  "filename": "pump2.wav",
+  "time": 72.82938775510205
+},
+{
+  "action": "start",
+  "key": "a",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.0036466787569224834,
+  "filename": "pump2.wav",
+  "time": 74.62893424036281
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "pump2.wav",
+  "time": 74.68698412698413
+},
+{
+  "action": "stop",
+  "key": ".",
+  "filename": "pump2.wav",
+  "time": 74.69859410430838
+},
+{
+  "action": "start",
+  "key": "v",
+  "playbackRate": 1.189207115002721,
+  "pan": -0.44522690773010254,
+  "filename": "pump2.wav",
+  "time": 74.7566439909297
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.7056026458740234,
+  "filename": "pump2.wav",
+  "time": 76.92770975056689
+},
+{
+  "action": "start",
+  "key": ".",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.08206059783697128,
+  "filename": "pump2.wav",
+  "time": 77.03219954648526
+},
+{
+  "action": "stop",
+  "key": "v",
+  "filename": "pump2.wav",
+  "time": 77.04380952380953
+},
+{
+  "action": "stop",
+  "key": "a",
+  "filename": "pump2.wav",
+  "time": 77.05541950113378
+},
+{
+  "action": "start",
+  "key": "v",
+  "playbackRate": 1.189207115002721,
+  "pan": -0.7456508874893188,
+  "filename": "pump2.wav",
+  "time": 78.95945578231293
+},
+{
+  "action": "start",
+  "key": "a",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.08278372883796692,
+  "filename": "pump2.wav",
+  "time": 78.97106575963718
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "pump2.wav",
+  "time": 79.00589569160998
+},
+{
+  "action": "stop",
+  "key": ".",
+  "filename": "pump2.wav",
+  "time": 79.01750566893423
+},
+{
+  "action": "stop",
+  "key": "a",
+  "filename": "badbleh.wav",
+  "time": 82.4540589569161
+},
+{
+  "action": "stop",
+  "key": "v",
+  "filename": "badbleh.wav",
+  "time": 82.47727891156462
+},
+{
+  "action": "start",
+  "key": "a",
+  "playbackRate": 1.189207115002721,
+  "pan": -0.0916312038898468,
+  "filename": "badbleh.wav",
+  "time": 82.53532879818594
+},
+{
+  "action": "start",
+  "key": "v",
+  "playbackRate": 1.189207115002721,
+  "pan": -0.12487231194972992,
+  "filename": "badbleh.wav",
+  "time": 82.61659863945579
+},
+{
+  "action": "stop",
+  "key": "v",
+  "filename": "badbongos.wav",
+  "time": 83.59183673469387
+},
+{
+  "action": "stop",
+  "key": "a",
+  "filename": "badbongos.wav",
+  "time": 83.75437641723356
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.7374617457389832,
+  "filename": "badbongos.wav",
+  "time": 83.77759637188208
+},
+{
+  "action": "start",
+  "key": ".",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.302990198135376,
+  "filename": "badbongos.wav",
+  "time": 83.90530612244898
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "badboop.wav",
+  "time": 84.70639455782313
+},
+{
+  "action": "stop",
+  "key": ".",
+  "filename": "badboop.wav",
+  "time": 84.71800453514739
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.47789329290390015,
+  "filename": "badboop.wav",
+  "time": 84.9037641723356
+},
+{
+  "action": "start",
+  "key": ".",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.840104341506958,
+  "filename": "badboop.wav",
+  "time": 85.03147392290249
+},
+{
+  "action": "stop",
+  "key": ".",
+  "filename": "badsnare.wav",
+  "time": 85.64680272108843
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "badsnare.wav",
+  "time": 85.6584126984127
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.30368685722351074,
+  "filename": "badsnare.wav",
+  "time": 85.79773242630385
+},
+{
+  "action": "start",
+  "key": ".",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.4594094753265381,
+  "filename": "badsnare.wav",
+  "time": 85.8441723356009
+},
+{
+  "action": "stop",
+  "key": ".",
+  "filename": "badbip.wav",
+  "time": 86.45950113378684
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "badbip.wav",
+  "time": 86.45950113378684
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": -0.8523452281951904,
+  "filename": "badbip.wav",
+  "time": 86.73814058956916
+},
+{
+  "action": "start",
+  "key": ".",
+  "playbackRate": 1.5874010519681994,
+  "pan": -0.6971689462661743,
+  "filename": "badbip.wav",
+  "time": 86.78458049886622
+},
+{
+  "action": "stop",
+  "key": ".",
+  "filename": "badbip.wav",
+  "time": 87.5740589569161
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "badbip.wav",
+  "time": 87.58566893424036
+},
+{
+  "action": "start",
+  "key": "a",
+  "playbackRate": 1.189207115002721,
+  "pan": -0.9217666983604431,
+  "filename": "badbip.wav",
+  "time": 87.86430839002267
+},
+{
+  "action": "start",
+  "key": "g",
+  "playbackRate": 1.4983070768766815,
+  "pan": -0.6768307685852051,
+  "filename": "badbip.wav",
+  "time": 88.13133786848073
+},
+{
+  "action": "stop",
+  "key": "g",
+  "filename": "badbip.wav",
+  "time": 88.2009977324263
+},
+{
+  "action": "start",
+  "key": "v",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.5838502049446106,
+  "filename": "badbip.wav",
+  "time": 88.24743764172335
+},
+{
+  "action": "stop",
+  "key": "v",
+  "filename": "badrise.wav",
+  "time": 88.53768707482993
+},
+{
+  "action": "stop",
+  "key": "a",
+  "filename": "badrise.wav",
+  "time": 88.59573696145125
+},
+{
+  "action": "start",
+  "key": "v",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.022684188559651375,
+  "filename": "badrise.wav",
+  "time": 88.92081632653061
+},
+{
+  "action": "start",
+  "key": "a",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.104152150452137,
+  "filename": "badrise.wav",
+  "time": 89.02530612244898
+},
+{
+  "action": "stop",
+  "key": "v",
+  "filename": "badrise.wav",
+  "time": 89.66385487528345
+},
+{
+  "action": "stop",
+  "key": "a",
+  "filename": "badrise.wav",
+  "time": 89.68707482993197
+},
+{
+  "action": "start",
+  "key": "v",
+  "playbackRate": 1.189207115002721,
+  "pan": -0.03936208412051201,
+  "filename": "pump.wav",
+  "time": 89.94249433106576
+},
+{
+  "action": "start",
+  "key": "a",
+  "playbackRate": 1.189207115002721,
+  "pan": -0.9911355972290039,
+  "filename": "pump.wav",
+  "time": 89.94249433106576
+},
+{
+  "action": "stop",
+  "key": "v",
+  "filename": "pump.wav",
+  "time": 90.66231292517007
+},
+{
+  "action": "stop",
+  "key": "a",
+  "filename": "pump.wav",
+  "time": 90.69714285714285
+},
+{
+  "action": "start",
+  "key": "v",
+  "playbackRate": 1.189207115002721,
+  "pan": -0.49405544996261597,
+  "filename": "badclick.wav",
+  "time": 90.87129251700681
+},
+{
+  "action": "start",
+  "key": "a",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.7314926385879517,
+  "filename": "badclick.wav",
+  "time": 90.87129251700681
+},
+{
+  "action": "stop",
+  "key": "v",
+  "filename": "badclick.wav",
+  "time": 91.61433106575964
+},
+{
+  "action": "stop",
+  "key": "a",
+  "filename": "badclick.wav",
+  "time": 91.6259410430839
+},
+{
+  "action": "start",
+  "key": "a",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.6148515343666077,
+  "filename": "greevy3.wav",
+  "time": 91.81170068027211
+},
+{
+  "action": "start",
+  "key": "v",
+  "playbackRate": 1.189207115002721,
+  "pan": -0.2243429571390152,
+  "filename": "greevy3.wav",
+  "time": 91.81170068027211
+},
+{
+  "action": "stop",
+  "key": "v",
+  "filename": "greevy3.wav",
+  "time": 93.63446712018141
+},
+{
+  "action": "stop",
+  "key": "a",
+  "filename": "greevy3.wav",
+  "time": 93.64607709750567
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.5539265871047974,
+  "filename": "greevy3.wav",
+  "time": 94.23818594104308
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.008473907597362995,
+  "filename": "greevy3.wav",
+  "time": 94.23818594104308
+},
+{
+  "action": "start",
+  "key": "h",
+  "playbackRate": 1.5874010519681994,
+  "pan": 0.23778244853019714,
+  "filename": "greevy3.wav",
+  "time": 94.23818594104308
+},
+{
+  "action": "start",
+  "key": ".",
+  "playbackRate": 1.5874010519681994,
+  "pan": -0.05753269046545029,
+  "filename": "greevy3.wav",
+  "time": 94.24979591836734
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy3.wav",
+  "time": 94.66775510204081
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy3.wav",
+  "time": 94.66775510204081
+},
+{
+  "action": "stop",
+  "key": ".",
+  "filename": "greevy3.wav",
+  "time": 94.69097505668934
+},
+{
+  "action": "stop",
+  "key": "h",
+  "filename": "greevy3.wav",
+  "time": 94.70258503401361
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.9978578090667725,
+  "filename": "greevy3.wav",
+  "time": 94.79546485260771
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.08447431027889252,
+  "filename": "greevy3.wav",
+  "time": 94.81868480725623
+},
+{
+  "action": "start",
+  "key": ".",
+  "playbackRate": 1.5874010519681994,
+  "pan": -0.2765805423259735,
+  "filename": "greevy3.wav",
+  "time": 94.8302947845805
+},
+{
+  "action": "stop",
+  "key": ".",
+  "filename": "greevy3.wav",
+  "time": 95.0508843537415
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy3.wav",
+  "time": 95.08571428571429
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy3.wav",
+  "time": 95.20181405895691
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.8213011622428894,
+  "filename": "greevy3.wav",
+  "time": 95.22503401360544
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.7501228451728821,
+  "filename": "greevy3.wav",
+  "time": 95.22503401360544
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.7666318416595459,
+  "filename": "greevy3.wav",
+  "time": 95.31791383219955
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.7562201023101807,
+  "filename": "greevy3.wav",
+  "time": 95.31791383219955
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy3.wav",
+  "time": 96.36281179138322
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.23395362496376038,
+  "filename": "greevy3.wav",
+  "time": 96.44408163265307
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy3.wav",
+  "time": 96.67628117913833
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy3.wav",
+  "time": 96.67628117913833
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy3.wav",
+  "time": 96.78077097505668
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.4380492568016052,
+  "filename": "greevy3.wav",
+  "time": 96.80399092970522
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy3.wav",
+  "time": 96.8736507936508
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.40077152848243713,
+  "filename": "greevy3.wav",
+  "time": 96.94331065759637
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.6793840527534485,
+  "filename": "greevy3.wav",
+  "time": 97.07102040816326
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.18873000144958496,
+  "filename": "greevy3.wav",
+  "time": 97.14068027210884
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy3.wav",
+  "time": 99.07954648526078
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy3.wav",
+  "time": 99.16081632653061
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy3.wav",
+  "time": 99.21886621315193
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.07406168431043625,
+  "filename": "greevy3.wav",
+  "time": 99.21886621315193
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy3.wav",
+  "time": 99.25369614512472
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.3088459372520447,
+  "filename": "greevy3.wav",
+  "time": 99.34657596371882
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.7528466582298279,
+  "filename": "greevy3.wav",
+  "time": 99.38140589569161
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.5318278074264526,
+  "filename": "greevy3.wav",
+  "time": 99.53233560090703
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy3.wav",
+  "time": 101.50603174603175
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy3.wav",
+  "time": 101.50603174603175
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy3.wav",
+  "time": 101.50603174603175
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy3.wav",
+  "time": 101.51764172335601
+},
+{
+  "action": "start",
+  "key": "c",
+  "playbackRate": 1.122462048309373,
+  "pan": -0.82518070936203,
+  "filename": "greevy3.wav",
+  "time": 101.57569160997733
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.7161886692047119,
+  "filename": "greevy3.wav",
+  "time": 101.6453514739229
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.8994355797767639,
+  "filename": "greevy3.wav",
+  "time": 101.68308390022676
+},
+{
+  "action": "start",
+  "key": "8",
+  "playbackRate": 2.5198420997897464,
+  "pan": -0.317635178565979,
+  "filename": "greevy3.wav",
+  "time": 101.7730612244898
+},
+{
+  "action": "stop",
+  "key": "c",
+  "filename": "greevy3.wav",
+  "time": 103.64226757369615
+},
+{
+  "action": "stop",
+  "key": "8",
+  "filename": "greevy3.wav",
+  "time": 103.64226757369615
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy3.wav",
+  "time": 103.64226757369615
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy3.wav",
+  "time": 103.64226757369615
+},
+{
+  "action": "start",
+  "key": "c",
+  "playbackRate": 1.122462048309373,
+  "pan": -0.5012222528457642,
+  "filename": "greevy3.wav",
+  "time": 103.71192743764172
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.5619882941246033,
+  "filename": "greevy3.wav",
+  "time": 103.74675736961451
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.36456742882728577,
+  "filename": "greevy3.wav",
+  "time": 103.81641723356009
+},
+{
+  "action": "start",
+  "key": "8",
+  "playbackRate": 2.5198420997897464,
+  "pan": 0.5154239535331726,
+  "filename": "greevy3.wav",
+  "time": 103.83963718820861
+},
+{
+  "action": "stop",
+  "key": "c",
+  "filename": "greevy3.wav",
+  "time": 105.63918367346939
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy3.wav",
+  "time": 105.66240362811791
+},
+{
+  "action": "stop",
+  "key": "8",
+  "filename": "greevy3.wav",
+  "time": 105.67401360544218
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy3.wav",
+  "time": 105.69723356009071
+},
+{
+  "action": "start",
+  "key": "c",
+  "playbackRate": 1.122462048309373,
+  "pan": 0.7656818628311157,
+  "filename": "greevy3.wav",
+  "time": 105.73206349206349
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.012509258463978767,
+  "filename": "greevy3.wav",
+  "time": 105.79011337868481
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.3418046832084656,
+  "filename": "greevy3.wav",
+  "time": 105.83655328798186
+},
+{
+  "action": "start",
+  "key": "8",
+  "playbackRate": 2.5198420997897464,
+  "pan": 0.7948846220970154,
+  "filename": "greevy3.wav",
+  "time": 105.89460317460318
+},
+{
+  "action": "stop",
+  "key": "c",
+  "filename": "greevy3.wav",
+  "time": 107.66802721088435
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy3.wav",
+  "time": 107.67092970521541
+},
+{
+  "action": "stop",
+  "key": "8",
+  "filename": "greevy3.wav",
+  "time": 107.68253968253968
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy3.wav",
+  "time": 107.70575963718821
+},
+{
+  "action": "start",
+  "key": "c",
+  "playbackRate": 1.122462048309373,
+  "pan": -0.3484949767589569,
+  "filename": "greevy3.wav",
+  "time": 107.77541950113378
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.2647455036640167,
+  "filename": "greevy3.wav",
+  "time": 107.77541950113378
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.42155390977859497,
+  "filename": "greevy3.wav",
+  "time": 107.84507936507937
+},
+{
+  "action": "start",
+  "key": "8",
+  "playbackRate": 2.5198420997897464,
+  "pan": 0.30105775594711304,
+  "filename": "greevy3.wav",
+  "time": 107.90312925170068
+},
+{
+  "action": "stop",
+  "key": "c",
+  "filename": "greevy3.wav",
+  "time": 109.27310657596372
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy3.wav",
+  "time": 109.27310657596372
+},
+{
+  "action": "stop",
+  "key": "8",
+  "filename": "greevy3.wav",
+  "time": 109.36598639455782
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy3.wav",
+  "time": 109.37759637188209
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.2921988368034363,
+  "filename": "greevy2.wav",
+  "time": 109.40081632653062
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy2.wav",
+  "time": 109.47047619047619
+},
+{
+  "action": "start",
+  "key": "c",
+  "playbackRate": 1.122462048309373,
+  "pan": -0.6728895306587219,
+  "filename": "greevy2.wav",
+  "time": 109.48208616780046
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.38276833295822144,
+  "filename": "greevy2.wav",
+  "time": 109.60979591836735
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.2618407607078552,
+  "filename": "greevy2.wav",
+  "time": 109.63301587301588
+},
+{
+  "action": "start",
+  "key": "8",
+  "playbackRate": 2.5198420997897464,
+  "pan": -0.3082602620124817,
+  "filename": "greevy2.wav",
+  "time": 109.64462585034013
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy2.wav",
+  "time": 111.24680272108843
+},
+{
+  "action": "stop",
+  "key": "c",
+  "filename": "greevy2.wav",
+  "time": 111.2584126984127
+},
+{
+  "action": "stop",
+  "key": "8",
+  "filename": "greevy2.wav",
+  "time": 111.28163265306122
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy2.wav",
+  "time": 111.28163265306122
+},
+{
+  "action": "start",
+  "key": "c",
+  "playbackRate": 1.122462048309373,
+  "pan": -0.053076863288879395,
+  "filename": "greevy2.wav",
+  "time": 111.3512925170068
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.7653951048851013,
+  "filename": "greevy2.wav",
+  "time": 111.36580498866213
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.0024297465570271015,
+  "filename": "greevy2.wav",
+  "time": 111.39773242630386
+},
+{
+  "action": "start",
+  "key": "8",
+  "playbackRate": 2.5198420997897464,
+  "pan": 0.1250486522912979,
+  "filename": "greevy2.wav",
+  "time": 111.43256235827664
+},
+{
+  "action": "stop",
+  "key": "c",
+  "filename": "greevy2.wav",
+  "time": 112.99990929705216
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy2.wav",
+  "time": 112.99990929705216
+},
+{
+  "action": "stop",
+  "key": "8",
+  "filename": "greevy2.wav",
+  "time": 113.02312925170068
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy2.wav",
+  "time": 113.03473922902495
+},
+{
+  "action": "start",
+  "key": "c",
+  "playbackRate": 1.122462048309373,
+  "pan": 0.12510430812835693,
+  "filename": "greevy2.wav",
+  "time": 113.25532879818594
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.5095915198326111,
+  "filename": "greevy2.wav",
+  "time": 113.2669387755102
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.8804370760917664,
+  "filename": "greevy2.wav",
+  "time": 113.29015873015874
+},
+{
+  "action": "start",
+  "key": "8",
+  "playbackRate": 2.5198420997897464,
+  "pan": -0.0249661672860384,
+  "filename": "greevy2.wav",
+  "time": 113.29015873015874
+},
+{
+  "action": "stop",
+  "key": "c",
+  "filename": "greevy2.wav",
+  "time": 114.8691156462585
+},
+{
+  "action": "stop",
+  "key": "8",
+  "filename": "greevy2.wav",
+  "time": 114.8691156462585
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy2.wav",
+  "time": 114.8691156462585
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy2.wav",
+  "time": 114.89233560090703
+},
+{
+  "action": "start",
+  "key": "c",
+  "playbackRate": 1.122462048309373,
+  "pan": 0.5959232449531555,
+  "filename": "greevy2.wav",
+  "time": 115.0548752834467
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.17769911885261536,
+  "filename": "greevy2.wav",
+  "time": 115.07809523809524
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.8550240397453308,
+  "filename": "greevy2.wav",
+  "time": 115.07809523809524
+},
+{
+  "action": "start",
+  "key": "8",
+  "playbackRate": 2.5198420997897464,
+  "pan": -0.2838776409626007,
+  "filename": "greevy2.wav",
+  "time": 115.14775510204082
+},
+{
+  "action": "stop",
+  "key": "8",
+  "filename": "greevy2.wav",
+  "time": 119.12997732426304
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy2.wav",
+  "time": 119.15319727891156
+},
+{
+  "action": "stop",
+  "key": "c",
+  "filename": "greevy2.wav",
+  "time": 119.17641723356009
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.32092973589897156,
+  "filename": "greevy2.wav",
+  "time": 119.2344671201814
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.35224786400794983,
+  "filename": "greevy2.wav",
+  "time": 119.31573696145125
+},
+{
+  "action": "start",
+  "key": ";",
+  "playbackRate": 2,
+  "pan": 0.8021782636642456,
+  "filename": "greevy2.wav",
+  "time": 119.38539682539682
+},
+{
+  "action": "stop",
+  "key": ";",
+  "filename": "greevy2.wav",
+  "time": 119.95428571428572
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.7331677675247192,
+  "filename": "greevy2.wav",
+  "time": 120.05877551020409
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy2.wav",
+  "time": 121.06884353741496
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy2.wav",
+  "time": 121.19655328798186
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 121.25460317460318
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 121.26621315192743
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.7132246494293213,
+  "filename": "greevy.wav",
+  "time": 121.39392290249432
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.8742222785949707,
+  "filename": "greevy.wav",
+  "time": 121.39392290249432
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.4793301820755005,
+  "filename": "greevy.wav",
+  "time": 121.45197278911564
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.9897688031196594,
+  "filename": "greevy.wav",
+  "time": 121.57968253968254
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 127.3730612244898
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 127.3730612244898
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 127.3730612244898
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 127.38467120181406
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.04133325070142746,
+  "filename": "greevy.wav",
+  "time": 127.4659410430839
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.519081175327301,
+  "filename": "greevy.wav",
+  "time": 127.4659410430839
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.400576114654541,
+  "filename": "greevy.wav",
+  "time": 127.4659410430839
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.6224496960639954,
+  "filename": "greevy.wav",
+  "time": 127.4659410430839
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 127.83746031746031
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 127.86068027210884
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 127.86068027210884
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 127.86068027210884
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.06961440294981003,
+  "filename": "greevy.wav",
+  "time": 127.9071201814059
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.3293192684650421,
+  "filename": "greevy.wav",
+  "time": 127.9071201814059
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.36503446102142334,
+  "filename": "greevy.wav",
+  "time": 127.93034013605443
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.753715991973877,
+  "filename": "greevy.wav",
+  "time": 127.93034013605443
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 128.29024943310657
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 128.3134693877551
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 128.3134693877551
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 128.33668934240362
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.21556691825389862,
+  "filename": "greevy.wav",
+  "time": 128.37151927437642
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.14446689188480377,
+  "filename": "greevy.wav",
+  "time": 128.37151927437642
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.5150535702705383,
+  "filename": "greevy.wav",
+  "time": 128.3831292517007
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.508818507194519,
+  "filename": "greevy.wav",
+  "time": 128.3831292517007
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 134.33904761904762
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 134.36226757369616
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 134.36226757369616
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 134.3738775510204
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.43385130167007446,
+  "filename": "greevy.wav",
+  "time": 134.443537414966
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.5159457325935364,
+  "filename": "greevy.wav",
+  "time": 134.443537414966
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.8903325796127319,
+  "filename": "greevy.wav",
+  "time": 134.443537414966
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.8339149355888367,
+  "filename": "greevy.wav",
+  "time": 134.443537414966
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 134.83827664399092
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 134.83827664399092
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 134.86149659863946
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 134.86149659863946
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.44061407446861267,
+  "filename": "greevy.wav",
+  "time": 134.93115646258502
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.7941309809684753,
+  "filename": "greevy.wav",
+  "time": 134.93115646258502
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.8383001685142517,
+  "filename": "greevy.wav",
+  "time": 134.93115646258502
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.6471611857414246,
+  "filename": "greevy.wav",
+  "time": 134.93696145124716
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 135.32589569161
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 135.32589569161
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 135.3491156462585
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 135.3491156462585
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.6812565326690674,
+  "filename": "greevy.wav",
+  "time": 135.39555555555555
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.5266241431236267,
+  "filename": "greevy.wav",
+  "time": 135.39555555555555
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.49693164229393005,
+  "filename": "greevy.wav",
+  "time": 135.41877551020409
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.8797668218612671,
+  "filename": "greevy.wav",
+  "time": 135.43038548752835
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 140.67809523809524
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.5577477216720581,
+  "filename": "greevy.wav",
+  "time": 140.70131519274378
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 141.01478458049885
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 141.02639455782312
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 141.02639455782312
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 141.04961451247166
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.3065532147884369,
+  "filename": "greevy.wav",
+  "time": 141.08444444444444
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.6192600131034851,
+  "filename": "greevy.wav",
+  "time": 141.08444444444444
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.24028991162776947,
+  "filename": "greevy.wav",
+  "time": 141.10766439909298
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.2654550075531006,
+  "filename": "greevy.wav",
+  "time": 141.10766439909298
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 141.49079365079365
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 141.50240362811792
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 141.50240362811792
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 141.50240362811792
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.6509194374084473,
+  "filename": "greevy.wav",
+  "time": 141.56045351473924
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.693581759929657,
+  "filename": "greevy.wav",
+  "time": 141.56045351473924
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.6361203789710999,
+  "filename": "greevy.wav",
+  "time": 141.57206349206348
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.5801123976707458,
+  "filename": "greevy.wav",
+  "time": 141.57206349206348
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 141.95519274376417
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 141.95519274376417
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 141.95519274376417
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 142.0132426303855
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.38131746649742126,
+  "filename": "greevy.wav",
+  "time": 142.0132426303855
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.37966495752334595,
+  "filename": "greevy.wav",
+  "time": 142.0132426303855
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.3787532448768616,
+  "filename": "greevy.wav",
+  "time": 142.02485260770976
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.11817227303981781,
+  "filename": "greevy.wav",
+  "time": 142.04807256235827
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 142.4195918367347
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 142.4428117913832
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 142.4428117913832
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 142.45442176870748
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.37547051906585693,
+  "filename": "greevy.wav",
+  "time": 142.49795918367346
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.32509174942970276,
+  "filename": "greevy.wav",
+  "time": 142.5124716553288
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.9208447933197021,
+  "filename": "greevy.wav",
+  "time": 142.5124716553288
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.7862644791603088,
+  "filename": "greevy.wav",
+  "time": 142.52408163265306
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 144.2307482993197
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 144.2307482993197
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 144.2307482993197
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 144.2307482993197
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.9296870231628418,
+  "filename": "greevy.wav",
+  "time": 144.3004081632653
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.8879947662353516,
+  "filename": "greevy.wav",
+  "time": 144.3004081632653
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.7906820774078369,
+  "filename": "greevy.wav",
+  "time": 144.3004081632653
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.1613367795944214,
+  "filename": "greevy.wav",
+  "time": 144.33523809523808
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 144.34684807256235
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.883194088935852,
+  "filename": "greevy.wav",
+  "time": 144.3700680272109
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 146.01868480725625
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 146.0302947845805
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 146.0302947845805
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 146.0302947845805
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.626105010509491,
+  "filename": "greevy.wav",
+  "time": 146.11156462585035
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.9325413107872009,
+  "filename": "greevy.wav",
+  "time": 146.11156462585035
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.8559176325798035,
+  "filename": "greevy.wav",
+  "time": 146.11156462585035
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.4070604741573334,
+  "filename": "greevy.wav",
+  "time": 146.11156462585035
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 146.90104308390022
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 146.90104308390022
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 146.9126530612245
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 146.93587301587303
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.7446566820144653,
+  "filename": "greevy.wav",
+  "time": 146.98231292517008
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.5957197546958923,
+  "filename": "greevy.wav",
+  "time": 146.98231292517008
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.02813182771205902,
+  "filename": "greevy.wav",
+  "time": 146.98231292517008
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.8347335457801819,
+  "filename": "greevy.wav",
+  "time": 147.0055328798186
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 147.78340136054422
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 147.818231292517
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 147.818231292517
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 147.818231292517
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.9954315423965454,
+  "filename": "greevy.wav",
+  "time": 147.87628117913832
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.9971151351928711,
+  "filename": "greevy.wav",
+  "time": 147.87628117913832
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.6185274720191956,
+  "filename": "greevy.wav",
+  "time": 147.8878911564626
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.7268943190574646,
+  "filename": "greevy.wav",
+  "time": 147.9111111111111
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 148.27102040816325
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 148.27102040816325
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 148.27102040816325
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 148.2942403628118
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.7087852954864502,
+  "filename": "greevy.wav",
+  "time": 148.32907029478457
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.07762013375759125,
+  "filename": "greevy.wav",
+  "time": 148.34068027210884
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.24140863120555878,
+  "filename": "greevy.wav",
+  "time": 148.34068027210884
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.004722974728792906,
+  "filename": "greevy.wav",
+  "time": 148.36390022675738
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 148.75863945578232
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 148.75863945578232
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 148.75863945578232
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 148.77024943310659
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.5278114676475525,
+  "filename": "greevy.wav",
+  "time": 148.7934693877551
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.5441070795059204,
+  "filename": "greevy.wav",
+  "time": 148.7934693877551
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.2927943766117096,
+  "filename": "greevy.wav",
+  "time": 148.80507936507937
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.6142149567604065,
+  "filename": "greevy.wav",
+  "time": 148.83990929705215
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 148.90956916099773
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 148.95600907029478
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 148.95600907029478
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 148.95600907029478
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.3750164210796356,
+  "filename": "greevy.wav",
+  "time": 149.0227664399093
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.33983394503593445,
+  "filename": "greevy.wav",
+  "time": 149.02566893424037
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.8334465026855469,
+  "filename": "greevy.wav",
+  "time": 149.02566893424037
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.10836096107959747,
+  "filename": "greevy.wav",
+  "time": 149.02566893424037
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 149.09532879818593
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 149.14176870748298
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.07137010991573334,
+  "filename": "greevy.wav",
+  "time": 149.1765986394558
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.8592181205749512,
+  "filename": "greevy.wav",
+  "time": 149.22303854875284
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 149.2346485260771
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 149.2926984126984
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.5662677884101868,
+  "filename": "greevy.wav",
+  "time": 149.2926984126984
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 149.362358276644
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.7445368766784668,
+  "filename": "greevy.wav",
+  "time": 149.362358276644
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.8724472522735596,
+  "filename": "greevy.wav",
+  "time": 149.40879818594104
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 149.43201814058958
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 149.50167800453514
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 149.50167800453514
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.9192811846733093,
+  "filename": "greevy.wav",
+  "time": 149.53650793650795
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.10995636135339737,
+  "filename": "greevy.wav",
+  "time": 149.55972789115646
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.18458031117916107,
+  "filename": "greevy.wav",
+  "time": 149.57133786848073
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 149.65260770975055
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 149.65260770975055
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 149.66421768707482
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 149.68743764172336
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.5233864188194275,
+  "filename": "greevy.wav",
+  "time": 149.68743764172336
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.4269656836986542,
+  "filename": "greevy.wav",
+  "time": 149.68743764172336
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.7792366743087769,
+  "filename": "greevy.wav",
+  "time": 149.72226757369614
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.38393381237983704,
+  "filename": "greevy.wav",
+  "time": 149.72226757369614
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 149.80353741496597
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 149.8267573696145
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.5154596567153931,
+  "filename": "greevy.wav",
+  "time": 149.8615873015873
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.5471414923667908,
+  "filename": "greevy.wav",
+  "time": 149.88480725623583
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 149.95446712018142
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.422171413898468,
+  "filename": "greevy.wav",
+  "time": 149.96607709750566
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 149.9892970521542
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 150.02412698412698
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.9524394273757935,
+  "filename": "greevy.wav",
+  "time": 150.07056689342403
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.7166174650192261,
+  "filename": "greevy.wav",
+  "time": 150.09378684807257
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 150.10539682539684
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 150.12861678004535
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.8063039183616638,
+  "filename": "greevy.wav",
+  "time": 150.22149659863945
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.3749209940433502,
+  "filename": "greevy.wav",
+  "time": 150.25632653061226
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 150.2679365079365
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 150.3027664399093
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.06182269752025604,
+  "filename": "greevy.wav",
+  "time": 150.3956462585034
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 150.41886621315192
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.47364863753318787,
+  "filename": "greevy.wav",
+  "time": 150.41886621315192
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 150.45369614512472
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.9883207678794861,
+  "filename": "greevy.wav",
+  "time": 150.53496598639455
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.8827151656150818,
+  "filename": "greevy.wav",
+  "time": 150.5581859410431
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 150.59301587301587
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 150.6510657596372
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 150.69750566893424
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.2758994996547699,
+  "filename": "greevy.wav",
+  "time": 150.73233560090702
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 150.73233560090702
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.09308072179555893,
+  "filename": "greevy.wav",
+  "time": 150.7352380952381
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.33108389377593994,
+  "filename": "greevy.wav",
+  "time": 150.8716553287982
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 150.91809523809525
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.8806081414222717,
+  "filename": "greevy.wav",
+  "time": 150.91809523809525
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 150.9877551020408
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 151.03419501133786
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.5104230642318726,
+  "filename": "greevy.wav",
+  "time": 151.06902494331067
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 151.0806349206349
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.4319356679916382,
+  "filename": "greevy.wav",
+  "time": 151.10385487528345
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.4118275046348572,
+  "filename": "greevy.wav",
+  "time": 151.20834467120181
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.6930469870567322,
+  "filename": "greevy.wav",
+  "time": 151.2431746031746
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 151.2431746031746
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 151.2431746031746
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 151.39410430839
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.7805401086807251,
+  "filename": "greevy.wav",
+  "time": 151.40571428571428
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.12654559314250946,
+  "filename": "greevy.wav",
+  "time": 151.42893424036282
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 151.4637641723356
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.4608049988746643,
+  "filename": "greevy.wav",
+  "time": 151.5334240362812
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.025861898437142372,
+  "filename": "greevy.wav",
+  "time": 151.5334240362812
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 151.60308390022675
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 151.63791383219956
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 151.66113378684807
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 151.69596371882085
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.5731723308563232,
+  "filename": "greevy.wav",
+  "time": 151.73079365079366
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.0938991978764534,
+  "filename": "greevy.wav",
+  "time": 151.73950113378686
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.4066293239593506,
+  "filename": "greevy.wav",
+  "time": 151.82367346938776
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 151.92816326530613
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.2589384615421295,
+  "filename": "greevy.wav",
+  "time": 151.92816326530613
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 151.97460317460317
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 151.97460317460317
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.6442819237709045,
+  "filename": "greevy.wav",
+  "time": 151.98621315192744
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 152.055873015873
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.6197618842124939,
+  "filename": "greevy.wav",
+  "time": 152.10231292517005
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 152.13714285714286
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.6371510624885559,
+  "filename": "greevy.wav",
+  "time": 152.13714285714286
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.4338324964046478,
+  "filename": "greevy.wav",
+  "time": 152.24163265306123
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.08267189562320709,
+  "filename": "greevy.wav",
+  "time": 152.3112925170068
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 152.3112925170068
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 152.3693424036281
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 152.4622222222222
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.37670743465423584,
+  "filename": "greevy.wav",
+  "time": 152.4622222222222
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 152.48544217687075
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.17050997912883759,
+  "filename": "greevy.wav",
+  "time": 152.48544217687075
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.4586853086948395,
+  "filename": "greevy.wav",
+  "time": 152.6247619047619
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.6318309307098389,
+  "filename": "greevy.wav",
+  "time": 152.6595918367347
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 152.70603174603175
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 152.70603174603175
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "greevy.wav",
+  "time": 152.81052154195012
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.5298983454704285,
+  "filename": "greevy.wav",
+  "time": 152.85696145124717
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.532866895198822,
+  "filename": "greevy.wav",
+  "time": 152.88018140589568
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "greevy.wav",
+  "time": 152.89179138321995
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.5281704068183899,
+  "filename": "greevy.wav",
+  "time": 153.01950113378686
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "greevy.wav",
+  "time": 153.11238095238096
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "greevy.wav",
+  "time": 153.13560090702947
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "gtraggro6.wav",
+  "time": 153.24009070294784
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.6814696192741394,
+  "filename": "gtraggro6.wav",
+  "time": 153.26331065759638
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.7865893840789795,
+  "filename": "gtraggro6.wav",
+  "time": 153.29814058956916
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.8656032681465149,
+  "filename": "gtraggro6.wav",
+  "time": 153.36780045351475
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.3521856367588043,
+  "filename": "gtraggro6.wav",
+  "time": 153.40263038548753
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "gtraggro6.wav",
+  "time": 153.46068027210885
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "gtraggro6.wav",
+  "time": 153.54195011337868
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.023857057094573975,
+  "filename": "gtraggro6.wav",
+  "time": 153.57678004535148
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.8757039904594421,
+  "filename": "gtraggro6.wav",
+  "time": 153.6
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "gtraggro6.wav",
+  "time": 153.6580498866213
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.494326651096344,
+  "filename": "gtraggro6.wav",
+  "time": 153.66965986394558
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "gtraggro6.wav",
+  "time": 153.70448979591836
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "gtraggro6.wav",
+  "time": 153.77414965986395
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "gtraggro6.wav",
+  "time": 153.83219954648527
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "gtraggro6.wav",
+  "time": 153.83219954648527
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.2581300437450409,
+  "filename": "gtraggro6.wav",
+  "time": 153.8902494331066
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.4814099371433258,
+  "filename": "gtraggro6.wav",
+  "time": 153.8902494331066
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.8426501750946045,
+  "filename": "gtraggro6.wav",
+  "time": 153.92507936507937
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.0662526786327362,
+  "filename": "gtraggro6.wav",
+  "time": 154.0760090702948
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "gtraggro6.wav",
+  "time": 154.0760090702948
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "gtraggro6.wav",
+  "time": 154.11083900226757
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.4192828834056854,
+  "filename": "gtraggro6.wav",
+  "time": 154.21532879818594
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "gtraggro6.wav",
+  "time": 154.23854875283448
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "gtraggro6.wav",
+  "time": 154.23854875283448
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.9134979844093323,
+  "filename": "gtraggro6.wav",
+  "time": 154.28498866213152
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.3939855098724365,
+  "filename": "gtraggro6.wav",
+  "time": 154.34303854875284
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "gtraggro6.wav",
+  "time": 154.4126984126984
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.6959799528121948,
+  "filename": "gtraggro6.wav",
+  "time": 154.482358276644
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "gtraggro6.wav",
+  "time": 154.5055782312925
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.550414502620697,
+  "filename": "gtraggro6.wav",
+  "time": 154.5752380952381
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "gtraggro6.wav",
+  "time": 154.61006802721087
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.4926224648952484,
+  "filename": "gtraggro6.wav",
+  "time": 154.64489795918368
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "gtraggro6.wav",
+  "time": 154.67972789115646
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.7555230855941772,
+  "filename": "gtraggro6.wav",
+  "time": 154.702947845805
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "gtraggro6.wav",
+  "time": 154.702947845805
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.1615608185529709,
+  "filename": "gtraggro6.wav",
+  "time": 154.83065759637188
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "gtraggro6.wav",
+  "time": 154.84226757369615
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.6734098792076111,
+  "filename": "gtraggro6.wav",
+  "time": 154.86548752834466
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.9902288317680359,
+  "filename": "gtraggro6.wav",
+  "time": 154.9583673469388
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "gtraggro6.wav",
+  "time": 154.9583673469388
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "gtraggro6.wav",
+  "time": 155.01641723356008
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "gtraggro6.wav",
+  "time": 155.01641723356008
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "gtraggro6.wav",
+  "time": 155.05124716553289
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.6997177600860596,
+  "filename": "gtraggro6.wav",
+  "time": 155.17895691609976
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.5230393409729004,
+  "filename": "gtraggro6.wav",
+  "time": 155.23700680272108
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.5783137679100037,
+  "filename": "gtraggro6.wav",
+  "time": 155.24861678004535
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.3498474657535553,
+  "filename": "gtraggro6.wav",
+  "time": 155.30666666666667
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "gtraggro6.wav",
+  "time": 155.41115646258504
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "gtraggro6.wav",
+  "time": 155.46920634920636
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.9809685945510864,
+  "filename": "gtraggro6.wav",
+  "time": 155.52725623582765
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.22175221145153046,
+  "filename": "gtraggro6.wav",
+  "time": 155.63174603174602
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "gtraggro6.wav",
+  "time": 155.6433560090703
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "gtraggro6.wav",
+  "time": 155.66657596371883
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.9081045389175415,
+  "filename": "gtraggro6.wav",
+  "time": 155.7942857142857
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.8253480195999146,
+  "filename": "gtraggro6.wav",
+  "time": 155.7942857142857
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "gtraggro6.wav",
+  "time": 155.80589569160998
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "gtraggro6.wav",
+  "time": 155.87555555555556
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.7303707003593445,
+  "filename": "gtraggro6.wav",
+  "time": 155.93360544217688
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "gtraggro6.wav",
+  "time": 156.03809523809525
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.07211095094680786,
+  "filename": "gtraggro6.wav",
+  "time": 156.03809523809525
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "gtraggro6.wav",
+  "time": 156.06131519274376
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "gtraggro6.wav",
+  "time": 156.15419501133786
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.6287878751754761,
+  "filename": "gtraggro3.wav",
+  "time": 156.2006349206349
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.08961410820484161,
+  "filename": "gtraggro3.wav",
+  "time": 156.24707482993196
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "gtraggro3.wav",
+  "time": 156.25868480725623
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "gtraggro3.wav",
+  "time": 156.42122448979592
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.057523760944604874,
+  "filename": "gtraggro3.wav",
+  "time": 156.42122448979592
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.8602759838104248,
+  "filename": "gtraggro3.wav",
+  "time": 156.42122448979592
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "gtraggro3.wav",
+  "time": 156.4560544217687
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.8921138048171997,
+  "filename": "gtraggro3.wav",
+  "time": 156.56054421768707
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.8631916046142578,
+  "filename": "gtraggro3.wav",
+  "time": 156.5837641723356
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "gtraggro3.wav",
+  "time": 156.60698412698412
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "gtraggro3.wav",
+  "time": 156.73469387755102
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "gtraggro3.wav",
+  "time": 156.75791383219953
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.8593542575836182,
+  "filename": "gtraggro3.wav",
+  "time": 156.8043537414966
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "gtraggro3.wav",
+  "time": 156.8972335600907
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.0015257562045007944,
+  "filename": "gtraggro3.wav",
+  "time": 156.8972335600907
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.8814138174057007,
+  "filename": "gtraggro3.wav",
+  "time": 156.9320634920635
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "gtraggro3.wav",
+  "time": 157.03655328798186
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.989380955696106,
+  "filename": "gtraggro3.wav",
+  "time": 157.0597732426304
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "gtraggro3.wav",
+  "time": 157.12943310657596
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "gtraggro3.wav",
+  "time": 157.18748299319728
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "gtraggro3.wav",
+  "time": 157.22231292517006
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.10679709911346436,
+  "filename": "gtraggro3.wav",
+  "time": 157.36163265306124
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.131290465593338,
+  "filename": "gtraggro3.wav",
+  "time": 157.36163265306124
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.6929717659950256,
+  "filename": "gtraggro3.wav",
+  "time": 157.38485260770975
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.8510833382606506,
+  "filename": "gtraggro3.wav",
+  "time": 157.38485260770975
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "qordtwo.wav",
+  "time": 157.61705215419502
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "qordtwo.wav",
+  "time": 157.61705215419502
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "qordtwo.wav",
+  "time": 157.61705215419502
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "qordtwo.wav",
+  "time": 157.6518820861678
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.777388870716095,
+  "filename": "qordtwo.wav",
+  "time": 157.77959183673468
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.8057217597961426,
+  "filename": "qordtwo.wav",
+  "time": 157.79120181405895
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.9529705047607422,
+  "filename": "qordtwo.wav",
+  "time": 157.84925170068027
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 1.6817928305074292,
+  "pan": -0.608569324016571,
+  "filename": "qordtwo.wav",
+  "time": 157.8724716553288
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "qordtwo.wav",
+  "time": 158.03501133786847
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 1.6817928305074292,
+  "pan": 0.7541778683662415,
+  "filename": "qordtwo.wav",
+  "time": 158.04662131519274
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "qordtwo.wav",
+  "time": 158.499410430839
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "qordtwo.wav",
+  "time": 158.50521541950113
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "qordtwo.wav",
+  "time": 158.56907029478458
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "qordtwo.wav",
+  "time": 158.60390022675736
+},
+{
+  "action": "start",
+  "key": "f",
+  "playbackRate": 1.4142135623730951,
+  "pan": -0.2750924825668335,
+  "filename": "qordtwo.wav",
+  "time": 158.63873015873017
+},
+{
+  "action": "start",
+  "key": "q",
+  "playbackRate": 1.4142135623730951,
+  "pan": 0.7186733484268188,
+  "filename": "qordtwo.wav",
+  "time": 158.74321995464854
+},
+{
+  "action": "start",
+  "key": "n",
+  "playbackRate": 1.3348398541700344,
+  "pan": -0.07853986322879791,
+  "filename": "qordtwo.wav",
+  "time": 158.74321995464854
+},
+{
+  "action": "stop",
+  "key": "f",
+  "filename": "qordtwo.wav",
+  "time": 158.83609977324264
+},
+{
+  "action": "stop",
+  "key": "q",
+  "filename": "qordtwo.wav",
+  "time": 158.83609977324264
+},
+{
+  "action": "start",
+  "key": "v",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.7001515626907349,
+  "filename": "qordtwo.wav",
+  "time": 158.87092970521542
+},
+{
+  "action": "stop",
+  "key": "n",
+  "filename": "qordtwo.wav",
+  "time": 158.98702947845806
+},
+{
+  "action": "start",
+  "key": "a",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.6718961000442505,
+  "filename": "qordtwo.wav",
+  "time": 159.09151927437642
+},
+{
+  "action": "stop",
+  "key": "v",
+  "filename": "qordtwo.wav",
+  "time": 159.99709750566893
+},
+{
+  "action": "stop",
+  "key": "a",
+  "filename": "qordtwo.wav",
+  "time": 159.99709750566893
+},
+{
+  "action": "start",
+  "key": "v",
+  "playbackRate": 0.5612310241546865,
+  "pan": -0.3922876715660095,
+  "filename": "qordtwo.wav",
+  "time": 162.295873015873
+},
+{
+  "action": "start",
+  "key": "a",
+  "playbackRate": 0.5612310241546865,
+  "pan": 0.33315593004226685,
+  "filename": "qordtwo.wav",
+  "time": 162.295873015873
+},
+{
+  "action": "stop",
+  "key": "a",
+  "filename": "qordtwo.wav",
+  "time": 162.9344217687075
+},
+{
+  "action": "stop",
+  "key": "v",
+  "filename": "qordtwo.wav",
+  "time": 162.957641723356
+},
+{
+  "action": "start",
+  "key": "f",
+  "playbackRate": 0.6674199270850172,
+  "pan": 0.9162263870239258,
+  "filename": "qordtwo.wav",
+  "time": 164.13024943310657
+},
+{
+  "action": "start",
+  "key": "q",
+  "playbackRate": 0.6674199270850172,
+  "pan": -0.7575830817222595,
+  "filename": "qordtwo.wav",
+  "time": 164.1534693877551
+},
+{
+  "action": "stop",
+  "key": "f",
+  "filename": "qordtwo.wav",
+  "time": 164.36244897959185
+},
+{
+  "action": "stop",
+  "key": "q",
+  "filename": "qordtwo.wav",
+  "time": 164.39727891156463
+},
+{
+  "action": "start",
+  "key": "f",
+  "playbackRate": 0.6674199270850172,
+  "pan": -0.8475315570831299,
+  "filename": "qordtwo.wav",
+  "time": 165.05904761904762
+},
+{
+  "action": "start",
+  "key": "q",
+  "playbackRate": 0.6674199270850172,
+  "pan": 0.1902405172586441,
+  "filename": "qordtwo.wav",
+  "time": 165.05904761904762
+},
+{
+  "action": "stop",
+  "key": "f",
+  "filename": "qordtwo.wav",
+  "time": 165.80208616780044
+},
+{
+  "action": "stop",
+  "key": "q",
+  "filename": "qordtwo.wav",
+  "time": 165.80208616780044
+},
+{
+  "action": "start",
+  "key": "f",
+  "playbackRate": 0.6674199270850172,
+  "pan": 0.46281319856643677,
+  "filename": "boobadooboo.wav",
+  "time": 166.02267573696145
+},
+{
+  "action": "start",
+  "key": "q",
+  "playbackRate": 0.6674199270850172,
+  "pan": -0.9679641127586365,
+  "filename": "boobadooboo.wav",
+  "time": 166.02267573696145
+},
+{
+  "action": "stop",
+  "key": "q",
+  "filename": "boobadooboo.wav",
+  "time": 167.25333333333333
+},
+{
+  "action": "stop",
+  "key": "f",
+  "filename": "boobadooboo.wav",
+  "time": 167.27655328798187
+},
+{
+  "action": "start",
+  "key": "f",
+  "playbackRate": 0.6674199270850172,
+  "pan": -0.8104477524757385,
+  "filename": "drumblehoctave.wav",
+  "time": 167.41587301587302
+},
+{
+  "action": "start",
+  "key": "q",
+  "playbackRate": 0.6674199270850172,
+  "pan": 0.5833865404129028,
+  "filename": "drumblehoctave.wav",
+  "time": 167.41587301587302
+},
+{
+  "action": "stop",
+  "key": "q",
+  "filename": "shrug.wav",
+  "time": 168.65814058956917
+},
+{
+  "action": "stop",
+  "key": "f",
+  "filename": "shrug.wav",
+  "time": 168.68136054421768
+},
+{
+  "action": "start",
+  "key": "f",
+  "playbackRate": 0.6674199270850172,
+  "pan": -0.4621780514717102,
+  "filename": "shrug.wav",
+  "time": 168.77424036281178
+},
+{
+  "action": "start",
+  "key": "q",
+  "playbackRate": 0.6674199270850172,
+  "pan": 0.20966817438602448,
+  "filename": "shrug.wav",
+  "time": 168.77424036281178
+},
+{
+  "action": "stop",
+  "key": "q",
+  "filename": "shrug.wav",
+  "time": 172.08308390022677
+},
+{
+  "action": "stop",
+  "key": "f",
+  "filename": "shrug.wav",
+  "time": 172.12952380952382
+},
+{
+  "action": "start",
+  "key": "[",
+  "playbackRate": 1.189207115002721,
+  "pan": -0.12925441563129425,
+  "filename": "shrug.wav",
+  "time": 172.26884353741497
+},
+{
+  "action": "start",
+  "key": "8",
+  "playbackRate": 1.189207115002721,
+  "pan": -0.29746612906455994,
+  "filename": "shrug.wav",
+  "time": 172.28045351473924
+},
+{
+  "action": "stop",
+  "key": "[",
+  "filename": "shrug.wav",
+  "time": 174.08
+},
+{
+  "action": "stop",
+  "key": "8",
+  "filename": "shrug.wav",
+  "time": 174.09160997732425
+},
+{
+  "action": "start",
+  "key": "u",
+  "playbackRate": 0.9438743126816935,
+  "pan": -0.9992737174034119,
+  "filename": "shrug.wav",
+  "time": 174.16126984126984
+},
+{
+  "action": "start",
+  "key": ";",
+  "playbackRate": 0.9438743126816935,
+  "pan": 0.16948123276233673,
+  "filename": "shrug.wav",
+  "time": 174.19609977324262
+},
+{
+  "action": "stop",
+  "key": "u",
+  "filename": "shrug.wav",
+  "time": 186.16598639455782
+},
+{
+  "action": "stop",
+  "key": ";",
+  "filename": "shrug.wav",
+  "time": 186.18920634920636
+},
+{
+  "action": "start",
+  "key": "u",
+  "playbackRate": 0.9438743126816935,
+  "pan": -0.5052843689918518,
+  "filename": "shrug.wav",
+  "time": 186.28208616780046
+},
+{
+  "action": "start",
+  "key": ";",
+  "playbackRate": 0.9438743126816935,
+  "pan": -0.24416594207286835,
+  "filename": "shrug.wav",
+  "time": 186.31691609977324
+},
+{
+  "action": "stop",
+  "key": "u",
+  "filename": "shrug.wav",
+  "time": 189.0336507936508
+},
+{
+  "action": "stop",
+  "key": ";",
+  "filename": "shrug.wav",
+  "time": 189.04526077097506
+},
+{
+  "action": "start",
+  "key": "u",
+  "playbackRate": 0.9438743126816935,
+  "pan": 0.4635779559612274,
+  "filename": "shrug.wav",
+  "time": 189.11492063492062
+},
+{
+  "action": "start",
+  "key": ";",
+  "playbackRate": 0.9438743126816935,
+  "pan": 0.7141115665435791,
+  "filename": "shrug.wav",
+  "time": 189.17297052154194
+},
+{
+  "action": "stop",
+  "key": "u",
+  "filename": "shrug.wav",
+  "time": 190.278820861678
+},
+{
+  "action": "stop",
+  "key": ";",
+  "filename": "shrug.wav",
+  "time": 190.31074829931973
+},
+{
+  "action": "start",
+  "key": "u",
+  "playbackRate": 0.9438743126816935,
+  "pan": -0.513577401638031,
+  "filename": "shrug.wav",
+  "time": 190.39201814058956
+},
+{
+  "action": "start",
+  "key": ";",
+  "playbackRate": 0.9438743126816935,
+  "pan": 0.8393759727478027,
+  "filename": "shrug.wav",
+  "time": 190.42684807256236
+},
+{
+  "action": "stop",
+  "key": "u",
+  "filename": "shrug.wav",
+  "time": 195.60489795918366
+},
+{
+  "action": "stop",
+  "key": ";",
+  "filename": "shrug.wav",
+  "time": 195.61650793650793
+},
+{
+  "action": "start",
+  "key": "q",
+  "playbackRate": 0.6674199270850172,
+  "pan": 0.5745506286621094,
+  "filename": "shrug.wav",
+  "time": 195.68616780045352
+},
+{
+  "action": "start",
+  "key": "f",
+  "playbackRate": 0.6674199270850172,
+  "pan": 0.5441172122955322,
+  "filename": "shrug.wav",
+  "time": 195.6977777777778
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.1853720247745514,
+  "filename": "shrug.wav",
+  "time": 198.40290249433107
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.4540576636791229,
+  "filename": "shrug.wav",
+  "time": 198.4609523809524
+},
+{
+  "action": "stop",
+  "key": "f",
+  "filename": "shrug.wav",
+  "time": 198.49578231292517
+},
+{
+  "action": "stop",
+  "key": "q",
+  "filename": "shrug.wav",
+  "time": 198.49578231292517
+},
+{
+  "action": "start",
+  "key": "t",
+  "playbackRate": 0.8408964152537146,
+  "pan": 0.6853194236755371,
+  "filename": "shrug.wav",
+  "time": 200.9106575963719
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "shrug.wav",
+  "time": 200.9338775510204
+},
+{
+  "action": "start",
+  "key": "2",
+  "playbackRate": 0.8408964152537146,
+  "pan": -0.7803565263748169,
+  "filename": "shrug.wav",
+  "time": 200.9338775510204
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "shrug.wav",
+  "time": 200.9687074829932
+},
+{
+  "action": "start",
+  "key": "u",
+  "playbackRate": 0.9438743126816935,
+  "pan": -0.12244946509599686,
+  "filename": "shrug.wav",
+  "time": 203.13977324263038
+},
+{
+  "action": "start",
+  "key": ";",
+  "playbackRate": 0.9438743126816935,
+  "pan": 0.44821807742118835,
+  "filename": "shrug.wav",
+  "time": 203.13977324263038
+},
+{
+  "action": "stop",
+  "key": "t",
+  "filename": "shrug.wav",
+  "time": 203.20943310657597
+},
+{
+  "action": "stop",
+  "key": "2",
+  "filename": "shrug.wav",
+  "time": 203.20943310657597
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.6103920936584473,
+  "filename": "shrug.wav",
+  "time": 205.15990929705217
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.9418264627456665,
+  "filename": "shrug.wav",
+  "time": 205.1715192743764
+},
+{
+  "action": "stop",
+  "key": ";",
+  "filename": "shrug.wav",
+  "time": 205.1715192743764
+},
+{
+  "action": "stop",
+  "key": "u",
+  "filename": "shrug.wav",
+  "time": 205.1715192743764
+},
+{
+  "action": "start",
+  "key": "o",
+  "playbackRate": 1.0594630943592953,
+  "pan": 0.7393848896026611,
+  "filename": "shrug.wav",
+  "time": 207.45868480725625
+},
+{
+  "action": "start",
+  "key": "7",
+  "playbackRate": 1.122462048309373,
+  "pan": -0.3891375958919525,
+  "filename": "shrug.wav",
+  "time": 207.48190476190476
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "shrug.wav",
+  "time": 207.48190476190476
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "shrug.wav",
+  "time": 207.48190476190476
+},
+{
+  "action": "stop",
+  "key": "o",
+  "filename": "shrug.wav",
+  "time": 208.14367346938775
+},
+{
+  "action": "start",
+  "key": "p",
+  "playbackRate": 1.122462048309373,
+  "pan": -0.029899615794420242,
+  "filename": "shrug.wav",
+  "time": 208.2597732426304
+},
+{
+  "action": "stop",
+  "key": "7",
+  "filename": "shrug.wav",
+  "time": 209.59492063492064
+},
+{
+  "action": "stop",
+  "key": "p",
+  "filename": "shrug.wav",
+  "time": 209.61814058956915
+},
+{
+  "action": "start",
+  "key": "f",
+  "playbackRate": 0.6674199270850172,
+  "pan": -0.7719797492027283,
+  "filename": "shrug.wav",
+  "time": 209.68780045351474
+},
+{
+  "action": "start",
+  "key": "q",
+  "playbackRate": 0.6674199270850172,
+  "pan": -0.8784774541854858,
+  "filename": "shrug.wav",
+  "time": 209.71102040816328
+},
+{
+  "action": "start",
+  "key": "8",
+  "playbackRate": 1.189207115002721,
+  "pan": -0.9210381507873535,
+  "filename": "shrug.wav",
+  "time": 212.60190476190476
+},
+{
+  "action": "start",
+  "key": "[",
+  "playbackRate": 1.189207115002721,
+  "pan": -0.48944324254989624,
+  "filename": "shrug.wav",
+  "time": 212.70639455782313
+},
+{
+  "action": "stop",
+  "key": "f",
+  "filename": "shrug.wav",
+  "time": 212.7412244897959
+},
+{
+  "action": "stop",
+  "key": "q",
+  "filename": "shrug.wav",
+  "time": 212.76444444444445
+},
+{
+  "action": "stop",
+  "key": "8",
+  "filename": "shrug.wav",
+  "time": 217.8960544217687
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.2216178923845291,
+  "filename": "shrug.wav",
+  "time": 217.90766439909297
+},
+{
+  "action": "stop",
+  "key": "[",
+  "filename": "shrug.wav",
+  "time": 217.91927437641723
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.640913724899292,
+  "filename": "shrug.wav",
+  "time": 217.9308843537415
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "shrug.wav",
+  "time": 219.08027210884353
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.5372928380966187,
+  "filename": "shrug.wav",
+  "time": 219.08027210884353
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": 0.41227731108665466,
+  "filename": "shrug.wav",
+  "time": 219.08027210884353
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "shrug.wav",
+  "time": 219.10349206349207
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "shrug.wav",
+  "time": 220.53151927437642
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "shrug.wav",
+  "time": 220.55473922902493
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.4371412396430969,
+  "filename": "mariobop.wav",
+  "time": 221.00752834467121
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.8944144248962402,
+  "filename": "mariobop.wav",
+  "time": 221.00752834467121
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "mariobop.wav",
+  "time": 222.853514739229
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "boobadooboo.wav",
+  "time": 223.15537414965988
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.5620661973953247,
+  "filename": "boobadooboo.wav",
+  "time": 223.28308390022676
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": 0.8027161955833435,
+  "filename": "boobadooboo.wav",
+  "time": 223.34113378684808
+},
+{
+  "action": "start",
+  "key": "c",
+  "playbackRate": 0.5297315471796477,
+  "pan": -0.728400707244873,
+  "filename": "boobadooboo.wav",
+  "time": 225.4425396825397
+},
+{
+  "action": "start",
+  "key": "x",
+  "playbackRate": 0.5,
+  "pan": -0.7782133221626282,
+  "filename": "boobadooboo.wav",
+  "time": 226.35972789115647
+},
+{
+  "action": "stop",
+  "key": "c",
+  "filename": "boobadooboo.wav",
+  "time": 226.40616780045352
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.2998484671115875,
+  "filename": "boobadooboo.wav",
+  "time": 232.32725623582766
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "boobadooboo.wav",
+  "time": 233.0702947845805
+},
+{
+  "action": "start",
+  "key": "e",
+  "playbackRate": 0.7491535384383408,
+  "pan": -0.3665296733379364,
+  "filename": "boobadooboo.wav",
+  "time": 233.1980045351474
+},
+{
+  "action": "stop",
+  "key": "e",
+  "filename": "boobadooboo.wav",
+  "time": 234.71891156462584
+},
+{
+  "action": "start",
+  "key": "0",
+  "playbackRate": 1.3348398541700344,
+  "pan": -0.4159786105155945,
+  "filename": "boobadooboo.wav",
+  "time": 235.1717006802721
+},
+{
+  "action": "stop",
+  "key": "0",
+  "filename": "boobadooboo.wav",
+  "time": 237.11056689342405
+},
+{
+  "action": "start",
+  "key": "=",
+  "playbackRate": 1.4983070768766815,
+  "pan": 0.3319348692893982,
+  "filename": "boobadooboo.wav",
+  "time": 237.1570068027211
+},
+{
+  "action": "start",
+  "key": "0",
+  "playbackRate": 1.3348398541700344,
+  "pan": -0.6315038800239563,
+  "filename": "boobadooboo.wav",
+  "time": 240.9186394557823
+},
+{
+  "action": "stop",
+  "key": "=",
+  "filename": "boobadooboo.wav",
+  "time": 240.94185941043085
+},
+{
+  "action": "stop",
+  "key": "0",
+  "filename": "boobadooboo.wav",
+  "time": 245.5045804988662
+},
+{
+  "action": "start",
+  "key": "=",
+  "playbackRate": 1.4983070768766815,
+  "pan": -0.5149863362312317,
+  "filename": "boobadooboo.wav",
+  "time": 245.5045804988662
+},
+{
+  "action": "start",
+  "key": "0",
+  "playbackRate": 1.3348398541700344,
+  "pan": -0.406198650598526,
+  "filename": "boobadooboo.wav",
+  "time": 250.3459410430839
+},
+{
+  "action": "stop",
+  "key": "=",
+  "filename": "boobadooboo.wav",
+  "time": 250.36916099773242
+},
+{
+  "action": "stop",
+  "key": "0",
+  "filename": "boobadooboo.wav",
+  "time": 255.98839002267573
+},
+{
+  "action": "start",
+  "key": "=",
+  "playbackRate": 1.4983070768766815,
+  "pan": 0.36968347430229187,
+  "filename": "boobadooboo.wav",
+  "time": 256
+},
+{
+  "action": "start",
+  "key": "0",
+  "playbackRate": 1.3348398541700344,
+  "pan": 0.07821164280176163,
+  "filename": "boobadooboo.wav",
+  "time": 256
+},
+{
+  "action": "stop",
+  "key": "0",
+  "filename": "boobadooboo.wav",
+  "time": 256.0580498866213
+},
+{
+  "action": "start",
+  "key": "0",
+  "playbackRate": 1.3348398541700344,
+  "pan": -0.4718898832798004,
+  "filename": "boobadooboo.wav",
+  "time": 262.002358276644
+},
+{
+  "action": "stop",
+  "key": "=",
+  "filename": "boobadooboo.wav",
+  "time": 262.0255782312925
+},
+{
+  "action": "stop",
+  "key": "0",
+  "filename": "boobadooboo.wav",
+  "time": 266.28643990929703
+},
+{
+  "action": "start",
+  "key": "8",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.2171378880739212,
+  "filename": "boobadooboo.wav",
+  "time": 266.5186394557823
+},
+{
+  "action": "start",
+  "key": "6",
+  "playbackRate": 1.0594630943592953,
+  "pan": -0.30978548526763916,
+  "filename": "boobadooboo.wav",
+  "time": 268.08598639455784
+},
+{
+  "action": "stop",
+  "key": "8",
+  "filename": "boobadooboo.wav",
+  "time": 268.1440362811791
+},
+{
+  "action": "stop",
+  "key": "6",
+  "filename": "boobadooboo.wav",
+  "time": 269.61850340136056
+},
+{
+  "action": "start",
+  "key": "5",
+  "playbackRate": 1,
+  "pan": -0.7370123863220215,
+  "filename": "boobadooboo.wav",
+  "time": 269.7346031746032
+},
+{
+  "action": "stop",
+  "key": "5",
+  "filename": "boobadooboo.wav",
+  "time": 271.28743764172333
+},
+{
+  "action": "start",
+  "key": "3",
+  "playbackRate": 0.8908987181403393,
+  "pan": 0.31009313464164734,
+  "filename": "boobadooboo.wav",
+  "time": 271.30195011337867
+},
+{
+  "action": "stop",
+  "key": "3",
+  "filename": "boobadooboo.wav",
+  "time": 271.36
+},
+{
+  "action": "start",
+  "key": "3",
+  "playbackRate": 0.8908987181403393,
+  "pan": 0.03901124373078346,
+  "filename": "boobadooboo.wav",
+  "time": 271.40643990929703
+},
+{
+  "action": "stop",
+  "key": "3",
+  "filename": "boobadooboo.wav",
+  "time": 271.5109297052154
+},
+{
+  "action": "start",
+  "key": "3",
+  "playbackRate": 0.8908987181403393,
+  "pan": 0.10011975467205048,
+  "filename": "boobadooboo.wav",
+  "time": 271.5109297052154
+},
+{
+  "action": "stop",
+  "key": "3",
+  "filename": "boobadooboo.wav",
+  "time": 272.97378684807256
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.7539172172546387,
+  "filename": "boobadooboo.wav",
+  "time": 272.9970068027211
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "boobadooboo.wav",
+  "time": 274.64562358276646
+},
+{
+  "action": "start",
+  "key": "e",
+  "playbackRate": 0.7491535384383408,
+  "pan": 0.4124097526073456,
+  "filename": "boobadooboo.wav",
+  "time": 274.6804535147392
+},
+{
+  "action": "stop",
+  "key": "e",
+  "filename": "boobadooboo.wav",
+  "time": 276.28263038548755
+},
+{
+  "action": "start",
+  "key": "w",
+  "playbackRate": 0.7071067811865475,
+  "pan": 0.7666990160942078,
+  "filename": "boobadooboo.wav",
+  "time": 276.3174603174603
+},
+{
+  "action": "stop",
+  "key": "w",
+  "filename": "boobadooboo.wav",
+  "time": 277.82675736961454
+},
+{
+  "action": "start",
+  "key": "q",
+  "playbackRate": 0.6674199270850172,
+  "pan": 0.2199205905199051,
+  "filename": "boobadooboo.wav",
+  "time": 277.90802721088437
+},
+{
+  "action": "stop",
+  "key": "q",
+  "filename": "boobadooboo.wav",
+  "time": 279.47537414965984
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "boobadooboo.wav",
+  "time": 280.73215419501133
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "boobadooboo.wav",
+  "time": 280.7640816326531
+},
+{
+  "action": "stop",
+  "key": "x",
+  "filename": "boobadooboo.wav",
+  "time": 280.77569160997734
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.5888165831565857,
+  "filename": "drumblehoctave.wav",
+  "time": 282.41269841269843
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.7948811650276184,
+  "filename": "drumblehoctave.wav",
+  "time": 282.5171882086168
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "drumblehoctave.wav",
+  "time": 282.8306575963719
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "drumblehoctave.wav",
+  "time": 282.8422675736961
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.3235510587692261,
+  "filename": "aibassnine.wav",
+  "time": 285.08299319727894
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.6150306463241577,
+  "filename": "aibassnine.wav",
+  "time": 285.08299319727894
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "aibassnine.wav",
+  "time": 285.48934240362814
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "aibassnine.wav",
+  "time": 285.48934240362814
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.7954950928688049,
+  "filename": "aibassfour.wav",
+  "time": 286.17433106575965
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.6834487915039062,
+  "filename": "aibassfour.wav",
+  "time": 286.1859410430839
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "aibassfour.wav",
+  "time": 286.67356009070295
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "aibassfour.wav",
+  "time": 286.67356009070295
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.22657997906208038,
+  "filename": "aibassfour.wav",
+  "time": 287.13795918367344
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.4492509365081787,
+  "filename": "aibassfour.wav",
+  "time": 287.1495691609977
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "aibassfour.wav",
+  "time": 287.33532879818597
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "aibassfour.wav",
+  "time": 287.33532879818597
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.8460274338722229,
+  "filename": "aibassfour.wav",
+  "time": 287.5094784580499
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.127247154712677,
+  "filename": "aibassfour.wav",
+  "time": 287.54430839002265
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "aibassfour.wav",
+  "time": 287.70684807256237
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "aibassfour.wav",
+  "time": 287.7300680272109
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.16492460668087006,
+  "filename": "aibassfour.wav",
+  "time": 287.9158276643991
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.7041407227516174,
+  "filename": "aibassfour.wav",
+  "time": 287.93904761904764
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "aibassfour.wav",
+  "time": 288.08997732426303
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "aibassfour.wav",
+  "time": 288.08997732426303
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.835239827632904,
+  "filename": "aibassfour.wav",
+  "time": 288.2292970521542
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.7052261829376221,
+  "filename": "aibassfour.wav",
+  "time": 288.2292970521542
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "aibassfour.wav",
+  "time": 288.4266666666667
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "aibassfour.wav",
+  "time": 288.4266666666667
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.8160954117774963,
+  "filename": "aibassthree.wav",
+  "time": 288.98394557823127
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.35515937209129333,
+  "filename": "aibassthree.wav",
+  "time": 289.0071655328798
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "aibassthree.wav",
+  "time": 290.79510204081635
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "aibassthree.wav",
+  "time": 290.79510204081635
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.07288579642772675,
+  "filename": "aibassthree.wav",
+  "time": 291.2130612244898
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.5196900367736816,
+  "filename": "aibassthree.wav",
+  "time": 291.2478911564626
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "aibassthree.wav",
+  "time": 292.93133786848074
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "aibassthree.wav",
+  "time": 292.9661678004535
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.055826473981142044,
+  "filename": "aibassthree.wav",
+  "time": 293.3260770975057
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.7395087480545044,
+  "filename": "aibassthree.wav",
+  "time": 293.3609070294785
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "aibassthree.wav",
+  "time": 295.14884353741496
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "aibassthree.wav",
+  "time": 295.1720634920635
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.7500520348548889,
+  "filename": "aibassthree.wav",
+  "time": 295.47392290249434
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.045847829431295395,
+  "filename": "aibassthree.wav",
+  "time": 295.4971428571429
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 296.2750113378685
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 296.28662131519275
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.4743175208568573,
+  "filename": "aibassthree.wav",
+  "time": 296.4259410430839
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": 0.00861232727766037,
+  "filename": "aibassthree.wav",
+  "time": 296.43755102040814
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 297.15736961451245
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 297.17478458049885
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.6737174987792969,
+  "filename": "aibassthree.wav",
+  "time": 297.2618594104308
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.20488838851451874,
+  "filename": "aibassthree.wav",
+  "time": 297.2618594104308
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "aibassthree.wav",
+  "time": 298.1558276643991
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "aibassthree.wav",
+  "time": 298.1674376417234
+},
+{
+  "action": "start",
+  "key": "t",
+  "playbackRate": 0.8408964152537146,
+  "pan": 0.18648716807365417,
+  "filename": "aibassthree.wav",
+  "time": 298.1674376417234
+},
+{
+  "action": "start",
+  "key": "2",
+  "playbackRate": 0.8408964152537146,
+  "pan": -0.36288246512413025,
+  "filename": "aibassthree.wav",
+  "time": 298.23709750566894
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.4866870641708374,
+  "filename": "aibassthree.wav",
+  "time": 298.95691609977325
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.7395970225334167,
+  "filename": "aibassthree.wav",
+  "time": 298.991746031746
+},
+{
+  "action": "stop",
+  "key": "t",
+  "filename": "aibassthree.wav",
+  "time": 299.01496598639454
+},
+{
+  "action": "stop",
+  "key": "2",
+  "filename": "aibassthree.wav",
+  "time": 299.01496598639454
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 299.49097505668936
+},
+{
+  "action": "start",
+  "key": "f",
+  "playbackRate": 0.6674199270850172,
+  "pan": -0.8083971738815308,
+  "filename": "aibassthree.wav",
+  "time": 299.49097505668936
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 299.5258049886621
+},
+{
+  "action": "start",
+  "key": "q",
+  "playbackRate": 0.6674199270850172,
+  "pan": -0.43769752979278564,
+  "filename": "aibassthree.wav",
+  "time": 299.5258049886621
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.9793979525566101,
+  "filename": "aibassthree.wav",
+  "time": 299.9785941043084
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.6573158502578735,
+  "filename": "aibassthree.wav",
+  "time": 299.9785941043084
+},
+{
+  "action": "stop",
+  "key": "f",
+  "filename": "aibassthree.wav",
+  "time": 300.01342403628115
+},
+{
+  "action": "stop",
+  "key": "q",
+  "filename": "aibassthree.wav",
+  "time": 300.03954648526076
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.08766636252403259,
+  "filename": "aibassthree.wav",
+  "time": 300.3849433106576
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.6268132925033569,
+  "filename": "aibassthree.wav",
+  "time": 300.40816326530614
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "aibassthree.wav",
+  "time": 300.4197732426304
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "aibassthree.wav",
+  "time": 300.4429931972789
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "aibassthree.wav",
+  "time": 300.8029024943311
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "aibassthree.wav",
+  "time": 300.8029024943311
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.2760162353515625,
+  "filename": "aibassthree.wav",
+  "time": 300.8261224489796
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.1662599742412567,
+  "filename": "aibassthree.wav",
+  "time": 300.8319274376417
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 301.7084807256236
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 301.7433106575964
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": 0.8742336630821228,
+  "filename": "aibassthree.wav",
+  "time": 302.32380952380953
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": 0.3008139431476593,
+  "filename": "aibassthree.wav",
+  "time": 302.37024943310655
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 303.2061678004535
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 303.22938775510204
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.9873704314231873,
+  "filename": "aibassthree.wav",
+  "time": 303.8795464852608
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": 0.6912676095962524,
+  "filename": "aibassthree.wav",
+  "time": 303.8795464852608
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 304.9360544217687
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 304.9592743764172
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": 0.3060499429702759,
+  "filename": "aibassthree.wav",
+  "time": 305.4236734693878
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.7152535319328308,
+  "filename": "aibassthree.wav",
+  "time": 305.44689342403626
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 305.89968253968254
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 305.93451247165535
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.362669974565506,
+  "filename": "aibassthree.wav",
+  "time": 306.0390022675737
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": 0.6871909499168396,
+  "filename": "aibassthree.wav",
+  "time": 306.0390022675737
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 306.4453514739229
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 306.45696145124714
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.15326382219791412,
+  "filename": "aibassthree.wav",
+  "time": 306.5962811791383
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": 0.7817309498786926,
+  "filename": "aibassthree.wav",
+  "time": 306.6078911564626
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 306.8865306122449
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 306.8865306122449
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.33407142758369446,
+  "filename": "aibassthree.wav",
+  "time": 307.0026303854875
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": 0.11516886949539185,
+  "filename": "aibassthree.wav",
+  "time": 307.0142403628118
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 307.90820861678003
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 307.9198185941043
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.6248626708984375,
+  "filename": "aibassthree.wav",
+  "time": 308.62802721088434
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.7405239343643188,
+  "filename": "aibassthree.wav",
+  "time": 308.62802721088434
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 309.61487528344674
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 309.6380952380952
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.7415487170219421,
+  "filename": "aibassthree.wav",
+  "time": 310.2766439909297
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.1381451040506363,
+  "filename": "aibassthree.wav",
+  "time": 310.28825396825397
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 311.57696145124714
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 311.66984126984124
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": 0.2408704310655594,
+  "filename": "aibassthree.wav",
+  "time": 311.97170068027214
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": 0.5708163380622864,
+  "filename": "aibassthree.wav",
+  "time": 311.97170068027214
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 312.23873015873016
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 312.273560090703
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": 0.1962239295244217,
+  "filename": "aibassthree.wav",
+  "time": 312.38965986394555
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": 0.6910156011581421,
+  "filename": "aibassthree.wav",
+  "time": 312.4128798185941
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 312.9121088435374
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 312.93532879818594
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.36452338099479675,
+  "filename": "aibassthree.wav",
+  "time": 313.0514285714286
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.6103752255439758,
+  "filename": "aibassthree.wav",
+  "time": 313.0746485260771
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 313.4809977324263
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 313.5390476190476
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.5875200629234314,
+  "filename": "aibassthree.wav",
+  "time": 313.6667573696145
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": 0.7656917572021484,
+  "filename": "aibassthree.wav",
+  "time": 313.6783673469388
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 314.87419501133786
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 314.90902494331067
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": 0.03697903826832771,
+  "filename": "aibassthree.wav",
+  "time": 315.37342403628116
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.6961671710014343,
+  "filename": "aibassthree.wav",
+  "time": 315.3966439909297
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 316.7550113378685
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 316.82467120181406
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": 0.8921557068824768,
+  "filename": "aibassthree.wav",
+  "time": 317.54448979591837
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.048148948699235916,
+  "filename": "aibassthree.wav",
+  "time": 317.54448979591837
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 318.6706575963719
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 318.6706575963719
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.9562414884567261,
+  "filename": "aibassthree.wav",
+  "time": 318.82158730158733
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.4671465754508972,
+  "filename": "aibassthree.wav",
+  "time": 318.83319727891154
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 319.41369614512473
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 319.41369614512473
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": 0.9258275628089905,
+  "filename": "aibassthree.wav",
+  "time": 319.4833560090703
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.5379804968833923,
+  "filename": "aibassthree.wav",
+  "time": 319.50657596371883
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 320.0290249433107
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 320.0290249433107
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.5502080917358398,
+  "filename": "aibassthree.wav",
+  "time": 320.1219047619048
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.035806067287921906,
+  "filename": "aibassthree.wav",
+  "time": 320.13351473922904
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 320.8649433106576
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 320.8649433106576
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": 0.16722269356250763,
+  "filename": "aibassthree.wav",
+  "time": 320.9578231292517
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.14674460887908936,
+  "filename": "aibassthree.wav",
+  "time": 320.9810430839002
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 322.0956009070295
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 322.0956009070295
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.5404537320137024,
+  "filename": "aibassthree.wav",
+  "time": 322.2349206349206
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": 0.3137969970703125,
+  "filename": "aibassthree.wav",
+  "time": 322.2349206349206
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 323.7558276643991
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 323.7790476190476
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": 0.2760694622993469,
+  "filename": "aibassthree.wav",
+  "time": 323.883537414966
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.4259905219078064,
+  "filename": "aibassthree.wav",
+  "time": 323.883537414966
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 324.4988662131519
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 324.4988662131519
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": 0.782522439956665,
+  "filename": "aibassthree.wav",
+  "time": 324.5569160997732
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.767508327960968,
+  "filename": "aibassthree.wav",
+  "time": 324.58013605442176
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 324.6614058956916
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 324.6846258503401
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.8733298778533936,
+  "filename": "aibassthree.wav",
+  "time": 324.6962358276644
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": 0.38829106092453003,
+  "filename": "aibassthree.wav",
+  "time": 324.71945578231293
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 325.2651247165533
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 325.2651247165533
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": 0.7271348237991333,
+  "filename": "aibassthree.wav",
+  "time": 325.34639455782315
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": 0.24857495725154877,
+  "filename": "aibassthree.wav",
+  "time": 325.3696145124716
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 325.4508843537415
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 325.47410430839
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": 0.654739499092102,
+  "filename": "aibassthree.wav",
+  "time": 325.49732426303854
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.21890754997730255,
+  "filename": "aibassthree.wav",
+  "time": 325.49732426303854
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 326.0778231292517
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 326.0778231292517
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.2296796292066574,
+  "filename": "aibassthree.wav",
+  "time": 326.15909297052156
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.2974306643009186,
+  "filename": "aibassthree.wav",
+  "time": 326.1823129251701
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 326.2751927437642
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.3167027533054352,
+  "filename": "aibassthree.wav",
+  "time": 326.31002267573695
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 326.8324716553288
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 326.8556916099773
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": 0.953636646270752,
+  "filename": "aibassthree.wav",
+  "time": 326.9253514739229
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": 0.11331656575202942,
+  "filename": "aibassthree.wav",
+  "time": 326.9253514739229
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 327.02984126984126
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.6127941012382507,
+  "filename": "aibassthree.wav",
+  "time": 327.0878911564626
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 327.25043083900226
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": 0.9108653664588928,
+  "filename": "aibassthree.wav",
+  "time": 327.25043083900226
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 328.02829931972786
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 328.02829931972786
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": 0.20820602774620056,
+  "filename": "aibassthree.wav",
+  "time": 328.121179138322
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.717763364315033,
+  "filename": "aibassthree.wav",
+  "time": 328.13278911564623
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 328.2256689342404
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 328.2372789115646
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": 0.26873210072517395,
+  "filename": "aibassthree.wav",
+  "time": 328.29532879818595
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": 0.5666905045509338,
+  "filename": "aibassthree.wav",
+  "time": 328.3185487528345
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 329.8510657596372
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 329.8742857142857
+},
+{
+  "action": "start",
+  "key": "5",
+  "playbackRate": 1,
+  "pan": 0.30200451612472534,
+  "filename": "aibassthree.wav",
+  "time": 329.88589569160996
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.9330357313156128,
+  "filename": "aibassthree.wav",
+  "time": 329.96716553287985
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": -0.7910752892494202,
+  "filename": "aibassthree.wav",
+  "time": 329.97877551020406
+},
+{
+  "action": "stop",
+  "key": "5",
+  "filename": "aibassthree.wav",
+  "time": 330.33868480725624
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 330.3619047619048
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 330.37351473922905
+},
+{
+  "action": "start",
+  "key": "5",
+  "playbackRate": 1,
+  "pan": 0.08626141399145126,
+  "filename": "aibassthree.wav",
+  "time": 330.4199546485261
+},
+{
+  "action": "start",
+  "key": "i",
+  "playbackRate": 1,
+  "pan": -0.5246368050575256,
+  "filename": "aibassthree.wav",
+  "time": 330.4547845804989
+},
+{
+  "action": "start",
+  "key": "'",
+  "playbackRate": 1,
+  "pan": 0.32654502987861633,
+  "filename": "aibassthree.wav",
+  "time": 330.4780045351474
+},
+{
+  "action": "stop",
+  "key": "i",
+  "filename": "aibassthree.wav",
+  "time": 331.24426303854875
+},
+{
+  "action": "stop",
+  "key": "'",
+  "filename": "aibassthree.wav",
+  "time": 331.255873015873
+},
+{
+  "action": "stop",
+  "key": "5",
+  "filename": "aibassthree.wav",
+  "time": 331.33714285714285
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.6351442933082581,
+  "filename": "aibassthree.wav",
+  "time": 331.4068027210884
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.8370658159255981,
+  "filename": "aibassthree.wav",
+  "time": 331.46485260770976
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.04130464792251587,
+  "filename": "aibassthree.wav",
+  "time": 331.5345124716553
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.08574201911687851,
+  "filename": "aibassthree.wav",
+  "time": 331.5345124716553
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "aibassthree.wav",
+  "time": 332.46331065759637
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "aibassthree.wav",
+  "time": 332.4865306122449
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "aibassthree.wav",
+  "time": 332.55619047619047
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "aibassthree.wav",
+  "time": 332.5910204081633
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.6051003336906433,
+  "filename": "aibassone.wav",
+  "time": 333.0989569160998
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.5495187044143677,
+  "filename": "aibassone.wav",
+  "time": 333.10185941043085
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.8672459125518799,
+  "filename": "aibassone.wav",
+  "time": 333.13668934240366
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.7017800807952881,
+  "filename": "aibassone.wav",
+  "time": 333.13668934240366
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "aibassone.wav",
+  "time": 334.10031746031746
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "aibassone.wav",
+  "time": 334.14675736961453
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "aidrumthree.wav",
+  "time": 334.22802721088436
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "aidrumthree.wav",
+  "time": 334.23963718820863
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.9953424334526062,
+  "filename": "aidrumthree.wav",
+  "time": 334.42539682539683
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.7733693718910217,
+  "filename": "aidrumthree.wav",
+  "time": 334.42539682539683
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.6663668751716614,
+  "filename": "aidrumthree.wav",
+  "time": 334.44861678004537
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.8985006213188171,
+  "filename": "aidrumthree.wav",
+  "time": 334.46022675736964
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "aidrumthree.wav",
+  "time": 336.2481632653061
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "aidrumthree.wav",
+  "time": 336.2481632653061
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "bassblend2.wav",
+  "time": 336.3526530612245
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "bassblend2.wav",
+  "time": 336.3526530612245
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.7434568405151367,
+  "filename": "bassblend2.wav",
+  "time": 336.51519274376415
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.9099615216255188,
+  "filename": "bassblend2.wav",
+  "time": 336.5384126984127
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.2503143548965454,
+  "filename": "bassblend2.wav",
+  "time": 336.5384126984127
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.36994004249572754,
+  "filename": "bassblend2.wav",
+  "time": 336.55002267573695
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "bassblend2.wav",
+  "time": 337.18857142857144
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "bassblend2.wav",
+  "time": 337.21179138322
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "aidrumfour.wav",
+  "time": 337.28145124716553
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "aidrumfour.wav",
+  "time": 337.31628117913834
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.5014569163322449,
+  "filename": "aidrumfour.wav",
+  "time": 337.4207709750567
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.5704204440116882,
+  "filename": "aidrumfour.wav",
+  "time": 337.4439909297052
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.29736629128456116,
+  "filename": "aidrumfour.wav",
+  "time": 337.4439909297052
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.49494364857673645,
+  "filename": "aidrumfour.wav",
+  "time": 337.4439909297052
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "aidrumfour.wav",
+  "time": 338.8836281179138
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "aidrumfour.wav",
+  "time": 338.8952380952381
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "downdever.wav",
+  "time": 338.96489795918365
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "downdever.wav",
+  "time": 338.9881179138322
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.5030284523963928,
+  "filename": "downdever.wav",
+  "time": 339.09260770975055
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.306294709444046,
+  "filename": "downdever.wav",
+  "time": 339.09260770975055
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.8960932493209839,
+  "filename": "downdever.wav",
+  "time": 339.13904761904763
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.41633036732673645,
+  "filename": "downdever.wav",
+  "time": 339.13904761904763
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "downdever.wav",
+  "time": 340.1142857142857
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "downdever.wav",
+  "time": 340.1142857142857
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "downdever.wav",
+  "time": 340.17233560090705
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "downdever.wav",
+  "time": 340.19555555555553
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.5995277166366577,
+  "filename": "downdever.wav",
+  "time": 340.50902494331064
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.13137270510196686,
+  "filename": "downdever.wav",
+  "time": 340.5206349206349
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.7397102117538452,
+  "filename": "downdever.wav",
+  "time": 340.5206349206349
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.06710367649793625,
+  "filename": "downdever.wav",
+  "time": 340.54385487528344
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "downdever.wav",
+  "time": 341.67002267573696
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "downdever.wav",
+  "time": 341.67002267573696
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "downdever.wav",
+  "time": 341.6932426303855
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "downdever.wav",
+  "time": 341.70485260770977
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.5534769296646118,
+  "filename": "downdever.wav",
+  "time": 341.8673922902494
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.9580520391464233,
+  "filename": "downdever.wav",
+  "time": 341.8790022675737
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.8380149602890015,
+  "filename": "downdever.wav",
+  "time": 341.89061224489797
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.21437682211399078,
+  "filename": "downdever.wav",
+  "time": 341.89061224489797
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "downdever.wav",
+  "time": 342.30857142857144
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "downdever.wav",
+  "time": 342.33179138322
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "downdever.wav",
+  "time": 342.35501133786846
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "downdever.wav",
+  "time": 342.36662131519273
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.0970616340637207,
+  "filename": "downdever.wav",
+  "time": 342.57560090702947
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.9262166023254395,
+  "filename": "downdever.wav",
+  "time": 342.57560090702947
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.6409144997596741,
+  "filename": "downdever.wav",
+  "time": 342.57560090702947
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.10455957800149918,
+  "filename": "downdever.wav",
+  "time": 342.598820861678
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "downdever.wav",
+  "time": 343.0516099773243
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "downdever.wav",
+  "time": 343.0516099773243
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "downdever.wav",
+  "time": 343.06612244897957
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "downdever.wav",
+  "time": 343.0748299319728
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.13489966094493866,
+  "filename": "downdever.wav",
+  "time": 343.24897959183676
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.7782516479492188,
+  "filename": "downdever.wav",
+  "time": 343.24897959183676
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.17817047238349915,
+  "filename": "downdever.wav",
+  "time": 343.26058956916097
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.8868979215621948,
+  "filename": "downdever.wav",
+  "time": 343.26058956916097
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "downdever.wav",
+  "time": 343.7365986394558
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "downdever.wav",
+  "time": 343.7365986394558
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "downdever.wav",
+  "time": 343.75981859410433
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "downdever.wav",
+  "time": 343.75981859410433
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.21274423599243164,
+  "filename": "downdever.wav",
+  "time": 343.9571882086168
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.7694293260574341,
+  "filename": "downdever.wav",
+  "time": 343.9571882086168
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.11969877034425735,
+  "filename": "downdever.wav",
+  "time": 343.9804081632653
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.32123035192489624,
+  "filename": "downdever.wav",
+  "time": 343.9804081632653
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "downdever.wav",
+  "time": 344.43319727891156
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "downdever.wav",
+  "time": 344.43319727891156
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "downdever.wav",
+  "time": 344.43319727891156
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "downdever.wav",
+  "time": 344.44480725623583
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.0035485385451465845,
+  "filename": "downdever.wav",
+  "time": 344.63056689342403
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.2674151659011841,
+  "filename": "downdever.wav",
+  "time": 344.63056689342403
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.8409600853919983,
+  "filename": "downdever.wav",
+  "time": 344.63056689342403
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.9817860722541809,
+  "filename": "downdever.wav",
+  "time": 344.65378684807257
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "downdever.wav",
+  "time": 345.820589569161
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "downdever.wav",
+  "time": 345.82349206349204
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "downdever.wav",
+  "time": 345.8380045351474
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "downdever.wav",
+  "time": 345.84961451247165
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.6857386231422424,
+  "filename": "downdever.wav",
+  "time": 345.9889342403628
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.7792136073112488,
+  "filename": "downdever.wav",
+  "time": 345.9889342403628
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.6188514232635498,
+  "filename": "downdever.wav",
+  "time": 346.0237641723356
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.5801446437835693,
+  "filename": "downdever.wav",
+  "time": 346.0237641723356
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "downdever.wav",
+  "time": 347.16154195011336
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "downdever.wav",
+  "time": 347.16154195011336
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "downdever.wav",
+  "time": 347.16154195011336
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "downdever.wav",
+  "time": 347.16154195011336
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.9430663585662842,
+  "filename": "downdever.wav",
+  "time": 347.3589115646258
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.521111249923706,
+  "filename": "downdever.wav",
+  "time": 347.3705215419501
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.5849175453186035,
+  "filename": "downdever.wav",
+  "time": 347.3705215419501
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.5416703820228577,
+  "filename": "downdever.wav",
+  "time": 347.3705215419501
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "downdever.wav",
+  "time": 347.8697505668934
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "downdever.wav",
+  "time": 347.8697505668934
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "downdever.wav",
+  "time": 347.89297052154194
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "downdever.wav",
+  "time": 347.9045804988662
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.5760781168937683,
+  "filename": "downdever.wav",
+  "time": 348.05551020408166
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.5432602763175964,
+  "filename": "downdever.wav",
+  "time": 348.06712018140587
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.24254001677036285,
+  "filename": "downdever.wav",
+  "time": 348.0903401360544
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.2838022708892822,
+  "filename": "downdever.wav",
+  "time": 348.0903401360544
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "downdever.wav",
+  "time": 348.5895691609977
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "downdever.wav",
+  "time": 348.5895691609977
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "downdever.wav",
+  "time": 348.5895691609977
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "downdever.wav",
+  "time": 348.61278911564625
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.5643932819366455,
+  "filename": "downdever.wav",
+  "time": 348.77532879818597
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.21875236928462982,
+  "filename": "downdever.wav",
+  "time": 348.77532879818597
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.8178495764732361,
+  "filename": "downdever.wav",
+  "time": 348.77532879818597
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.11460686475038528,
+  "filename": "downdever.wav",
+  "time": 348.7869387755102
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "downdever.wav",
+  "time": 349.28616780045354
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "downdever.wav",
+  "time": 349.28616780045354
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "downdever.wav",
+  "time": 349.28616780045354
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "downdever.wav",
+  "time": 349.309387755102
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.9698055982589722,
+  "filename": "downdever.wav",
+  "time": 349.43709750566893
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.03214644640684128,
+  "filename": "downdever.wav",
+  "time": 349.4487074829932
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.008803361095488071,
+  "filename": "downdever.wav",
+  "time": 349.4487074829932
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.3591538965702057,
+  "filename": "downdever.wav",
+  "time": 349.47192743764174
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "downdever.wav",
+  "time": 349.97115646258504
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "downdever.wav",
+  "time": 349.9943764172336
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "downdever.wav",
+  "time": 350.00598639455785
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "downdever.wav",
+  "time": 350.00598639455785
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.4204207956790924,
+  "filename": "downdever.wav",
+  "time": 350.12208616780043
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.7997403144836426,
+  "filename": "downdever.wav",
+  "time": 350.14530612244897
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.189069464802742,
+  "filename": "downdever.wav",
+  "time": 350.15691609977324
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.7050471901893616,
+  "filename": "downdever.wav",
+  "time": 350.15691609977324
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "downdever.wav",
+  "time": 350.9463945578231
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "downdever.wav",
+  "time": 350.96961451247165
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "downdever.wav",
+  "time": 351.06249433106575
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "downdever.wav",
+  "time": 351.1089342403628
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.731608510017395,
+  "filename": "gtraggro.wav",
+  "time": 351.24825396825395
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.14794956147670746,
+  "filename": "gtraggro.wav",
+  "time": 351.2598639455782
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.9761684536933899,
+  "filename": "gtraggro.wav",
+  "time": 351.3063038548753
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.8947407007217407,
+  "filename": "gtraggro.wav",
+  "time": 351.3063038548753
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "gtraggro.wav",
+  "time": 352.15383219954646
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "gtraggro.wav",
+  "time": 352.15383219954646
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "gtraggro.wav",
+  "time": 352.15383219954646
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "aibasseven.wav",
+  "time": 352.2118820861678
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.644724428653717,
+  "filename": "aibasseven.wav",
+  "time": 352.37442176870746
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.8461712002754211,
+  "filename": "aibasseven.wav",
+  "time": 352.37442176870746
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.54559326171875,
+  "filename": "aibasseven.wav",
+  "time": 352.37442176870746
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.529768705368042,
+  "filename": "aibasseven.wav",
+  "time": 352.37442176870746
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "aibasseven.wav",
+  "time": 353.8488888888889
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "aibasseven.wav",
+  "time": 353.8488888888889
+},
+{
+  "action": "stop",
+  "key": "/",
+  "filename": "aibasseven.wav",
+  "time": 353.8837188208617
+},
+{
+  "action": "stop",
+  "key": "j",
+  "filename": "aibasseven.wav",
+  "time": 353.91854875283445
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.8193576335906982,
+  "filename": "downdever.wav",
+  "time": 356.6468934240363
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.8706262707710266,
+  "filename": "downdever.wav",
+  "time": 356.6468934240363
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "downdever.wav",
+  "time": 357.35510204081635
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.18391646444797516,
+  "filename": "downdever.wav",
+  "time": 357.35510204081635
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "downdever.wav",
+  "time": 357.4247619047619
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.14574815332889557,
+  "filename": "downdever.wav",
+  "time": 357.6221315192744
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "downdever.wav",
+  "time": 357.8311111111111
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "downdever.wav",
+  "time": 357.9356009070295
+},
+{
+  "action": "start",
+  "key": "j",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.7346656918525696,
+  "filename": "downdever.wav",
+  "time": 358.2722902494331
+},
+{
+  "action": "start",
+  "key": "/",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.8669098019599915,
+  "filename": "downdever.wav",
+  "time": 358.2839002267574
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.030499529093503952,
+  "filename": "aibasseven.wav",
+  "time": 360.0137868480726
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.48702070116996765,
+  "filename": "aibasseven.wav",
+  "time": 360.0137868480726
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "aibasseven.wav",
+  "time": 360.8845351473923
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "aibasseven.wav",
+  "time": 360.9193650793651
+},
+{
+  "action": "start",
+  "key": "t",
+  "playbackRate": 0.8408964152537146,
+  "pan": -0.47375428676605225,
+  "filename": "aibasseven.wav",
+  "time": 361.02385487528346
+},
+{
+  "action": "start",
+  "key": "2",
+  "playbackRate": 0.8408964152537146,
+  "pan": -0.04463040083646774,
+  "filename": "aibasseven.wav",
+  "time": 361.0586848072562
+},
+{
+  "action": "stop",
+  "key": "2",
+  "filename": "aibasseven.wav",
+  "time": 362.1384126984127
+},
+{
+  "action": "stop",
+  "key": "t",
+  "filename": "aibasseven.wav",
+  "time": 362.18485260770973
+},
+{
+  "action": "start",
+  "key": "3",
+  "playbackRate": 0.8908987181403393,
+  "pan": -0.4991065263748169,
+  "filename": "aibasseven.wav",
+  "time": 362.25451247165535
+},
+{
+  "action": "stop",
+  "key": "3",
+  "filename": "aibasseven.wav",
+  "time": 363.31102040816324
+},
+{
+  "action": "start",
+  "key": "2",
+  "playbackRate": 0.8408964152537146,
+  "pan": -0.47016584873199463,
+  "filename": "aibasseven.wav",
+  "time": 363.3342403628118
+},
+{
+  "action": "stop",
+  "key": "2",
+  "filename": "aibasseven.wav",
+  "time": 364.51845804988665
+},
+{
+  "action": "start",
+  "key": "4",
+  "playbackRate": 0.9438743126816935,
+  "pan": 0.06657565385103226,
+  "filename": "aibasseven.wav",
+  "time": 366.24834467120183
+},
+{
+  "action": "stop",
+  "key": "4",
+  "filename": "aibasseven.wav",
+  "time": 366.89850340136053
+},
+{
+  "action": "start",
+  "key": "3",
+  "playbackRate": 0.8908987181403393,
+  "pan": 0.669157862663269,
+  "filename": "aibasseven.wav",
+  "time": 367.0378231292517
+},
+{
+  "action": "stop",
+  "key": "3",
+  "filename": "aibasseven.wav",
+  "time": 367.7228117913832
+},
+{
+  "action": "start",
+  "key": "2",
+  "playbackRate": 0.8408964152537146,
+  "pan": 0.9826928377151489,
+  "filename": "aibasseven.wav",
+  "time": 367.757641723356
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.1663612723350525,
+  "filename": "aibasseven.wav",
+  "time": 368.3265306122449
+},
+{
+  "action": "stop",
+  "key": "2",
+  "filename": "aibasseven.wav",
+  "time": 368.3265306122449
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "aibasseven.wav",
+  "time": 368.860589569161
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.07753106951713562,
+  "filename": "blocks.wav",
+  "time": 369.6268480725624
+},
+{
+  "action": "start",
+  "key": "1",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.15092168748378754,
+  "filename": "blocks.wav",
+  "time": 369.66167800453513
+},
+{
+  "action": "stop",
+  "key": "1",
+  "filename": "blocks.wav",
+  "time": 370.32344671201815
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "blocks.wav",
+  "time": 370.4859863945578
+},
+{
+  "action": "start",
+  "key": "o",
+  "playbackRate": 1.0594630943592953,
+  "pan": 0.4458955228328705,
+  "filename": "blocks.wav",
+  "time": 370.7181859410431
+},
+{
+  "action": "stop",
+  "key": "o",
+  "filename": "blocks.wav",
+  "time": 370.7762358276644
+},
+{
+  "action": "start",
+  "key": "[",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.3234506845474243,
+  "filename": "blocks.wav",
+  "time": 370.9968253968254
+},
+{
+  "action": "start",
+  "key": "9",
+  "playbackRate": 1.2599210498948732,
+  "pan": -0.9533021450042725,
+  "filename": "blocks.wav",
+  "time": 371.1709750566893
+},
+{
+  "action": "stop",
+  "key": "[",
+  "filename": "blocks.wav",
+  "time": 371.7050340136054
+},
+{
+  "action": "start",
+  "key": "[",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.2139633148908615,
+  "filename": "blocks.wav",
+  "time": 371.8095238095238
+},
+{
+  "action": "stop",
+  "key": "9",
+  "filename": "blocks.wav",
+  "time": 371.86757369614514
+},
+{
+  "action": "start",
+  "key": "9",
+  "playbackRate": 1.2599210498948732,
+  "pan": 0.9531201124191284,
+  "filename": "blocks.wav",
+  "time": 371.96045351473924
+},
+{
+  "action": "stop",
+  "key": "[",
+  "filename": "blocks.wav",
+  "time": 371.9720634920635
+},
+{
+  "action": "start",
+  "key": "[",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.41919204592704773,
+  "filename": "blocks.wav",
+  "time": 372.13460317460317
+},
+{
+  "action": "stop",
+  "key": "[",
+  "filename": "blocks.wav",
+  "time": 372.2855328798186
+},
+{
+  "action": "start",
+  "key": "[",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.3565034568309784,
+  "filename": "blocks.wav",
+  "time": 372.45968253968255
+},
+{
+  "action": "stop",
+  "key": "[",
+  "filename": "blocks.wav",
+  "time": 372.657052154195
+},
+{
+  "action": "stop",
+  "key": "9",
+  "filename": "blocks.wav",
+  "time": 372.9821315192744
+},
+{
+  "action": "start",
+  "key": "[",
+  "playbackRate": 1.189207115002721,
+  "pan": -0.17057742178440094,
+  "filename": "blocks.wav",
+  "time": 373.14467120181405
+},
+{
+  "action": "start",
+  "key": "9",
+  "playbackRate": 1.2599210498948732,
+  "pan": 0.7527111172676086,
+  "filename": "blocks.wav",
+  "time": 373.33043083900225
+},
+{
+  "action": "stop",
+  "key": "[",
+  "filename": "blocks.wav",
+  "time": 373.41170068027213
+},
+{
+  "action": "start",
+  "key": "[",
+  "playbackRate": 1.189207115002721,
+  "pan": -0.15012219548225403,
+  "filename": "blocks.wav",
+  "time": 373.4349206349206
+},
+{
+  "action": "stop",
+  "key": "[",
+  "filename": "blocks.wav",
+  "time": 373.4813605442177
+},
+{
+  "action": "stop",
+  "key": "9",
+  "filename": "blocks.wav",
+  "time": 373.539410430839
+},
+{
+  "action": "start",
+  "key": "[",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.0732264593243599,
+  "filename": "blocks.wav",
+  "time": 373.6090702947846
+},
+{
+  "action": "start",
+  "key": "9",
+  "playbackRate": 1.2599210498948732,
+  "pan": 0.06042036786675453,
+  "filename": "blocks.wav",
+  "time": 373.64390022675735
+},
+{
+  "action": "stop",
+  "key": "9",
+  "filename": "blocks.wav",
+  "time": 373.73678004535145
+},
+{
+  "action": "start",
+  "key": "9",
+  "playbackRate": 1.2599210498948732,
+  "pan": 0.9628455638885498,
+  "filename": "blocks.wav",
+  "time": 373.7948299319728
+},
+{
+  "action": "stop",
+  "key": "[",
+  "filename": "blocks.wav",
+  "time": 373.9341496598639
+},
+{
+  "action": "stop",
+  "key": "9",
+  "filename": "blocks.wav",
+  "time": 374.0270294784581
+},
+{
+  "action": "start",
+  "key": "9",
+  "playbackRate": 1.2599210498948732,
+  "pan": -0.5625879168510437,
+  "filename": "four_doots.wav",
+  "time": 374.421768707483
+},
+{
+  "action": "start",
+  "key": "[",
+  "playbackRate": 1.189207115002721,
+  "pan": -0.27372726798057556,
+  "filename": "four_doots.wav",
+  "time": 374.421768707483
+},
+{
+  "action": "stop",
+  "key": "[",
+  "filename": "four_doots.wav",
+  "time": 374.642358276644
+},
+{
+  "action": "stop",
+  "key": "9",
+  "filename": "four_doots.wav",
+  "time": 374.86294784580497
+},
+{
+  "action": "start",
+  "key": "[",
+  "playbackRate": 1.189207115002721,
+  "pan": -0.7557085752487183,
+  "filename": "four_doots.wav",
+  "time": 374.9790476190476
+},
+{
+  "action": "start",
+  "key": "9",
+  "playbackRate": 1.2599210498948732,
+  "pan": 0.9488427042961121,
+  "filename": "four_doots.wav",
+  "time": 375.083537414966
+},
+{
+  "action": "stop",
+  "key": "[",
+  "filename": "four_doots.wav",
+  "time": 375.18802721088434
+},
+{
+  "action": "start",
+  "key": "[",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.2532370686531067,
+  "filename": "four_doots.wav",
+  "time": 375.3273469387755
+},
+{
+  "action": "stop",
+  "key": "9",
+  "filename": "four_doots.wav",
+  "time": 375.3273469387755
+},
+{
+  "action": "start",
+  "key": "0",
+  "playbackRate": 1.3348398541700344,
+  "pan": 0.5743187665939331,
+  "filename": "four_doots.wav",
+  "time": 375.4318367346939
+},
+{
+  "action": "stop",
+  "key": "0",
+  "filename": "four_doots.wav",
+  "time": 375.4782766439909
+},
+{
+  "action": "stop",
+  "key": "[",
+  "filename": "four_doots.wav",
+  "time": 375.53632653061226
+},
+{
+  "action": "start",
+  "key": "[",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.765464186668396,
+  "filename": "four_doots_2.wav",
+  "time": 375.95428571428573
+},
+{
+  "action": "start",
+  "key": "9",
+  "playbackRate": 1.2599210498948732,
+  "pan": -0.5980992317199707,
+  "filename": "four_doots_2.wav",
+  "time": 376.07038548752837
+},
+{
+  "action": "stop",
+  "key": "[",
+  "filename": "four_doots_2.wav",
+  "time": 376.17487528344674
+},
+{
+  "action": "start",
+  "key": "[",
+  "playbackRate": 1.189207115002721,
+  "pan": 0.9819970726966858,
+  "filename": "four_doots_2.wav",
+  "time": 376.2445351473923
+},
+{
+  "action": "stop",
+  "key": "[",
+  "filename": "four_doots_2.wav",
+  "time": 376.2793650793651
+},
+{
+  "action": "stop",
+  "key": "9",
+  "filename": "four_doots_2.wav",
+  "time": 376.2793650793651
+},
+{
+  "action": "start",
+  "key": "t",
+  "playbackRate": 0.8408964152537146,
+  "pan": 0.6888253688812256,
+  "filename": "four_doots_2.wav",
+  "time": 376.40707482993196
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.5828709602355957,
+  "filename": "four_doots_2.wav",
+  "time": 376.44190476190477
+},
+{
+  "action": "start",
+  "key": "3",
+  "playbackRate": 0.8908987181403393,
+  "pan": -0.016732320189476013,
+  "filename": "four_doots_2.wav",
+  "time": 376.4767346938776
+},
+{
+  "action": "start",
+  "key": "w",
+  "playbackRate": 0.7071067811865475,
+  "pan": -0.9425107836723328,
+  "filename": "four_doots_2.wav",
+  "time": 376.4767346938776
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "four_doots_2.wav",
+  "time": 376.5115646258503
+},
+{
+  "action": "stop",
+  "key": "t",
+  "filename": "four_doots_2.wav",
+  "time": 376.53478458049887
+},
+{
+  "action": "start",
+  "key": "t",
+  "playbackRate": 0.8408964152537146,
+  "pan": -0.7313784956932068,
+  "filename": "four_doots_2.wav",
+  "time": 376.59283446712016
+},
+{
+  "action": "stop",
+  "key": "w",
+  "filename": "four_doots_2.wav",
+  "time": 376.6160544217687
+},
+{
+  "action": "stop",
+  "key": "3",
+  "filename": "four_doots_2.wav",
+  "time": 376.6973242630385
+},
+{
+  "action": "start",
+  "key": "2",
+  "playbackRate": 0.8408964152537146,
+  "pan": 0.9374486804008484,
+  "filename": "four_doots_2.wav",
+  "time": 376.73215419501133
+},
+{
+  "action": "stop",
+  "key": "t",
+  "filename": "four_doots_2.wav",
+  "time": 376.91791383219953
+},
+{
+  "action": "stop",
+  "key": "2",
+  "filename": "four_doots_2.wav",
+  "time": 376.95274376417234
+},
+{
+  "action": "start",
+  "key": "t",
+  "playbackRate": 0.8408964152537146,
+  "pan": -0.22860892117023468,
+  "filename": "four_doots_2.wav",
+  "time": 376.98757369614515
+},
+{
+  "action": "start",
+  "key": "w",
+  "playbackRate": 0.7071067811865475,
+  "pan": -0.5999928116798401,
+  "filename": "four_doots_2.wav",
+  "time": 377.13850340136054
+},
+{
+  "action": "stop",
+  "key": "t",
+  "filename": "four_doots_2.wav",
+  "time": 377.1849433106576
+},
+{
+  "action": "start",
+  "key": "e",
+  "playbackRate": 0.7491535384383408,
+  "pan": -0.5257912874221802,
+  "filename": "four_doots_2.wav",
+  "time": 377.21977324263037
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.20492281019687653,
+  "filename": "four_doots_2.wav",
+  "time": 377.21977324263037
+},
+{
+  "action": "stop",
+  "key": "w",
+  "filename": "four_doots_2.wav",
+  "time": 377.28362811791385
+},
+{
+  "action": "start",
+  "key": "t",
+  "playbackRate": 0.8408964152537146,
+  "pan": 0.39853355288505554,
+  "filename": "four_doots_2.wav",
+  "time": 377.3474829931973
+},
+{
+  "action": "stop",
+  "key": "e",
+  "filename": "four_doots_2.wav",
+  "time": 377.4403628117914
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "four_doots_2.wav",
+  "time": 377.5332426303855
+},
+{
+  "action": "stop",
+  "key": "t",
+  "filename": "four_doots_2.wav",
+  "time": 377.54485260770974
+},
+{
+  "action": "start",
+  "key": "t",
+  "playbackRate": 0.8408964152537146,
+  "pan": 0.3082369565963745,
+  "filename": "drumbleh2.wav",
+  "time": 378.5317006802721
+},
+{
+  "action": "start",
+  "key": "w",
+  "playbackRate": 0.7071067811865475,
+  "pan": -0.5113384127616882,
+  "filename": "drumbleh2.wav",
+  "time": 378.5317006802721
+},
+{
+  "action": "start",
+  "key": "e",
+  "playbackRate": 0.7491535384383408,
+  "pan": 0.13458754122257233,
+  "filename": "drumbleh2.wav",
+  "time": 378.5549206349206
+},
+{
+  "action": "stop",
+  "key": "t",
+  "filename": "drumbleh2.wav",
+  "time": 378.5665306122449
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.7009609937667847,
+  "filename": "drumbleh2.wav",
+  "time": 378.6826303854875
+},
+{
+  "action": "start",
+  "key": "t",
+  "playbackRate": 0.8408964152537146,
+  "pan": 0.419130802154541,
+  "filename": "drumbleh2.wav",
+  "time": 378.6942403628118
+},
+{
+  "action": "stop",
+  "key": "w",
+  "filename": "drumbleh2.wav",
+  "time": 378.7406802721088
+},
+{
+  "action": "stop",
+  "key": "e",
+  "filename": "drumbleh2.wav",
+  "time": 378.7755102040816
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "drumbleh2.wav",
+  "time": 378.8451700680272
+},
+{
+  "action": "start",
+  "key": "w",
+  "playbackRate": 0.7071067811865475,
+  "pan": 0.6759389042854309,
+  "filename": "drumbleh2.wav",
+  "time": 378.94965986394556
+},
+{
+  "action": "stop",
+  "key": "t",
+  "filename": "drumbleh2.wav",
+  "time": 378.98448979591836
+},
+{
+  "action": "start",
+  "key": "5",
+  "playbackRate": 1,
+  "pan": -0.3912217319011688,
+  "filename": "drumbleh2.wav",
+  "time": 379.0541496598639
+},
+{
+  "action": "stop",
+  "key": "w",
+  "filename": "drumbleh2.wav",
+  "time": 379.12380952380954
+},
+{
+  "action": "start",
+  "key": "t",
+  "playbackRate": 0.8408964152537146,
+  "pan": 0.07701541483402252,
+  "filename": "drumbleh2.wav",
+  "time": 379.147029478458
+},
+{
+  "action": "stop",
+  "key": "5",
+  "filename": "drumbleh2.wav",
+  "time": 379.29795918367347
+},
+{
+  "action": "start",
+  "key": "w",
+  "playbackRate": 0.7071067811865475,
+  "pan": 0.23156318068504333,
+  "filename": "drumbleh2.wav",
+  "time": 379.36761904761903
+},
+{
+  "action": "stop",
+  "key": "t",
+  "filename": "drumbleh2.wav",
+  "time": 379.39083900226757
+},
+{
+  "action": "start",
+  "key": "4",
+  "playbackRate": 0.9438743126816935,
+  "pan": 0.8250718116760254,
+  "filename": "drumbleh2.wav",
+  "time": 379.4140589569161
+},
+{
+  "action": "start",
+  "key": "5",
+  "playbackRate": 1,
+  "pan": 0.8663588762283325,
+  "filename": "drumbleh2.wav",
+  "time": 379.4488888888889
+},
+{
+  "action": "start",
+  "key": "t",
+  "playbackRate": 0.8408964152537146,
+  "pan": 0.8563439846038818,
+  "filename": "drumbleh2.wav",
+  "time": 379.5533786848072
+},
+{
+  "action": "stop",
+  "key": "w",
+  "filename": "drumbleh2.wav",
+  "time": 379.6114285714286
+},
+{
+  "action": "stop",
+  "key": "4",
+  "filename": "drumbleh2.wav",
+  "time": 379.6346485260771
+},
+{
+  "action": "stop",
+  "key": "5",
+  "filename": "drumbleh2.wav",
+  "time": 379.6926984126984
+},
+{
+  "action": "start",
+  "key": "4",
+  "playbackRate": 0.9438743126816935,
+  "pan": 0.839956521987915,
+  "filename": "drumbleh2.wav",
+  "time": 379.8320181405896
+},
+{
+  "action": "start",
+  "key": "5",
+  "playbackRate": 1,
+  "pan": 0.4761168360710144,
+  "filename": "drumbleh2.wav",
+  "time": 379.8320181405896
+},
+{
+  "action": "stop",
+  "key": "t",
+  "filename": "drumbleh2.wav",
+  "time": 379.84362811791385
+},
+{
+  "action": "start",
+  "key": "t",
+  "playbackRate": 0.8408964152537146,
+  "pan": 0.3527567386627197,
+  "filename": "drumbleh2.wav",
+  "time": 380.0061678004535
+},
+{
+  "action": "stop",
+  "key": "4",
+  "filename": "drumbleh2.wav",
+  "time": 380.07582766439907
+},
+{
+  "action": "stop",
+  "key": "5",
+  "filename": "drumbleh2.wav",
+  "time": 380.16870748299317
+},
+{
+  "action": "stop",
+  "key": "t",
+  "filename": "drumbleh2.wav",
+  "time": 380.1919274376417
+},
+{
+  "action": "start",
+  "key": "q",
+  "playbackRate": 0.6674199270850172,
+  "pan": -0.4051326811313629,
+  "filename": "aibassfive.wav",
+  "time": 384.24380952380955
+},
+{
+  "action": "start",
+  "key": "w",
+  "playbackRate": 0.7071067811865475,
+  "pan": -0.13840018212795258,
+  "filename": "aibassfive.wav",
+  "time": 384.3250793650794
+},
+{
+  "action": "start",
+  "key": "e",
+  "playbackRate": 0.7491535384383408,
+  "pan": -0.8624517321586609,
+  "filename": "aibassfive.wav",
+  "time": 384.39473922902494
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": -0.30118271708488464,
+  "filename": "aibassfive.wav",
+  "time": 384.4643990929705
+},
+{
+  "action": "stop",
+  "key": "q",
+  "filename": "aibassfive.wav",
+  "time": 384.48761904761903
+},
+{
+  "action": "stop",
+  "key": "e",
+  "filename": "aibassfive.wav",
+  "time": 384.5340589569161
+},
+{
+  "action": "stop",
+  "key": "w",
+  "filename": "aibassfive.wav",
+  "time": 384.55727891156465
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "aibassfive.wav",
+  "time": 384.661768707483
+},
+{
+  "action": "start",
+  "key": "q",
+  "playbackRate": 0.6674199270850172,
+  "pan": 0.8776609301567078,
+  "filename": "aibassfive.wav",
+  "time": 384.7314285714286
+},
+{
+  "action": "start",
+  "key": "w",
+  "playbackRate": 0.7071067811865475,
+  "pan": 0.7009948492050171,
+  "filename": "aibassfive.wav",
+  "time": 384.7778684807256
+},
+{
+  "action": "start",
+  "key": "e",
+  "playbackRate": 0.7491535384383408,
+  "pan": 0.23453252017498016,
+  "filename": "aibassfive.wav",
+  "time": 384.88235827664397
+},
+{
+  "action": "stop",
+  "key": "q",
+  "filename": "aibassfive.wav",
+  "time": 384.9404081632653
+},
+{
+  "action": "start",
+  "key": "r",
+  "playbackRate": 0.7937005259840998,
+  "pan": 0.1418287307024002,
+  "filename": "aibassfive.wav",
+  "time": 384.9520181405896
+},
+{
+  "action": "stop",
+  "key": "w",
+  "filename": "aibassfive.wav",
+  "time": 384.9984580498866
+},
+{
+  "action": "stop",
+  "key": "e",
+  "filename": "aibassfive.wav",
+  "time": 385.0448979591837
+},
+{
+  "action": "stop",
+  "key": "r",
+  "filename": "aibassfive.wav",
+  "time": 385.0681179138322
+},
+{
+  "action": "start",
+  "key": "a",
+  "playbackRate": 0.5612310241546865,
+  "pan": 0.43462318181991577,
+  "filename": "aidrumfive.wav",
+  "time": 385.48607709750564
+},
+{
+  "action": "start",
+  "key": "s",
+  "playbackRate": 0.5946035575013605,
+  "pan": 0.8753451704978943,
+  "filename": "aidrumfive.wav",
+  "time": 385.5092970521542
+},
+{
+  "action": "start",
+  "key": "d",
+  "playbackRate": 0.6299605249474366,
+  "pan": 0.053734004497528076,
+  "filename": "aidrumfive.wav",
+  "time": 385.5789569160998
+},
+{
+  "action": "stop",
+  "key": "a",
+  "filename": "aidrumfive.wav",
+  "time": 385.63120181405895
+},
+{
+  "action": "start",
+  "key": "f",
+  "playbackRate": 0.6674199270850172,
+  "pan": 0.7676243782043457,
+  "filename": "aidrumfive.wav",
+  "time": 385.64861678004536
+},
+{
+  "action": "stop",
+  "key": "s",
+  "filename": "aidrumfive.wav",
+  "time": 385.7298866213152
+},
+{
+  "action": "stop",
+  "key": "d",
+  "filename": "aidrumfive.wav",
+  "time": 385.77632653061227
+},
+{
+  "action": "start",
+  "key": "a",
+  "playbackRate": 0.5612310241546865,
+  "pan": 0.08901840448379517,
+  "filename": "aidrumfive.wav",
+  "time": 385.88081632653063
+},
+{
+  "action": "stop",
+  "key": "f",
+  "filename": "aidrumfive.wav",
+  "time": 385.89242630385485
+},
+{
+  "action": "start",
+  "key": "s",
+  "playbackRate": 0.5946035575013605,
+  "pan": -0.9704660177230835,
+  "filename": "aidrumfive.wav",
+  "time": 385.9504761904762
+},
+{
+  "action": "start",
+  "key": "d",
+  "playbackRate": 0.6299605249474366,
+  "pan": -0.8077493906021118,
+  "filename": "aidrumfive.wav",
+  "time": 386.0085260770975
+},
+{
+  "action": "stop",
+  "key": "a",
+  "filename": "aidrumfive.wav",
+  "time": 386.05496598639456
+},
+{
+  "action": "start",
+  "key": "f",
+  "playbackRate": 0.6674199270850172,
+  "pan": -0.546658456325531,
+  "filename": "aidrumfive.wav",
+  "time": 386.0781859410431
+},
+{
+  "action": "stop",
+  "key": "s",
+  "filename": "aidrumfive.wav",
+  "time": 386.14784580498866
+},
+{
+  "action": "stop",
+  "key": "d",
+  "filename": "aidrumfive.wav",
+  "time": 386.20589569160995
+},
+{
+  "action": "start",
+  "key": "a",
+  "playbackRate": 0.5612310241546865,
+  "pan": -0.1636909693479538,
+  "filename": "aidrumfive.wav",
+  "time": 386.28716553287984
+},
+{
+  "action": "stop",
+  "key": "f",
+  "filename": "aidrumfive.wav",
+  "time": 386.34521541950113
+},
+{
+  "action": "start",
+  "key": "s",
+  "playbackRate": 0.5946035575013605,
+  "pan": -0.600662350654602,
+  "filename": "aidrumfive.wav",
+  "time": 386.3568253968254
+},
+{
+  "action": "stop",
+  "key": "a",
+  "filename": "aidrumfive.wav",
+  "time": 386.4845351473923
+},
+{
+  "action": "stop",
+  "key": "s",
+  "filename": "aidrumfive.wav",
+  "time": 386.51936507936506
+},
+{
+  "action": "start",
+  "key": "s",
+  "playbackRate": 0.5946035575013605,
+  "pan": 0.8651401400566101,
+  "filename": "tom_rolls_gravy.wav",
+  "time": 386.73995464852607
+},
+{
+  "action": "start",
+  "key": "d",
+  "playbackRate": 0.6299605249474366,
+  "pan": -0.08972152322530746,
+  "filename": "tom_rolls_gravy.wav",
+  "time": 386.73995464852607
+},
+{
+  "action": "start",
+  "key": "f",
+  "playbackRate": 0.6674199270850172,
+  "pan": -0.4109795391559601,
+  "filename": "tom_rolls_gravy.wav",
+  "time": 386.78639455782314
+},
+{
+  "action": "stop",
+  "key": "d",
+  "filename": "tom_rolls_gravy.wav",
+  "time": 386.8096145124717
+},
+{
+  "action": "stop",
+  "key": "s",
+  "filename": "tom_rolls_gravy.wav",
+  "time": 386.8212244897959
+},
+{
+  "action": "start",
+  "key": "s",
+  "playbackRate": 0.5946035575013605,
+  "pan": 0.9867066740989685,
+  "filename": "tom_rolls_gravy.wav",
+  "time": 387.00698412698415
+},
+{
+  "action": "stop",
+  "key": "f",
+  "filename": "tom_rolls_gravy.wav",
+  "time": 387.0418140589569
+},
+{
+  "action": "stop",
+  "key": "s",
+  "filename": "tom_rolls_gravy.wav",
+  "time": 387.0418140589569
+},
+{
+  "action": "start",
+  "key": "f",
+  "playbackRate": 0.6674199270850172,
+  "pan": 0.6495374441146851,
+  "filename": "tom_rolls_gravy.wav",
+  "time": 387.1695238095238
+},
+{
+  "action": "start",
+  "key": "s",
+  "playbackRate": 0.5946035575013605,
+  "pan": 0.9646539092063904,
+  "filename": "tom_rolls_gravy.wav",
+  "time": 387.3901133786848
+},
+{
+  "action": "stop",
+  "key": "f",
+  "filename": "tom_rolls_gravy.wav",
+  "time": 387.4017233560091
+},
+{
+  "action": "start",
+  "key": "f",
+  "playbackRate": 0.6674199270850172,
+  "pan": 0.9477981925010681,
+  "filename": "tom_rolls_gravy.wav",
+  "time": 387.4481632653061
+},
+{
+  "action": "stop",
+  "key": "s",
+  "filename": "tom_rolls_gravy.wav",
+  "time": 387.4481632653061
+},
+{
+  "action": "stop",
+  "key": "f",
+  "filename": "tom_rolls_gravy.wav",
+  "time": 387.6107029478458
+},
+{
+  "action": "start",
+  "key": "f",
+  "playbackRate": 0.6674199270850172,
+  "pan": -0.09137666970491409,
+  "filename": "tom_rolls_gravy.wav",
+  "time": 389.41024943310657
+},
+{
+  "action": "start",
+  "key": "a",
+  "playbackRate": 0.5612310241546865,
+  "pan": -0.8164323568344116,
+  "filename": "tom_rolls_gravy.wav",
+  "time": 389.5379591836735
+},
+{
+  "action": "stop",
+  "key": "f",
+  "filename": "tom_rolls_gravy.wav",
+  "time": 389.6540589569161
+},
+{
+  "action": "start",
+  "key": "s",
+  "playbackRate": 0.5946035575013605,
+  "pan": -0.8303526639938354,
+  "filename": "tom_rolls_gravy.wav",
+  "time": 389.6772789115646
+},
+{
+  "action": "start",
+  "key": "d",
+  "playbackRate": 0.6299605249474366,
+  "pan": -0.200540691614151,
+  "filename": "tom_rolls_gravy.wav",
+  "time": 389.70049886621314
+},
+{
+  "action": "stop",
+  "key": "a",
+  "filename": "tom_rolls_gravy.wav",
+  "time": 389.73532879818595
+},
+{
+  "action": "stop",
+  "key": "s",
+  "filename": "tom_rolls_gravy.wav",
+  "time": 389.86303854875285
+},
+{
+  "action": "start",
+  "key": "f",
+  "playbackRate": 0.6674199270850172,
+  "pan": 0.1939978450536728,
+  "filename": "tom_rolls_gravy.wav",
+  "time": 389.86303854875285
+},
+{
+  "action": "stop",
+  "key": "d",
+  "filename": "tom_rolls_gravy.wav",
+  "time": 389.9791383219955
+},
+{
+  "action": "stop",
+  "key": "f",
+  "filename": "tom_rolls_gravy.wav",
+  "time": 390.04879818594105
+},
+{
+  "action": "start",
+  "key": "a",
+  "playbackRate": 0.5612310241546865,
+  "pan": -0.2079983651638031,
+  "filename": "tom_rolls_gravy.wav",
+  "time": 390.0604081632653
+},
+{
+  "action": "start",
+  "key": "s",
+  "playbackRate": 0.5946035575013605,
+  "pan": 0.8025381565093994,
+  "filename": "tom_rolls_gravy.wav",
+  "time": 390.1532879818594
+},
+{
+  "action": "start",
+  "key": "d",
+  "playbackRate": 0.6299605249474366,
+  "pan": 0.8805207014083862,
+  "filename": "tom_rolls_gravy.wav",
+  "time": 390.19972789115644
+},
+{
+  "action": "stop",
+  "key": "a",
+  "filename": "tom_rolls_gravy.wav",
+  "time": 390.23455782312925
+},
+{
+  "action": "start",
+  "key": "f",
+  "playbackRate": 0.6674199270850172,
+  "pan": 0.6595510840415955,
+  "filename": "tom_rolls_gravy.wav",
+  "time": 390.26938775510206
+},
+{
+  "action": "stop",
+  "key": "s",
+  "filename": "tom_rolls_gravy.wav",
+  "time": 390.32743764172335
+},
+{
+  "action": "stop",
+  "key": "d",
+  "filename": "tom_rolls_gravy.wav",
+  "time": 390.3970975056689
+},
+{
+  "action": "stop",
+  "key": "f",
+  "filename": "tom_rolls_gravy.wav",
+  "time": 390.4319274376417
+}
+
+]
