@@ -117,24 +117,9 @@ function play(buffer) {
   source.start();
 }
 
+// @ts-ignore
 window.test = () =>
   render().then((result) => {
     console.log("playing - ", performance.now());
     play(result);
   });
-
-/*
-
-test()
-Promise {<pending>}
-num events: -  663
-distinct_file_names
- Set(40) {'badknock.wav', 'badfragment.wav', 'badloop.wav', 'badlooptwo.wav', 'pump2.wav', …}
-loading files into sound bank -  2321.2000002861023
-finished loading files into sound bank -  3041.1000003814697
-scheduling playback -  3041.300000190735
-start rendering -  3060
-done rendering -  44994.40000009537
-playing -  44994.60000038147
-
-*/
