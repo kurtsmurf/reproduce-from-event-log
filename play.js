@@ -98,13 +98,45 @@ function schedulePlayback(
   const panner = audioContext.createStereoPanner();
   panner.pan.value = pan;
 
-  sourceNode.connect(panner).connect(out);
+  const gain = audioContext.createGain();
+
+  sourceNode.connect(panner).connect(gain).connect(out);
   try {
     if (Number.isNaN(duration)) return; // why?
     sourceNode.start(when, 0, duration);
+    scheduleEnvelope(
+      gain,
+      { start: when, end: when + duration, ramp: 0.1 },
+    );
   } catch (e) {
     console.error(e);
   }
+}
+
+/*
+ *const scheduleEnvelope = (
+  gainNode: GainNode,
+  envelope: {
+    start: number;
+    end: number;
+    ramp: number;
+  },
+) => {
+  gainNode.gain.setValueAtTime(0, envelope.start);
+  gainNode.gain.linearRampToValueAtTime(1, envelope.start + envelope.ramp);
+  gainNode.gain.setValueAtTime(1, envelope.end - envelope.ramp);
+  gainNode.gain.linearRampToValueAtTime(0, envelope.end);
+};
+
+ */
+function scheduleEnvelope(
+  gainNode,
+  envelope,
+) {
+  gainNode.gain.setValueAtTime(0, envelope.start);
+  gainNode.gain.linearRampToValueAtTime(1, envelope.start + envelope.ramp);
+  gainNode.gain.setValueAtTime(1, envelope.end - envelope.ramp);
+  gainNode.gain.linearRampToValueAtTime(0, envelope.end);
 }
 
 function play(buffer) {

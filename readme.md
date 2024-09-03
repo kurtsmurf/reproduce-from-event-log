@@ -26,3 +26,23 @@ play.js:123 playing -  52214
 CPU: Intel i5, 2.70GHz × 4
 
 audio sources manually copied into [./sounds](./sounds) (ignored by git - not included)
+
+## with gain envelope
+
+```log
+test()
+Promise {<pending>}
+play.js:7 num events: -  663
+play.js:15 duration (seconds) -  390.4319274376417
+play.js:32 distinct_file_names 
+ Set(40) {'badknock.wav', 'badfragment.wav', 'badloop.wav', 'badlooptwo.wav', 'pump2.wav', …}
+play.js:36 loading files into sound bank -  6251.099999904633
+play.js:46 finished loading files into sound bank -  6687
+play.js:48 scheduling playback -  6687.099999904633
+play.js:66 start rendering -  6713.300000190735
+play.js:70 done rendering -  81603.69999980927
+play.js:157 playing -  81603.90000009537
+```
+~75 seconds to render same 
+
+CPU: same
